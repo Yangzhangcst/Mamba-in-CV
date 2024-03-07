@@ -66,3 +66,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
 
 
+
+## Contact & Feedback
+If you have any suggestions about this project, feel free to contact me.
+- [e-mail: yzhangcst[at]gmail.com]
+
