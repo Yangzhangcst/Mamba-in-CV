@@ -25,11 +25,14 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
 
 ### Event Cameras
-- (arXiv 2024.02) State Space Models for Event Cameras, [Paper](https://arxiv.org/pdf/2402.15584.pdf) 
+- (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
 
 ### Graph
 - (arXiv 2024.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2402.00789.pdf),[[Code]](https://github.com/bowang-lab/Graph-Mamba)
 - (arXiv 2024.02) Graph Mamba: Towards Learning on Graphs with State Space Models, [[Paper]](https://arxiv.org/pdf/2402.08678.pdf),[[Code]](https://github.com/GraphMamba/GMN)
+
+### LLM
+- (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
 
 ### Medical
 - (arXiv 2024.01) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.04722.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -41,7 +44,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) FD-Vision Mamba for Endoscopic Exposure Correction, [[Paper]](https://arxiv.org/abs/2402.06378)
 - (arXiv 2024.02) Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.07245.pdf),[[Code]](https://github.com/ziyangwang007/Mamba-UNet)
 - (arXiv 2024.02) Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation,[[[Paper]](https://arxiv.org/pdf/2402.08506.pdf)
-- (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation,[[[Paper]](https://arxiv.org/pdf/2402.10887.pdf),[[Code]](https://github.com/ziyangwang007/Mamba-UNet)
+- (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2402.10887.pdf),[[Code]](https://github.com/ziyangwang007/Mamba-UNet)
+- (arXiv 2024.03) MedMamba: Vision Mamba for Medical Image Classification，[[Paper]](https://arxiv.org/pdf/2403.03849.pdf),[[Code]](https://github.com/YubiaoYue/MedMamba)
+- (arXiv 2024.03) MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation，[[Paper]](https://arxiv.org/pdf/2402.18451.pdf),[[Code]](https://github.com/ayanglab/MambaMIR)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
