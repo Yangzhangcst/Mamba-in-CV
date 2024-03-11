@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/08
+**Last updated: 2024/03/11
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -47,6 +47,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2402.10887.pdf),[[Code]](https://github.com/ziyangwang007/Mamba-UNet)
 - (arXiv 2024.03) MedMamba: Vision Mamba for Medical Image Classification，[[Paper]](https://arxiv.org/pdf/2403.03849.pdf),[[Code]](https://github.com/YubiaoYue/MedMamba)
 - (arXiv 2024.03) MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation，[[Paper]](https://arxiv.org/pdf/2402.18451.pdf),[[Code]](https://github.com/ayanglab/MambaMIR)
+- (arXiv 2024.03) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models，[[Paper]](https://arxiv.org/pdf/2403.05160.pdf)
+- (arXiv 2024.03) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.05246.pdf),[[Code]](https://github.com/MrBlankness/LightM-UNet)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
