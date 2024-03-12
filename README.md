@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/11
+**Last updated: 2024/03/12
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -49,6 +49,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation，[[Paper]](https://arxiv.org/pdf/2402.18451.pdf),[[Code]](https://github.com/ayanglab/MambaMIR)
 - (arXiv 2024.03) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models，[[Paper]](https://arxiv.org/pdf/2403.05160.pdf)
 - (arXiv 2024.03) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.05246.pdf),[[Code]](https://github.com/MrBlankness/LightM-UNet)
+- (arXiv 2024.03) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology，[[Paper]](https://arxiv.org/pdf/2403.06800.pdf),[[Code]](https://github.com/isyangshu/MambaMIL)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
@@ -60,6 +61,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Point Cloud
 - (arXiv 2024.02) PointMamba: A Simple State Space Model for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2402.10739.pdf),[[Code]](https://github.com/LMD0311/PointMamba)
 - (arXiv 2024.02) Point Could Mamba: Point Cloud Learning via State Space Model, [[Paper]](https://arxiv.org/pdf/2403.00762.pdf),[[Code]](https://github.com/zhang-tao-whu/PCM)
+- (arXiv 2024.03) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy, [[Paper]](https://arxiv.org/pdf/2403.06467.pdf),[[Code]](https://github.com/IRMVLab/Point-Mamba)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
@@ -71,6 +73,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.01) MambaByte: Token-free Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2401.13660.pdf),[[Code]](https://github.com/lucidrains/MEGABYTE-pytorch)
 - (arXiv 2024.02) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks, [[Paper]](https://arxiv.org/pdf/2402.04248.pdf) 
 - (arXiv 2024.02) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2402.10211.pdf),[[Code]](https://github.com/raunaqbhirangi/hiss/tree/main)
+
+### Video
+- (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
