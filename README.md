@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/12
+**Last updated: 2024/03/15
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -17,6 +17,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining, [[Paper]](https://arxiv.org/pdf/2402.03302.pdf), [[Code]](https://github.com/JiarunLiu/Swin-UMamba)
 - (arXiv 2024.02) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning, [[Paper]](https://arxiv.org/pdf/2402.15761.pdf),[[Code]](https://github.com/ChiShengChen/ResVMamba)
 - (arXiv 2024.02) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data, [[Paper]](https://arxiv.org/pdf/2402.05892.pdf) 
+- (arXiv 2024.03) LocalMamba: Visual State Space Model with Windowed Selective Scan, [[Paper]](https://arxiv.org/pdf/2403.09338.pdf), [[Code]](https://github.com/hunto/LocalMamba)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
@@ -26,6 +27,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
+
+### Gesture
+- (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
 
 ### Graph
 - (arXiv 2024.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2402.00789.pdf),[[Code]](https://github.com/bowang-lab/Graph-Mamba)
@@ -76,6 +80,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Video
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
+- (arXiv 2024.03) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.09626.pdf),[[Code]](https://github.com/OpenGVLab/video-mamba-suite)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
