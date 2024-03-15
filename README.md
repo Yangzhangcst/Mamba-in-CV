@@ -54,6 +54,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models，[[Paper]](https://arxiv.org/pdf/2403.05160.pdf)
 - (arXiv 2024.03) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.05246.pdf),[[Code]](https://github.com/MrBlankness/LightM-UNet)
 - (arXiv 2024.03) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology，[[Paper]](https://arxiv.org/pdf/2403.06800.pdf),[[Code]](https://github.com/isyangshu/MambaMIL)
+- (arXiv 2024.03) VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.09157.pdf),[[Code]](https://github.com/nobodyplayer1/VM-UNetV2)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
