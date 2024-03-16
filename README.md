@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/15
+**Last updated: 2024/03/16
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -55,10 +55,15 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.05246.pdf),[[Code]](https://github.com/MrBlankness/LightM-UNet)
 - (arXiv 2024.03) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology，[[Paper]](https://arxiv.org/pdf/2403.06800.pdf),[[Code]](https://github.com/isyangshu/MambaMIL)
 - (arXiv 2024.03) VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.09157.pdf),[[Code]](https://github.com/nobodyplayer1/VM-UNetV2)
+- (arXiv 2024.03) MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction，[[Paper]](https://arxiv.org/pdf/2403.08479.pdf),[[Code]](https://github.com/flj19951219/mamba_dose)
+- (arXiv 2024.03) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention，[[Paper]](https://arxiv.org/pdf/2403.07332.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
-- (arXiv 2024.01) BlackMamba: Mixture of Experts for State-Space Models, [[Paper]](https://arxiv.org/pdf/2402.01771.pdf),[[Code]](https://github.com/Zyphra/BlackMamba)
+- (arXiv 2024.01) BlackMamba: Mixture of Experts for State-Space Models, [[Paper]](https://arxiv.org/pdf/2402.01771.pdf), [[Code]](https://github.com/Zyphra/BlackMamba)
+
+### Motion
+- (arXiv 2024.03) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.07487.pdf), [[Code]](https://steve-zeyu-zhang.github.io/MotionMamba)
 
 ### OCR
 - (arXiv 2024.01) LOCOST: State-Space Models for Long Document Abstractive Summarization, [[Paper]](https://arxiv.org/pdf/2401.17919.pdf),[[Code]](https://github.com/flbbb/locost-summarization)
@@ -82,6 +87,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Video
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
 - (arXiv 2024.03) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.09626.pdf),[[Code]](https://github.com/OpenGVLab/video-mamba-suite)
+- (arXiv 2024.03) SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces, [[Paper]](https://arxiv.org/pdf/2403.07711.pdf),[[Code]](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
