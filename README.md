@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/16
+**Last updated: 2024/03/18
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -18,6 +18,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning, [[Paper]](https://arxiv.org/pdf/2402.15761.pdf),[[Code]](https://github.com/ChiShengChen/ResVMamba)
 - (arXiv 2024.02) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data, [[Paper]](https://arxiv.org/pdf/2402.05892.pdf) 
 - (arXiv 2024.03) LocalMamba: Visual State Space Model with Windowed Selective Scan, [[Paper]](https://arxiv.org/pdf/2403.09338.pdf), [[Code]](https://github.com/hunto/LocalMamba)
+- (arXiv 2024.03) EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba, [[Paper]](https://arxiv.org/pdf/2403.09977.pdf), [[Code]](https://github.com/TerryPei/EfficientVMamba)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
