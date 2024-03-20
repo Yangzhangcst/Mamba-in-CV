@@ -4,13 +4,16 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/18
+**Last updated: 2024/03/20
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
 
 ## Recent Papers
+### Adversarial Attack
+- (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
+
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
 - (arXiv 2024.01) VMamba: Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2401.10166.pdf), [[Code]](https://github.com/MzeroMiko/VMamba)
@@ -19,6 +22,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data, [[Paper]](https://arxiv.org/pdf/2402.05892.pdf) 
 - (arXiv 2024.03) LocalMamba: Visual State Space Model with Windowed Selective Scan, [[Paper]](https://arxiv.org/pdf/2403.09338.pdf), [[Code]](https://github.com/hunto/LocalMamba)
 - (arXiv 2024.03) EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba, [[Paper]](https://arxiv.org/pdf/2403.09977.pdf), [[Code]](https://github.com/TerryPei/EfficientVMamba)
+- (arXiv 2024.03) On the low-shot transferability of [V]-Mamba, [[Paper]](https://arxiv.org/pdf/2403.10696.pdf)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
@@ -76,6 +80,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
+- (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
 
 ### State Space Model (SSM)
 - (NeurIPS 2020) HiPPO: Recurrent Memory with Optimal Polynomial Projections, [[Paper]](https://arxiv.org/pdf/2008.07669.pdf),[[Code]](https://github.com/HazyResearch/hippo-code)
