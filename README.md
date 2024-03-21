@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/20
+**Last updated: 2024/03/21
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -29,6 +29,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
+
+### Diffusion
+- (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
@@ -62,6 +65,11 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.09157.pdf),[[Code]](https://github.com/nobodyplayer1/VM-UNetV2)
 - (arXiv 2024.03) MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction，[[Paper]](https://arxiv.org/pdf/2403.08479.pdf),[[Code]](https://github.com/flj19951219/mamba_dose)
 - (arXiv 2024.03) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention，[[Paper]](https://arxiv.org/pdf/2403.07332.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
+- (arXiv 2024.03) ProMamba: Prompt-Mamba for polyp segmentation，[[Paper]](https://arxiv.org/pdf/2403.13660.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
+- (arXiv 2024.03) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.13642.pdf),[[Code]](https://github.com/wurenkai/H-vmunet)
+
+### Multimodal
+- (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
