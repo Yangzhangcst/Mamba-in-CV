@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/21
+**Last updated: 2024/03/25
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -23,6 +23,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) LocalMamba: Visual State Space Model with Windowed Selective Scan, [[Paper]](https://arxiv.org/pdf/2403.09338.pdf), [[Code]](https://github.com/hunto/LocalMamba)
 - (arXiv 2024.03) EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba, [[Paper]](https://arxiv.org/pdf/2403.09977.pdf), [[Code]](https://github.com/TerryPei/EfficientVMamba)
 - (arXiv 2024.03) On the low-shot transferability of [V]-Mamba, [[Paper]](https://arxiv.org/pdf/2403.10696.pdf)
+- (arXiv 2024.03) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series, [[Paper]](https://arxiv.org/pdf/2403.15360.pdf), [[Code]](https://github.com/badripatro/Simba)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
