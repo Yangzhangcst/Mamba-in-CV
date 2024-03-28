@@ -87,13 +87,18 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Point Could Mamba: Point Cloud Learning via State Space Model, [[Paper]](https://arxiv.org/pdf/2403.00762.pdf),[[Code]](https://github.com/zhang-tao-whu/PCM)
 - (arXiv 2024.03) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy, [[Paper]](https://arxiv.org/pdf/2403.06467.pdf),[[Code]](https://github.com/IRMVLab/Point-Mamba)
 
+### Reconstruction
+- (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
+
+### Referring
+- (arXiv 2024.03) ReMamber: Referring Image Segmentation with Mamba Twister, [[Paper]](https://arxiv.org/pdf/2403.17839.pdf)
+
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
 - (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
 
 ### Spatiotemporal Forecasting
 - (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
-
 
 ### State Space Model (SSM)
 - (NeurIPS 2020) HiPPO: Recurrent Memory with Optimal Polynomial Projections, [[Paper]](https://arxiv.org/pdf/2008.07669.pdf),[[Code]](https://github.com/HazyResearch/hippo-code)
