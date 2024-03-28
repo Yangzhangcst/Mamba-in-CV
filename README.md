@@ -24,6 +24,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba, [[Paper]](https://arxiv.org/pdf/2403.09977.pdf), [[Code]](https://github.com/TerryPei/EfficientVMamba)
 - (arXiv 2024.03) On the low-shot transferability of [V]-Mamba, [[Paper]](https://arxiv.org/pdf/2403.10696.pdf)
 - (arXiv 2024.03) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series, [[Paper]](https://arxiv.org/pdf/2403.15360.pdf), [[Code]](https://github.com/badripatro/Simba)
+- (arXiv 2024.03) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2403.17695.pdf),[[Code]](https://github.com/ChenhongyiYang/PlainMamba)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
@@ -68,6 +69,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention，[[Paper]](https://arxiv.org/pdf/2403.07332.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
 - (arXiv 2024.03) ProMamba: Prompt-Mamba for polyp segmentation，[[Paper]](https://arxiv.org/pdf/2403.13660.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
 - (arXiv 2024.03) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.13642.pdf),[[Code]](https://github.com/wurenkai/H-vmunet)
+- (arXiv 2024.03) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.17701.pdf)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
