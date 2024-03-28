@@ -70,6 +70,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) ProMamba: Prompt-Mamba for polyp segmentation，[[Paper]](https://arxiv.org/pdf/2403.13660.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
 - (arXiv 2024.03) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.13642.pdf),[[Code]](https://github.com/wurenkai/H-vmunet)
 - (arXiv 2024.03) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.17701.pdf)
+- (arXiv 2024.03) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion，[[Paper]](https://arxiv.org/pdf/2403.17432.pdf)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
