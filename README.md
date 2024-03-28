@@ -99,6 +99,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
 - (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
+- (arXiv 2024.03) Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2403.17902.pdf)
 
 ### Spatiotemporal Forecasting
 - (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
