@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/25
+**Last updated: 2024/03/28
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -90,6 +90,10 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
 - (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
+
+### Spatiotemporal Forecasting
+- (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
+
 
 ### State Space Model (SSM)
 - (NeurIPS 2020) HiPPO: Recurrent Memory with Optimal Polynomial Projections, [[Paper]](https://arxiv.org/pdf/2008.07669.pdf),[[Code]](https://github.com/HazyResearch/hippo-code)
