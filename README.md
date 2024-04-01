@@ -4,13 +4,16 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/03/29
+**Last updated: 2024/04/01
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
 
 ## Recent Papers
+### Action
+- (arXiv 2024.03) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.20183.pdf)
+
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
 
@@ -25,6 +28,10 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) On the low-shot transferability of [V]-Mamba, [[Paper]](https://arxiv.org/pdf/2403.10696.pdf)
 - (arXiv 2024.03) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series, [[Paper]](https://arxiv.org/pdf/2403.15360.pdf), [[Code]](https://github.com/badripatro/Simba)
 - (arXiv 2024.03) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2403.17695.pdf),[[Code]](https://github.com/ChenhongyiYang/PlainMamba)
+- (arXiv 2024.03) MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection, [[Paper]](https://arxiv.org/pdf/2403.19888.pdf),[[Code]](https://github.com/MambaMixer/M2)
+
+### Deblurring
+- (arXiv 2024.03) Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.20106.pdf),[[Code]](https://github.com/MambaMixer/M2)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
@@ -71,6 +78,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.13642.pdf),[[Code]](https://github.com/wurenkai/H-vmunet)
 - (arXiv 2024.03) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.17701.pdf)
 - (arXiv 2024.03) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion，[[Paper]](https://arxiv.org/pdf/2403.17432.pdf)
+- (arXiv 2024.03) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation，[[Paper]](https://arxiv.org/pdf/2403.20035.pdf),[[Code]](https://github.com/wurenkai/UltraLight-VM-UNet)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
