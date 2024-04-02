@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/01
+**Last updated: 2024/04/02
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -66,19 +66,20 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2402.07245.pdf),[[Code]](https://github.com/ziyangwang007/Mamba-UNet)
 - (arXiv 2024.02) Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation,[[[Paper]](https://arxiv.org/pdf/2402.08506.pdf)
 - (arXiv 2024.02) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2402.10887.pdf),[[Code]](https://github.com/ziyangwang007/Mamba-UNet)
-- (arXiv 2024.03) MedMamba: Vision Mamba for Medical Image Classification，[[Paper]](https://arxiv.org/pdf/2403.03849.pdf),[[Code]](https://github.com/YubiaoYue/MedMamba)
+- (arXiv 2024.03) MedMamba: Vision Mamba for Medical Image Classification,[[Paper]](https://arxiv.org/pdf/2403.03849.pdf),[[Code]](https://github.com/YubiaoYue/MedMamba)
 - (arXiv 2024.03) MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation，[[Paper]](https://arxiv.org/pdf/2402.18451.pdf),[[Code]](https://github.com/ayanglab/MambaMIR)
-- (arXiv 2024.03) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models，[[Paper]](https://arxiv.org/pdf/2403.05160.pdf)
-- (arXiv 2024.03) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.05246.pdf),[[Code]](https://github.com/MrBlankness/LightM-UNet)
-- (arXiv 2024.03) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology，[[Paper]](https://arxiv.org/pdf/2403.06800.pdf),[[Code]](https://github.com/isyangshu/MambaMIL)
-- (arXiv 2024.03) VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.09157.pdf),[[Code]](https://github.com/nobodyplayer1/VM-UNetV2)
-- (arXiv 2024.03) MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction，[[Paper]](https://arxiv.org/pdf/2403.08479.pdf),[[Code]](https://github.com/flj19951219/mamba_dose)
-- (arXiv 2024.03) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention，[[Paper]](https://arxiv.org/pdf/2403.07332.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
-- (arXiv 2024.03) ProMamba: Prompt-Mamba for polyp segmentation，[[Paper]](https://arxiv.org/pdf/2403.13660.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
-- (arXiv 2024.03) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.13642.pdf),[[Code]](https://github.com/wurenkai/H-vmunet)
-- (arXiv 2024.03) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation，[[Paper]](https://arxiv.org/pdf/2403.17701.pdf)
-- (arXiv 2024.03) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion，[[Paper]](https://arxiv.org/pdf/2403.17432.pdf)
-- (arXiv 2024.03) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation，[[Paper]](https://arxiv.org/pdf/2403.20035.pdf),[[Code]](https://github.com/wurenkai/UltraLight-VM-UNet)
+- (arXiv 2024.03) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models,[[Paper]](https://arxiv.org/pdf/2403.05160.pdf)
+- (arXiv 2024.03) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2403.05246.pdf),[[Code]](https://github.com/MrBlankness/LightM-UNet)
+- (arXiv 2024.03) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology,[[Paper]](https://arxiv.org/pdf/2403.06800.pdf),[[Code]](https://github.com/isyangshu/MambaMIL)
+- (arXiv 2024.03) VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2403.09157.pdf),[[Code]](https://github.com/nobodyplayer1/VM-UNetV2)
+- (arXiv 2024.03) MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction,[[Paper]](https://arxiv.org/pdf/2403.08479.pdf),[[Code]](https://github.com/flj19951219/mamba_dose)
+- (arXiv 2024.03) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention,[[Paper]](https://arxiv.org/pdf/2403.07332.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
+- (arXiv 2024.03) ProMamba: Prompt-Mamba for polyp segmentation,[[Paper]](https://arxiv.org/pdf/2403.13660.pdf),[[Code]](https://github.com/wjh892521292/LMa-UNet)
+- (arXiv 2024.03) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2403.13642.pdf),[[Code]](https://github.com/wurenkai/H-vmunet)
+- (arXiv 2024.03) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2403.17701.pdf)
+- (arXiv 2024.03) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion,[[Paper]](https://arxiv.org/pdf/2403.17432.pdf)
+- (arXiv 2024.03) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation,[[Paper]](https://arxiv.org/pdf/2403.20035.pdf),[[Code]](https://github.com/wurenkai/UltraLight-VM-UNet)
+- (arXiv 2024.04) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation,[[Paper]](https://arxiv.org/pdf/2404.01065.pdf),[[Code]](https://github.com/isbrycee/T-Mamba)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
@@ -127,6 +128,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
 - (arXiv 2024.03) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.09626.pdf),[[Code]](https://github.com/OpenGVLab/video-mamba-suite)
 - (arXiv 2024.03) SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces, [[Paper]](https://arxiv.org/pdf/2403.07711.pdf),[[Code]](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)
+- (arXiv 2024.04) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2404.01174.pdf)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
