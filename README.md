@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/02
+**Last updated: 2024/04/03
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -51,6 +51,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Graph
 - (arXiv 2024.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2402.00789.pdf),[[Code]](https://github.com/bowang-lab/Graph-Mamba)
 - (arXiv 2024.02) Graph Mamba: Towards Learning on Graphs with State Space Models, [[Paper]](https://arxiv.org/pdf/2402.08678.pdf),[[Code]](https://github.com/GraphMamba/GMN)
+
+### Hyperpsectral
+- (arXiv 2024.04) HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
