@@ -112,6 +112,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) RSMamba: Remote Sensing Image Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2403.19654.pdf),[[Code]](https://github.com/KyanChen/RSMamba)
 - (arXiv 2024.04) RS-Mamba for Large Remote Sensing Image Dense Prediction, [[Paper]](https://arxiv.org/pdf/2404.02668.pdf),[[Code]](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)
 - (arXiv 2024.04) RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.02457.pdf),[[Code]](https://github.com/sstary/SSRS)
+- (arXiv 2024.04) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.01705.pdf),[[Code]](https://github.com/zhuqinfeng1999/Samba)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
