@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/04
+**Last updated: 2024/04/05
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -138,7 +138,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
-
+- (arXiv 2024.04) InsectMamba: Insect Pest Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03611.pdf)
 
 
 ## Contact & Feedback
