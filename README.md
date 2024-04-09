@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/08
+**Last updated: 2024/04/09
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -107,6 +107,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Referring
 - (arXiv 2024.03) ReMamber: Referring Image Segmentation with Mamba Twister, [[Paper]](https://arxiv.org/pdf/2403.17839.pdf)
+
+### Registration
+- (arXiv 2024.04) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration, [[Paper]](https://arxiv.org/pdf/2404.05105.pdf),[[Code]](https://github.com/ziyangwang007/VMambaMorph)
 
 ### Remote Sensing
 - (arXiv 2024.03) RSMamba: Remote Sensing Image Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2403.19654.pdf),[[Code]](https://github.com/KyanChen/RSMamba)
