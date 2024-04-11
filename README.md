@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/09
+**Last updated: 2024/04/11
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -16,6 +16,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
+
+### Anomaly Detection
+- (arXiv 2024.04) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2404.06564.pdf), [[Code]](https://github.com/lewandofskee/MambaAD)
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -101,6 +104,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) PointMamba: A Simple State Space Model for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2402.10739.pdf),[[Code]](https://github.com/LMD0311/PointMamba)
 - (arXiv 2024.02) Point Could Mamba: Point Cloud Learning via State Space Model, [[Paper]](https://arxiv.org/pdf/2403.00762.pdf),[[Code]](https://github.com/zhang-tao-whu/PCM)
 - (arXiv 2024.03) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy, [[Paper]](https://arxiv.org/pdf/2403.06467.pdf),[[Code]](https://github.com/IRMVLab/Point-Mamba)
+- (arXiv 2024.04) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2404.07106.pdf)
 
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
