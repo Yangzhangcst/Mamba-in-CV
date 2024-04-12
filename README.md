@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/11
+**Last updated: 2024/04/12
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -47,6 +47,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
+
+### Fusion
+- (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
 
 ### Gesture
 - (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
