@@ -92,6 +92,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion,[[Paper]](https://arxiv.org/pdf/2403.17432.pdf)
 - (arXiv 2024.03) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation,[[Paper]](https://arxiv.org/pdf/2403.20035.pdf),[[Code]](https://github.com/wurenkai/UltraLight-VM-UNet)
 - (arXiv 2024.04) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation,[[Paper]](https://arxiv.org/pdf/2404.01065.pdf),[[Code]](https://github.com/isbrycee/T-Mamba)
+- (arXiv 2024.04) ViM-UNet: Vision Mamba for Biomedical Segmentation,[[Paper]](https://arxiv.org/pdf/2404.07705.pdf),[[Code]](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
