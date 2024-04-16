@@ -40,6 +40,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
 
+### Deraining
+- (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
+
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
 
@@ -56,6 +59,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
 - (arXiv 2024.04) MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion, [[Paper]](https://arxiv.org/pdf/2404.08406.pdf) 
 - (arXiv 2024.04) FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba, [[Paper]](https://arxiv.org/pdf/2404.09498.pdf)
+- (arXiv 2024.04) A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion, [[Paper]](https://arxiv.org/pdf/2404.09293.pdf)
 
 ### Gesture
 - (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
