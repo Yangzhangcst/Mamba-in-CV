@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/15
+**Last updated: 2024/04/16
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -55,6 +55,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Fusion
 - (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
 - (arXiv 2024.04) MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion, [[Paper]](https://arxiv.org/pdf/2404.08406.pdf) 
+- (arXiv 2024.04) FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba, [[Paper]](https://arxiv.org/pdf/2404.09498.pdf)
 
 ### Gesture
 - (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
@@ -66,6 +67,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Hyperpsectral
 - (arXiv 2024.04) HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
 - (arXiv 2024.04) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.08489.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
+- (arXiv 2024.04) HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising, [[Paper]](https://arxiv.org/pdf/2404.09697.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
