@@ -9,6 +9,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
+## Survey
+- (arXiv 2024.04) State Space Model for New-Generation Network Alternative to Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2404.09516.pdf), [[Project]](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
+
 
 ## Recent Papers
 ### Action
@@ -45,6 +48,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
+- (arXiv 2024.04) Fusion-Mamba for Cross-modality Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09146.pdf)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
