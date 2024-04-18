@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/16
+**Last updated: 2024/04/18
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -108,15 +108,17 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) ViM-UNet: Vision Mamba for Biomedical Segmentation,[[Paper]](https://arxiv.org/pdf/2404.07705.pdf),[[Code]](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
 - (arXiv 2024.04) SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction,[[Paper]](https://arxiv.org/pdf/2404.08027.pdf)
 
-### Multimodal
-- (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
-
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
 - (arXiv 2024.01) BlackMamba: Mixture of Experts for State-Space Models, [[Paper]](https://arxiv.org/pdf/2402.01771.pdf), [[Code]](https://github.com/Zyphra/BlackMamba)
 
 ### Motion
 - (arXiv 2024.03) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.07487.pdf), [[Code]](https://steve-zeyu-zhang.github.io/MotionMamba)
+- (arXiv 2024.04) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion, [[Paper]](https://arxiv.org/pdf/2404.11375.pdf)
+- (arXiv 2024.04) HumMUSS: Human Motion Understanding using State Space Models, [[Paper]](https://arxiv.org/pdf/2404.10880.pdf)
+
+### Multimodal
+- (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 
 ### OCR
 - (arXiv 2024.01) LOCOST: State-Space Models for Long Document Abstractive Summarization, [[Paper]](https://arxiv.org/pdf/2401.17919.pdf),[[Code]](https://github.com/flbbb/locost-summarization)
