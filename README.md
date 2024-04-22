@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/19
+**Last updated: 2024/04/22
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -117,6 +117,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.07487.pdf), [[Code]](https://steve-zeyu-zhang.github.io/MotionMamba)
 - (arXiv 2024.04) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion, [[Paper]](https://arxiv.org/pdf/2404.11375.pdf)
 - (arXiv 2024.04) HumMUSS: Human Motion Understanding using State Space Models, [[Paper]](https://arxiv.org/pdf/2404.10880.pdf)
+- (arXiv 2024.04) MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model, [[Paper]](https://arxiv.org/pdf/2404.12794.pdf), [[Code]](https://github.com/Terminal-K/MambaMOS)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
