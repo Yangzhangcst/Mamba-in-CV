@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/22
+**Last updated: 2024/04/23
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -55,6 +55,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
+
+### Enhancement
+- (arXiv 2024.04) MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2404/2404.13884.pdf),[[Code]](https://github.com/1024AILab/MambaUIE)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
