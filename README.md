@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/23
+**Last updated: 2024/04/24
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -134,6 +134,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Point Could Mamba: Point Cloud Learning via State Space Model, [[Paper]](https://arxiv.org/pdf/2403.00762.pdf),[[Code]](https://github.com/zhang-tao-whu/PCM)
 - (arXiv 2024.03) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy, [[Paper]](https://arxiv.org/pdf/2403.06467.pdf),[[Code]](https://github.com/IRMVLab/Point-Mamba)
 - (arXiv 2024.04) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2404.07106.pdf)
+- (arXiv 2024.04) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.14966.pdf)
 
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
