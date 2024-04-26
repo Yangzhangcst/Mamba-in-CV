@@ -4,12 +4,13 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/25
+**Last updated: 2024/04/26
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
 ## Survey
+- (arXiv 2024.04) Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges, [[Paper]](https://arxiv.org/pdf/2404.16112.pdf), [[Project]](https://github.com/badripatro/mamba360)
 - (arXiv 2024.04) A Survey on Visual Mamba, [[Paper]](https://arxiv.org/pdf/2404.15956.pdf)
 - (arXiv 2024.04) State Space Model for New-Generation Network Alternative to Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2404.09516.pdf), [[Project]](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
 
@@ -50,6 +51,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
 - (arXiv 2024.04) Fusion-Mamba for Cross-modality Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09146.pdf)
+- (arXiv 2024.04) CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2404.16302.pdf),[[Code]](https://github.com/lhy-zjut/CFMW)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
