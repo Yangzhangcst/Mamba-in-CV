@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/26
+**Last updated: 2024/04/29
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -114,7 +114,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation,[[Paper]](https://arxiv.org/pdf/2404.01065.pdf),[[Code]](https://github.com/isbrycee/T-Mamba)
 - (arXiv 2024.04) ViM-UNet: Vision Mamba for Biomedical Segmentation,[[Paper]](https://arxiv.org/pdf/2404.07705.pdf),[[Code]](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
 - (arXiv 2024.04) SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction,[[Paper]](https://arxiv.org/pdf/2404.08027.pdf)
-- (arXiv 2024.04) Vim4Path: Self-Supervised Vision Mamba for Histopathology Images,[[Paper]](https://arxiv.org/pdf/2404.13222.pdf),,[[Code]](https://github.com/AtlasAnalyticsLab/Vim4Path)
+- (arXiv 2024.04) Vim4Path: Self-Supervised Vision Mamba for Histopathology Images,[[Paper]](https://arxiv.org/pdf/2404.13222.pdf),[[Code]](https://github.com/AtlasAnalyticsLab/Vim4Path)
+- (arXiv 2024.04) Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model,[[Paper]](https://arxiv.org/pdf/2404.17484.pdf)
 
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
