@@ -13,6 +13,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges, [[Paper]](https://arxiv.org/pdf/2404.16112.pdf), [[Project]](https://github.com/badripatro/mamba360)
 - (arXiv 2024.04) A Survey on Visual Mamba, [[Paper]](https://arxiv.org/pdf/2404.15956.pdf)
 - (arXiv 2024.04) State Space Model for New-Generation Network Alternative to Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2404.09516.pdf), [[Project]](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
+- (arXiv 2024.05) A Survey on Vision Mamba: Models, Applications and Challenges, [[Paper]](https://arxiv.org/pdf/2404.18861.pdf), [[Project]](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)
 
 
 ## Recent Papers
