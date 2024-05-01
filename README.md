@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/04/29
+**Last updated: 2024/05/01
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -155,6 +155,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.02457.pdf),[[Code]](https://github.com/sstary/SSRS)
 - (arXiv 2024.04) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.01705.pdf),[[Code]](https://github.com/zhuqinfeng1999/Samba)
 - (arXiv 2024.04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03425.pdf),[[Code]](https://github.com/ChenHongruixuan/MambaCD)
+- (arXiv 2024.05) RSCaMa: Remote Sensing Image Change Captioning with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18895.pdf),[[Code]](https://github.com/Chen-Yang-Liu/RSCaMa)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
