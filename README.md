@@ -84,6 +84,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
 - (arXiv 2024.04) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.08489.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
 - (arXiv 2024.04) HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising, [[Paper]](https://arxiv.org/pdf/2404.09697.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
+- (arXiv 2024.05) Spectral-Spatial Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.18401.pdf)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
