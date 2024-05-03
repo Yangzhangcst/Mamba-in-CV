@@ -136,6 +136,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 
+### OOD
+- (arXiv 2024.05) CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation，[[Paper]](https://arxiv.org/pdf/2404.19394.pdf),[[Code]](https://github.com/raytrun/mamba-clip)
+
 ### OCR
 - (arXiv 2024.01) LOCOST: State-Space Models for Long Document Abstractive Summarization, [[Paper]](https://arxiv.org/pdf/2401.17919.pdf),[[Code]](https://github.com/flbbb/locost-summarization)
 
