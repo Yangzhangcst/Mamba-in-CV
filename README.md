@@ -53,6 +53,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
 - (arXiv 2024.04) Fusion-Mamba for Cross-modality Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09146.pdf)
 - (arXiv 2024.04) CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2404.16302.pdf),[[Code]](https://github.com/lhy-zjut/CFMW)
+- (arXiv 2024.05) SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients, [[Paper]](https://arxiv.org/pdf/2405.01699.pdf),[[Code]](https://github.com/yash2629/S.O.A.R)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -66,6 +67,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
 - (arXiv 2024.04) MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking, [[Paper]](https://arxiv.org/pdf/2404.12083.pdf) 
+
+### Face
+- (arXiv 2024.05) FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space, [[Paper]](https://arxiv.org/pdf/2405.01828.pdf),[[Code]](https://github.com/SwjtuMa/FER-YOLO-Mamba) 
 
 ### Fusion
 - (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
@@ -86,6 +90,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising, [[Paper]](https://arxiv.org/pdf/2404.09697.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
 - (arXiv 2024.05) Spectral-Spatial Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.18401.pdf)
 - (arXiv 2024.05) S2Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.18213.pdf),[[Code]](https://github.com/PURE-melo/S2Mamba)
+- (arXiv 2024.05) SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2405.01726.pdf),[[Code]](https://github.com/lronkitty/SSUMamba)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
