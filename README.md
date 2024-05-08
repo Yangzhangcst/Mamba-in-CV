@@ -156,6 +156,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2404.07106.pdf)
 - (arXiv 2024.04) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.14966.pdf)
 
+### Recognition
+- (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
+ 
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
 
