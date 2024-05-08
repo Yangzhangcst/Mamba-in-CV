@@ -125,6 +125,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction,[[Paper]](https://arxiv.org/pdf/2404.08027.pdf)
 - (arXiv 2024.04) Vim4Path: Self-Supervised Vision Mamba for Histopathology Images,[[Paper]](https://arxiv.org/pdf/2404.13222.pdf),[[Code]](https://github.com/AtlasAnalyticsLab/Vim4Path)
 - (arXiv 2024.04) Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model,[[Paper]](https://arxiv.org/pdf/2404.17484.pdf)
+- (arXiv 2024.05) AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation,[[Paper]](https://arxiv.org/pdf/2405.03011.pdf),[[Code]](https://github.com/vietthanh2710/AC-MambaSeg)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
