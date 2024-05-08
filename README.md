@@ -192,6 +192,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks, [[Paper]](https://arxiv.org/pdf/2402.04248.pdf) 
 - (arXiv 2024.02) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2402.10211.pdf),[[Code]](https://github.com/raunaqbhirangi/hiss/tree/main)
 
+### Super-Resolution
+- (arXiv 2024.05) DVMSR: Distillated Vision Mamba for Efficient Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.03008.pdf),[[Code]](https://github.com/nathan66666/DVMSR)
+
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 
