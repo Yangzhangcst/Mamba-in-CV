@@ -201,6 +201,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.09626.pdf),[[Code]](https://github.com/OpenGVLab/video-mamba-suite)
 - (arXiv 2024.03) SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces, [[Paper]](https://arxiv.org/pdf/2403.07711.pdf),[[Code]](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)
 - (arXiv 2024.04) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2404.01174.pdf)
+- (arXiv 2024.05) Matten: Video Generation with Mamba-Attention, [[Paper]](https://arxiv.org/pdf/2405.03025.pdf)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
