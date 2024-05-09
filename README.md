@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/05/08
+**Last updated: 2024/05/09
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -14,6 +14,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) A Survey on Visual Mamba, [[Paper]](https://arxiv.org/pdf/2404.15956.pdf)
 - (arXiv 2024.04) State Space Model for New-Generation Network Alternative to Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2404.09516.pdf), [[Project]](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
 - (arXiv 2024.05) A Survey on Vision Mamba: Models, Applications and Challenges, [[Paper]](https://arxiv.org/pdf/2404.18861.pdf), [[Project]](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)
+- (arXiv 2024.05) Vision Mamba: A Comprehensive Survey and Taxonomy, [[Paper]](https://arxiv.org/pdf/2405.04404.pdf), [[Project]](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
 
 
 ## Recent Papers
@@ -27,6 +28,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Anomaly Detection
 - (arXiv 2024.04) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2404.06564.pdf), [[Code]](https://github.com/lewandofskee/MambaAD)
 
+### Autonomous Driving
+- (arXiv 2024.05) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.04390.pdf)
+
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
 - (arXiv 2024.01) VMamba: Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2401.10166.pdf), [[Code]](https://github.com/MzeroMiko/VMamba)
@@ -39,6 +43,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series, [[Paper]](https://arxiv.org/pdf/2403.15360.pdf), [[Code]](https://github.com/badripatro/Simba)
 - (arXiv 2024.03) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2403.17695.pdf),[[Code]](https://github.com/ChenhongyiYang/PlainMamba)
 - (arXiv 2024.03) MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection, [[Paper]](https://arxiv.org/pdf/2403.19888.pdf),[[Code]](https://github.com/MambaMixer/M2)
+
+### Crowd Counting
+- (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
 
 ### Deblurring
 - (arXiv 2024.03) Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.20106.pdf),[[Code]](https://github.com/MambaMixer/M2)
@@ -126,6 +133,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Vim4Path: Self-Supervised Vision Mamba for Histopathology Images,[[Paper]](https://arxiv.org/pdf/2404.13222.pdf),[[Code]](https://github.com/AtlasAnalyticsLab/Vim4Path)
 - (arXiv 2024.04) Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model,[[Paper]](https://arxiv.org/pdf/2404.17484.pdf)
 - (arXiv 2024.05) AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation,[[Paper]](https://arxiv.org/pdf/2405.03011.pdf),[[Code]](https://github.com/vietthanh2710/AC-MambaSeg)
+- (arXiv 2024.05) HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2405.05007.pdf)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -175,6 +183,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.01705.pdf),[[Code]](https://github.com/zhuqinfeng1999/Samba)
 - (arXiv 2024.04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03425.pdf),[[Code]](https://github.com/ChenHongruixuan/MambaCD)
 - (arXiv 2024.05) RSCaMa: Remote Sensing Image Change Captioning with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18895.pdf),[[Code]](https://github.com/Chen-Yang-Liu/RSCaMa)
+- (arXiv 2024.05) Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.04964.pdf)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
@@ -194,6 +203,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.01) MambaByte: Token-free Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2401.13660.pdf),[[Code]](https://github.com/lucidrains/MEGABYTE-pytorch)
 - (arXiv 2024.02) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks, [[Paper]](https://arxiv.org/pdf/2402.04248.pdf) 
 - (arXiv 2024.02) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2402.10211.pdf),[[Code]](https://github.com/raunaqbhirangi/hiss/tree/main)
+
+### Style Transfer
+- (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
 
 ### Super-Resolution
 - (arXiv 2024.05) DVMSR: Distillated Vision Mamba for Efficient Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.03008.pdf),[[Code]](https://github.com/nathan66666/DVMSR)
