@@ -147,6 +147,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion, [[Paper]](https://arxiv.org/pdf/2404.11375.pdf)
 - (arXiv 2024.04) HumMUSS: Human Motion Understanding using State Space Models, [[Paper]](https://arxiv.org/pdf/2404.10880.pdf)
 - (arXiv 2024.04) MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model, [[Paper]](https://arxiv.org/pdf/2404.12794.pdf), [[Code]](https://github.com/Terminal-K/MambaMOS)
+- (arXiv 2024.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion, [[Paper]](https://arxiv.org/pdf/2405.02844.pdf)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
