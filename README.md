@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/05/10
+**Last updated: 2024/05/14
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -205,6 +205,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.01) MambaByte: Token-free Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2401.13660.pdf),[[Code]](https://github.com/lucidrains/MEGABYTE-pytorch)
 - (arXiv 2024.02) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks, [[Paper]](https://arxiv.org/pdf/2402.04248.pdf) 
 - (arXiv 2024.02) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2402.10211.pdf),[[Code]](https://github.com/raunaqbhirangi/hiss/tree/main)
+- (arXiv 2024.05) MambaOut: Do We Really Need Mamba for Vision, [[Paper]](https://arxiv.org/pdf/2405.07992.pdf),[[Code]](https://github.com/yuweihao/MambaOut)
 
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
