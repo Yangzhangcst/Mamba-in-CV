@@ -172,6 +172,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
+- (arXiv 2024.05) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images, [[Paper]](https://arxiv.org/pdf/2405.07777.pdf),[[Code]](https://github.com/wxy11-27/GMSR)
 
 ### Referring
 - (arXiv 2024.03) ReMamber: Referring Image Segmentation with Mamba Twister, [[Paper]](https://arxiv.org/pdf/2403.17839.pdf)
