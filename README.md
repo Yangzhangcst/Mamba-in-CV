@@ -168,7 +168,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
- 
+- (arXiv 2024.05) OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
+
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
 
