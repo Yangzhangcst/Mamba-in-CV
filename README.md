@@ -71,6 +71,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Enhancement
 - (arXiv 2024.04) MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2404/2404.13884.pdf),[[Code]](https://github.com/1024AILab/MambaUIE)
 - (arXiv 2024.05) Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.03349.pdf),[[Code]](https://github.com/YhuoyuH/RetinexMamba)
+- (arXiv 2024.05) WaterMamba: Visual State Space Model for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.08419.pdf)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
