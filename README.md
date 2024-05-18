@@ -217,6 +217,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Super-Resolution
 - (arXiv 2024.05) DVMSR: Distillated Vision Mamba for Efficient Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.03008.pdf),[[Code]](https://github.com/nathan66666/DVMSR)
+- (arXiv 2024.05) IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model, [[Paper]](https://arxiv.org/pdf/2405.09873.pdf),[[Code]](https://github.com/yongsongH/IRSRMamba)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
