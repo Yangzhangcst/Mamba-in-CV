@@ -44,12 +44,14 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2403.17695.pdf),[[Code]](https://github.com/ChenhongyiYang/PlainMamba)
 - (arXiv 2024.03) MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection, [[Paper]](https://arxiv.org/pdf/2403.19888.pdf),[[Code]](https://github.com/MambaMixer/M2)
 - (arXiv 2024.05) Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2405.14174.pdf),[[Code]](https://github.com/YuHengsss/MSVMamba)
+- (arXiv 2024.05) Scalable Visual State Space Model with Fractal Scanning, [[Paper]](https://arxiv.org/pdf/2405.14480.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
 
 ### Deblurring
 - (arXiv 2024.03) Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.20106.pdf),[[Code]](https://github.com/MambaMixer/M2)
+- (arXiv 2024.05) Efficient Visual State Space Model for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2405.14343.pdf)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
