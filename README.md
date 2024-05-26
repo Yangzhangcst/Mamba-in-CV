@@ -45,6 +45,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection, [[Paper]](https://arxiv.org/pdf/2403.19888.pdf),[[Code]](https://github.com/MambaMixer/M2)
 - (arXiv 2024.05) Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2405.14174.pdf),[[Code]](https://github.com/YuHengsss/MSVMamba)
 - (arXiv 2024.05) Scalable Visual State Space Model with Fractal Scanning, [[Paper]](https://arxiv.org/pdf/2405.14480.pdf)
+- (arXiv 2024.05) Mamba-R: Vision Mamba ALSO Needs Registers, [[Paper]](https://arxiv.org/pdf/2405.14858.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
