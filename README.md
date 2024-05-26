@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/05/21
+**Last updated: 2024/05/26
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -43,6 +43,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series, [[Paper]](https://arxiv.org/pdf/2403.15360.pdf), [[Code]](https://github.com/badripatro/Simba)
 - (arXiv 2024.03) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2403.17695.pdf),[[Code]](https://github.com/ChenhongyiYang/PlainMamba)
 - (arXiv 2024.03) MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection, [[Paper]](https://arxiv.org/pdf/2403.19888.pdf),[[Code]](https://github.com/MambaMixer/M2)
+- (arXiv 2024.05) Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2405.14174.pdf),[[Code]](https://github.com/YuHengsss/MSVMamba)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
@@ -65,6 +66,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
+- (arXiv 2024.05) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/pdf/2405.14224.pdf),[[Code]](https://github.com/tyshiwo1/DiM-DiffusionMamba/)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
@@ -224,13 +226,13 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 
-
 ### Video
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
 - (arXiv 2024.03) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.09626.pdf),[[Code]](https://github.com/OpenGVLab/video-mamba-suite)
 - (arXiv 2024.03) SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces, [[Paper]](https://arxiv.org/pdf/2403.07711.pdf),[[Code]](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)
 - (arXiv 2024.04) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2404.01174.pdf)
 - (arXiv 2024.05) Matten: Video Generation with Mamba-Attention, [[Paper]](https://arxiv.org/pdf/2405.03025.pdf)
+- (arXiv 2024.05) MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models, [[Paper]](https://arxiv.org/pdf/2405.14338.pdf)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
