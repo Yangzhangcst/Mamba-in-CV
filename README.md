@@ -110,6 +110,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
+- (arXiv 2024.05) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models, [[Paper]](https://arxiv.org/pdf/2405.15574),[[Code]](https://github.com/ByungKwanLee/Meteor)
 
 ### Medical
 - (arXiv 2024.01) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.04722.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
