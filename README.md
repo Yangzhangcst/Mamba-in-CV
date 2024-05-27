@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/05/26
+**Last updated: 2024/05/27
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -46,6 +46,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2405.14174.pdf),[[Code]](https://github.com/YuHengsss/MSVMamba)
 - (arXiv 2024.05) Scalable Visual State Space Model with Fractal Scanning, [[Paper]](https://arxiv.org/pdf/2405.14480.pdf)
 - (arXiv 2024.05) Mamba-R: Vision Mamba ALSO Needs Registers, [[Paper]](https://arxiv.org/pdf/2405.14858.pdf)
+
+### Compression
+- (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
@@ -175,6 +178,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy, [[Paper]](https://arxiv.org/pdf/2403.06467.pdf),[[Code]](https://github.com/IRMVLab/Point-Mamba)
 - (arXiv 2024.04) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2404.07106.pdf)
 - (arXiv 2024.04) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.14966.pdf)
+- (arXiv 2024.05) PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2405.15463.pdf),[[Code]](https://github.com/xiaoyao3302/PoinTramba)
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
