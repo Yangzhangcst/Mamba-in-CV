@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/05/27
+**Last updated: 2024/05/28
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -81,6 +81,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2404/2404.13884.pdf),[[Code]](https://github.com/1024AILab/MambaUIE)
 - (arXiv 2024.05) Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.03349.pdf),[[Code]](https://github.com/YhuoyuH/RetinexMamba)
 - (arXiv 2024.05) WaterMamba: Visual State Space Model for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.08419.pdf)
+- (arXiv 2024.05) MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space, [[Paper]](https://arxiv.org/abs/2405.16105.pdf)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
