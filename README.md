@@ -75,6 +75,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
 - (arXiv 2024.05) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/pdf/2405.14224.pdf),[[Code]](https://github.com/tyshiwo1/DiM-DiffusionMamba/)
+- (arXiv 2024.05) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2405.15881.pdf)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
@@ -151,6 +152,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation,[[Paper]](https://arxiv.org/pdf/2405.05007.pdf)
 - (arXiv 2024.05) VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis,[[Paper]](https://arxiv.org/pdf/2405.05667.pdf)
 - (arXiv 2024.05) I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling,[[Paper]](https://arxiv.org/pdf/2405.14022.pdf)
+- (arXiv 2024.05) MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation,[[Paper]](https://arxiv.org/pdf/2405.15925.pdf)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
