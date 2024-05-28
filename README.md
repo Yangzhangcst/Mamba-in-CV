@@ -63,6 +63,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Deraining
 - (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
+- (arXiv 2024.05) Image Deraining with Frequency-Enhanced State Space Model, [[Paper]](https://arxiv.org/pdf/2405.16470.pdf)
 
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
