@@ -47,6 +47,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Scalable Visual State Space Model with Fractal Scanning, [[Paper]](https://arxiv.org/pdf/2405.14480.pdf)
 - (arXiv 2024.05) Mamba-R: Vision Mamba ALSO Needs Registers, [[Paper]](https://arxiv.org/pdf/2405.14858.pdf)
 - (arXiv 2024.05) Demystify Mamba in Vision: A Linear Attention Perspective, [[Paper]](https://arxiv.org/pdf/2405.16605.pdf),[[Code]](https://github.com/LeapLabTHU/MLLA)
+- (arXiv 2024.05) Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain, [[Paper]](https://arxiv.org/pdf/2405.18679.pdf),[[Code]](https://github.com/yws-wxs/Vim-F)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
