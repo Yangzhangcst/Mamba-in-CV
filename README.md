@@ -86,6 +86,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.03349.pdf),[[Code]](https://github.com/YhuoyuH/RetinexMamba)
 - (arXiv 2024.05) WaterMamba: Visual State Space Model for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.08419.pdf)
 - (arXiv 2024.05) MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space, [[Paper]](https://arxiv.org/abs/2405.16105.pdf)
+- (arXiv 2024.06) LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network, [[Paper]](https://arxiv.org/abs/2406.01028.pdf)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
