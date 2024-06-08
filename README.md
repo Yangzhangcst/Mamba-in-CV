@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/06/05
+**Last updated: 2024/06/08
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -213,11 +213,15 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.04964.pdf)
 - (arXiv 2024.05) Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study, [[Paper]](https://arxiv.org/pdf/2405.08493.pdf)
 - (arXiv 2024.05) CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2405.10530.pdf),[[Code]](https://github.com/XiaoBuL/CM-UNet)
+- (arXiv 2024.06) CDMamba: Remote Sensing Image Change Detection with Mamba, [[Paper]](https://arxiv.org/pdf/2406.04207.pdf),[[Code]](https://github.com/zmoka-zht/CDMamba)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
 - (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
 - (arXiv 2024.03) Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2403.17902.pdf)
+
+### Robot
+- (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
 
 ### Semantic Segmentation
 - (arXiv 2024.04) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.04256.pdf),[[Code]](https://github.com/zifuwan/Sigma)
