@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/06/08
+**Last updated: 2024/06/10
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -62,6 +62,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
 - (arXiv 2024.05) RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing, [[Paper]](https://arxiv.org/pdf/2405.10030.pdf)
+
+### Depth
+- (arXiv 2024.06) MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2406.04532.pdf),[[Code]](https://github.com/ionut-grigore99/MambaDepth)
 
 ### Deraining
 - (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
