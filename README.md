@@ -221,6 +221,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study, [[Paper]](https://arxiv.org/pdf/2405.08493.pdf)
 - (arXiv 2024.05) CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2405.10530.pdf),[[Code]](https://github.com/XiaoBuL/CM-UNet)
 - (arXiv 2024.06) CDMamba: Remote Sensing Image Change Detection with Mamba, [[Paper]](https://arxiv.org/pdf/2406.04207.pdf),[[Code]](https://github.com/zmoka-zht/CDMamba)
+- (arXiv 2024.06) HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model, [[Paper]](https://arxiv.org/pdf/2406.05700),[[Code]](https://github.com/RsAI-lab/HDMba)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
