@@ -75,6 +75,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Fusion-Mamba for Cross-modality Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09146.pdf)
 - (arXiv 2024.04) CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions, [[Paper]](https://arxiv.org/pdf/2404.16302.pdf),[[Code]](https://github.com/lhy-zjut/CFMW)
 - (arXiv 2024.05) SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients, [[Paper]](https://arxiv.org/pdf/2405.01699.pdf),[[Code]](https://github.com/yash2629/S.O.A.R)
+- (arXiv 2024.06) Mamba YOLO: SSMs-Based YOLO For Object Detection, [[Paper]](https://arxiv.org/pdf/2406.05835),[[Code]](https://github.com/HZAI-ZJNU/Mamba-YOLO)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -196,6 +197,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion, [[Paper]](https://arxiv.org/pdf/2404.07106.pdf)
 - (arXiv 2024.04) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.14966.pdf)
 - (arXiv 2024.05) PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2405.15463.pdf),[[Code]](https://github.com/xiaoyao3302/PoinTramba)
+- (arXiv 2024.06) PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2406.06069)
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
