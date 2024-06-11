@@ -164,6 +164,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling,[[Paper]](https://arxiv.org/pdf/2405.14022.pdf)
 - (arXiv 2024.05) MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation,[[Paper]](https://arxiv.org/pdf/2405.15925.pdf),[[Code]](https://github.com/chunyuyuan/MUCM-Net)
 - (arXiv 2024.06) MHS-VM: Multi-Head Scanning in Parallel Subspacesfor Vision Mamba,[[Paper]](https://arxiv.org/pdf/2406.05992),[[Code]](https://github.com/PixDeep/MHS-VM)
+- (arXiv 2024.06) Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans,[[Paper]](https://arxiv.org/pdf/2406.05757)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
