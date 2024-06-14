@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/06/13
+**Last updated: 2024/06/14
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -49,7 +49,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Demystify Mamba in Vision: A Linear Attention Perspective, [[Paper]](https://arxiv.org/pdf/2405.16605.pdf),[[Code]](https://github.com/LeapLabTHU/MLLA)
 - (arXiv 2024.05) Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain, [[Paper]](https://arxiv.org/pdf/2405.18679.pdf),[[Code]](https://github.com/yws-wxs/Vim-F)
 - (arXiv 2024.06) Autoregressive Pretraining with Mamba in Vision, [[Paper]](https://arxiv.org/pdf/2406.07537.pdf),[[Code]](https://github.com/OliverRensu/ARM)
-
+- (arXiv 2024.06) Towards Evaluating the Robustness of Visual State Space Models, [[Paper]](https://arxiv.org/pdf/2406.09407.pdf),[[Code]](https://github.com/HashmatShadab/MambaRobustness)
+  
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 
