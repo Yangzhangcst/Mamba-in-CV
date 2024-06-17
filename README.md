@@ -29,7 +29,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2404.06564.pdf), [[Code]](https://github.com/lewandofskee/MambaAD)
 
 ### Assessment
-- (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09637.pdf), [[Code]](https://github.com/kenomo/ilid)
+- (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
 
 ### Autonomous Driving
 - (arXiv 2024.05) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.04390.pdf)
