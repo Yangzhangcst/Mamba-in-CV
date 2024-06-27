@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/06/26
+**Last updated: 2024/06/27
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -207,6 +207,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2405.15463.pdf),[[Code]](https://github.com/xiaoyao3302/PoinTramba)
 - (arXiv 2024.06) PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2406.06069)
 - (arXiv 2024.06) Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2406.06069),[[Code]](https://github.com/gwenzhang/Voxel-Mamba)
+- (arXiv 2024.06) Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2406.17442)
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
