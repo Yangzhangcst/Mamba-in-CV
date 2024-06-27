@@ -247,6 +247,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Semantic Segmentation
 - (arXiv 2024.04) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.04256.pdf),[[Code]](https://github.com/zifuwan/Sigma)
+- (arXiv 2024.06) Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces, [[Paper]](https://arxiv.org/pdf/2404.16518.pdf)
 
 ### Spatiotemporal Forecasting
 - (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
