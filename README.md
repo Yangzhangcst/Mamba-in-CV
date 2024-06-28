@@ -174,6 +174,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) MHS-VM: Multi-Head Scanning in Parallel Subspacesfor Vision Mamba,[[Paper]](https://arxiv.org/pdf/2406.05992),[[Code]](https://github.com/PixDeep/MHS-VM)
 - (arXiv 2024.06) Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans,[[Paper]](https://arxiv.org/pdf/2406.05757)
 - (arXiv 2024.06) Soft Masked Mamba Diffusion Model for CT to MRI Conversion,[[Paper]](https://arxiv.org/abs/2406.15910),[[Code]](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)
+- (arXiv 2024.06) MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion,[[Paper]](https://arxiv.org/abs/2406.18950)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -279,6 +280,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding, [[Paper]](https://arxiv.org/pdf/2404.01174.pdf)
 - (arXiv 2024.05) Matten: Video Generation with Mamba-Attention, [[Paper]](https://arxiv.org/pdf/2405.03025.pdf)
 - (arXiv 2024.05) MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models, [[Paper]](https://arxiv.org/pdf/2405.14338.pdf)
+- (arXiv 2024.06) VideoMambaPro: A Leap Forward for Mamba in Video Understanding, [[Paper]](https://arxiv.org/pdf/2406.19006.pdf),[[Code]](https://github.com/hotfinda/VideoMambaPro)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
