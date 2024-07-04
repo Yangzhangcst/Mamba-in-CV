@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/06/27
+**Last updated: 2024/07/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -281,6 +281,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Matten: Video Generation with Mamba-Attention, [[Paper]](https://arxiv.org/pdf/2405.03025.pdf)
 - (arXiv 2024.05) MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models, [[Paper]](https://arxiv.org/pdf/2405.14338.pdf)
 - (arXiv 2024.06) VideoMambaPro: A Leap Forward for Mamba in Video Understanding, [[Paper]](https://arxiv.org/pdf/2406.19006.pdf),[[Code]](https://github.com/hotfinda/VideoMambaPro)
+- (arXiv 2024.07) VFIMamba: Video Frame Interpolation with State Space Models, [[Paper]](https://arxiv.org/pdf/2407.02315.pdf)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
