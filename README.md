@@ -135,6 +135,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising, [[Paper]](https://arxiv.org/pdf/2405.01726.pdf),[[Code]](https://github.com/lronkitty/SSUMamba)
 - (arXiv 2024.05) Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2405.12003.pdf),[[Code]](https://github.com/zhouweilian1904/Mamba-in-Mamba)
 - (arXiv 2024.06) DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2406.07050.pdf)
+- (arXiv 2024.07) HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model, [[Paper]](https://arxiv.org/pdf/2407.06841.pdf),[[Code]](https://github.com/shendb2022/HTD-Mamba)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
