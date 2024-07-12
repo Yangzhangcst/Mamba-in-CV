@@ -53,7 +53,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain, [[Paper]](https://arxiv.org/pdf/2405.18679.pdf),[[Code]](https://github.com/yws-wxs/Vim-F)
 - (arXiv 2024.06) Autoregressive Pretraining with Mamba in Vision, [[Paper]](https://arxiv.org/pdf/2406.07537.pdf),[[Code]](https://github.com/OliverRensu/ARM)
 - (arXiv 2024.06) Towards Evaluating the Robustness of Visual State Space Models, [[Paper]](https://arxiv.org/pdf/2406.09407.pdf),[[Code]](https://github.com/HashmatShadab/MambaRobustness)
-  
+- (arXiv 2024.06) MambaVision: A Hybrid Mamba-Transformer Vision Backbone, [[Paper]](https://arxiv.org/pdf/2407.08083v1),[[Code]](https://github.com/NVlabs/MambaVision)
+
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 
