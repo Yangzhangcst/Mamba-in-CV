@@ -298,6 +298,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models, [[Paper]](https://arxiv.org/pdf/2405.14338.pdf)
 - (arXiv 2024.06) VideoMambaPro: A Leap Forward for Mamba in Video Understanding, [[Paper]](https://arxiv.org/pdf/2406.19006.pdf),[[Code]](https://github.com/hotfinda/VideoMambaPro)
 - (arXiv 2024.07) VFIMamba: Video Frame Interpolation with State Space Models, [[Paper]](https://arxiv.org/pdf/2407.02315.pdf)
+- (arXiv 2024.07) VideoMamba: Spatio-Temporal Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2407.08476.pdf),[[Code]](https://github.com/jinyjelly/VideoMamba)
 
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
