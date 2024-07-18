@@ -221,6 +221,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2406.06069)
 - (arXiv 2024.06) Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2406.06069),[[Code]](https://github.com/gwenzhang/Voxel-Mamba)
 - (arXiv 2024.06) Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2406.17442)
+- (arXiv 2024.07) Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model, [[Paper]](https://arxiv.org/pdf/2407.12319)
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
