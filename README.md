@@ -141,6 +141,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model, [[Paper]](https://arxiv.org/pdf/2407.06841.pdf),[[Code]](https://github.com/shendb2022/HTD-Mamba)
 - (arXiv 2024.07) GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2407.08255.pdf),[[Code]](https://github.com/ahappyyang/GraphMamba)
 
+### Inpainting
+- (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
+
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
 - (arXiv 2024.05) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models, [[Paper]](https://arxiv.org/pdf/2405.15574),[[Code]](https://github.com/ByungKwanLee/Meteor)
