@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/07/29
+**Last updated: 2024/07/30
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -148,6 +148,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
 - (arXiv 2024.05) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models, [[Paper]](https://arxiv.org/pdf/2405.15574),[[Code]](https://github.com/ByungKwanLee/Meteor)
+- (arXiv 2024.07) ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2, [[Paper]](https://arxiv.org/pdf/2407.19832)
 
 ### Medical
 - (arXiv 2024.01) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.04722.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
