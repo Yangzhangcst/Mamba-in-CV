@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/07/30
+**Last updated: 2024/08/03
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -77,6 +77,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Deraining
 - (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
 - (arXiv 2024.05) Image Deraining with Frequency-Enhanced State Space Model, [[Paper]](https://arxiv.org/pdf/2405.16470.pdf)
+- (arXiv 2024.08) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining, [[Paper]](https://arxiv.org/pdf/2407.21773.pdf),[[Code]](https://github.com/TonyHongtaoWu/RainMamba)
 
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
