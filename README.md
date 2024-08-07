@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/08/03
+**Last updated: 2024/08/07
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -92,6 +92,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/pdf/2405.14224.pdf),[[Code]](https://github.com/tyshiwo1/DiM-DiffusionMamba/)
 - (arXiv 2024.05) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2405.15881.pdf)
 - (arXiv 2024.06) Dimba: Transformer-Mamba Diffusion Models, [[Paper]](https://arxiv.org/pdf/2406.01159),[[Code]](https://dimba-project.github.io/)
+- (arXiv 2024.08) LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba, [[Paper]](https://arxiv.org/pdf/2408.02615)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
@@ -104,6 +105,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network, [[Paper]](https://arxiv.org/abs/2406.01028.pdf)
 - (arXiv 2024.06) PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2406.08444.pdf),[[Code]](https://github.com/weitunglin/pixmamba)
 - (arXiv 2024.07) RESVMUNetX: A Low-Light Enhancement Network Based on VMamba, [[Paper]](https://arxiv.org/abs/2407.09553.pdf)
+- (arXiv 2024.08) Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement, [[Paper]](https://arxiv.org/abs/2408.01276.pdf),[[Code]](https://github.com/AlexZou14/Wave-Mamba)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
@@ -143,6 +145,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2406.07050.pdf)
 - (arXiv 2024.07) HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model, [[Paper]](https://arxiv.org/pdf/2407.06841.pdf),[[Code]](https://github.com/shendb2022/HTD-Mamba)
 - (arXiv 2024.07) GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2407.08255.pdf),[[Code]](https://github.com/ahappyyang/GraphMamba)
+- (arXiv 2024.08) Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01372.pdf),[[Code]](https://github.com/MHassaanButt/MorpMamba)
+- (arXiv 2024.08) WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01231.pdf)
+- (arXiv 2024.08) Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01224.pdf),[[Code]](https://github.com/MHassaanButt/MHA_SS_Mamba)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
@@ -194,6 +199,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) SliceMamba for Medical Image Segmentation,[[Paper]](https://arxiv.org/abs/2407.08481)
 - (arXiv 2024.07) SR-Mamba: Effective Surgical Phase Recognition with State Space Model,[[Paper]](https://arxiv.org/abs/2407.08333),[[Code]](https://github.com/rcao-hk/SR-Mamba)
 - (arXiv 2024.07) GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI,[[Paper]](https://arxiv.org/abs/2407.15719),[[Code]](https://github.com/Tinysqua/GFE-Mamba)
+- (arXiv 2024.08) PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement,[[Paper]](https://arxiv.org/abs/2408.01077)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -291,6 +297,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2402.10211.pdf),[[Code]](https://github.com/raunaqbhirangi/hiss/tree/main)
 - (arXiv 2024.05) MambaOut: Do We Really Need Mamba for Vision, [[Paper]](https://arxiv.org/pdf/2405.07992.pdf),[[Code]](https://github.com/yuweihao/MambaOut)
 - (arXiv 2024.07) VSSD: Vision Mamba with Non-Casual State Space Duality, [[Paper]](https://arxiv.org/pdf/2407.18559.pdf),[[Code]](https://github.com/YuHengsss/VSSD)
+- (arXiv 2024.08) DeMansia: Mamba Never Forgets Any Tokens, [[Paper]](https://arxiv.org/pdf/2408.01986.pdf),[[Code]](https://github.com/catalpaaa/DeMansia)
 
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
