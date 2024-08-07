@@ -86,6 +86,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients, [[Paper]](https://arxiv.org/pdf/2405.01699.pdf),[[Code]](https://github.com/yash2629/S.O.A.R)
 - (arXiv 2024.06) Mamba YOLO: SSMs-Based YOLO For Object Detection, [[Paper]](https://arxiv.org/pdf/2406.05835),[[Code]](https://github.com/HZAI-ZJNU/Mamba-YOLO)
 - (arXiv 2024.08) MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2408.00438)
+- (arXiv 2024.08) MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2408.01037),[[Code]](https://github.com/XiangboGaoBarry/MambaST)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
