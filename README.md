@@ -287,6 +287,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2403.17902.pdf)
 - (arXiv 2024.08) Multi-Scale Representation Learning for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2408.10145.pdf)
 
+### Retrieval
+- (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
+
 ### Robot
 - (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
 - (arXiv 2024.08) OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10618.pdf),[[Code]](https://github.com/jmwang0117/Occ-Mamba)
