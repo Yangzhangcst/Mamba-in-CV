@@ -24,6 +24,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
+- (arXiv 2024.08) Exploring Robustness of Visual State Space model against Backdoor Attacks, [[Paper]](https://arxiv.org/pdf/2408.11679.pdf)
 
 ### Anomaly Detection
 - (arXiv 2024.04) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2404.06564.pdf), [[Code]](https://github.com/lewandofskee/MambaAD)
