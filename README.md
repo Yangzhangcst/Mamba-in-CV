@@ -279,6 +279,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery, [[Paper]](https://arxiv.org/pdf/2406.10828),[[Code]](https://github.com/WangLibo1995/GeoSeg)
 - (arXiv 2024.07) A Mamba-based Siamese Network for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2407.06839),[[Code]](https://github.com/JayParanjape/M-CD)
 - (arXiv 2024.07) DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2407.08132),[[Code]](https://github.com/Another-0/DMM)
+- (arXiv 2024.08) UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2408.11545),[[Code]](https://github.com/EnzeZhu2001/UNetMamba)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
