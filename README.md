@@ -37,7 +37,6 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.04390.pdf)
 - (arXiv 2024.08) MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering, [[Paper]](https://arxiv.org/pdf/2408.11464.pdf), [[Code]](https://github.com/Hub-Tian/MambaOcc)
 
-
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
 - (arXiv 2024.01) VMamba: Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2401.10166.pdf), [[Code]](https://github.com/MzeroMiko/VMamba)
@@ -286,9 +285,11 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
 - (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
 - (arXiv 2024.03) Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2403.17902.pdf)
+- (arXiv 2024.08) Multi-Scale Representation Learning for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2408.10145.pdf)
 
 ### Robot
 - (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
+- (arXiv 2024.08) OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10618.pdf),[[Code]](https://github.com/jmwang0117/Occ-Mamba)
 
 ### Self supervised learning
 - (arXiv 2024.08) MambaMIM: Pre-training Mamba with State Space Token-interpolation, [[Paper]](https://arxiv.org/pdf/2408.08070.pdf),[[Code]](https://github.com/FengheTan9/MambaMIM)
