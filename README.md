@@ -323,11 +323,12 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) Self-Prior Guided Mamba-UNet Networks for Medical Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.05993.pdf)
 - (arXiv 2024.07) Deform-Mamba Network for MRI Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.05969.pdf)
 - (arXiv 2024.08) QMambaBSR: Burst Image Super-Resolution with Query State Space Model, [[Paper]](https://arxiv.org/pdf/2408.08665.pdf)
-- (arXiv 2024.08) MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs, [[Paper]](https://arxiv.org/pdf/2408.11758.pdf),[[Code]](https://github.com/renyulin-f/MambaCSR)
+- (arXiv 2024.08) MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs, [[Paper]](https://arxiv.org/pdf/2408.11758.pdf),[[Code]](https://github.com/Event-AHU/MambaEVT)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 - (arXiv 2024.08) RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba, [[Paper]](https://arxiv.org/pdf/2408.08827.pdf)
+- (arXiv 2024.08) MambaEVT: Event Stream based Visual Object Tracking using State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10487.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
