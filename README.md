@@ -37,6 +37,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.04390.pdf)
 - (arXiv 2024.08) MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering, [[Paper]](https://arxiv.org/pdf/2408.11464.pdf), [[Code]](https://github.com/Hub-Tian/MambaOcc)
 - (arXiv 2024.08) OccMamba: Semantic Occupancy Prediction with State Space Models, [[Paper]](https://arxiv.org/pdf/2408.09859.pdf)
+- (arXiv 2024.08) MambaLoc: Efficient Camera Localisation via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.09680.pdf)
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
