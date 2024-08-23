@@ -132,6 +132,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Generation
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
+- (arXiv 2024.08) Scalable Autoregressive Image Generation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.12245),[[Code]](https://github.com/hp-l33/AiM)
 
 ### Gesture
 - (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
