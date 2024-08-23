@@ -318,6 +318,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) MambaOut: Do We Really Need Mamba for Vision, [[Paper]](https://arxiv.org/pdf/2405.07992.pdf),[[Code]](https://github.com/yuweihao/MambaOut)
 - (arXiv 2024.07) VSSD: Vision Mamba with Non-Casual State Space Duality, [[Paper]](https://arxiv.org/pdf/2407.18559.pdf),[[Code]](https://github.com/YuHengsss/VSSD)
 - (arXiv 2024.08) DeMansia: Mamba Never Forgets Any Tokens, [[Paper]](https://arxiv.org/pdf/2408.01986.pdf),[[Code]](https://github.com/catalpaaa/DeMansia)
+- (arXiv 2024.09) Saliency Unification through Mamba for Visual Attention Modeling, [[Paper]](https://arxiv.org/pdf/2406.17815.pdf),[[Code]](https://github.com/Arhosseini77/SUM)
 
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
