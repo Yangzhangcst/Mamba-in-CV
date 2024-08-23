@@ -355,6 +355,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
 - (arXiv 2024.04) InsectMamba: Insect Pest Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03611.pdf)
+- (arXiv 2024.08) MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling, [[Paper]](https://arxiv.org/pdf/2408.108541.pdf)
 
 
 ## Contact & Feedback
