@@ -111,6 +111,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2406.08444.pdf),[[Code]](https://github.com/weitunglin/pixmamba)
 - (arXiv 2024.07) RESVMUNetX: A Low-Light Enhancement Network Based on VMamba, [[Paper]](https://arxiv.org/abs/2407.09553.pdf)
 - (arXiv 2024.08) Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement, [[Paper]](https://arxiv.org/abs/2408.01276.pdf),[[Code]](https://github.com/AlexZou14/Wave-Mamba)
+- (arXiv 2024.08) ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement, [[Paper]](https://arxiv.org/abs/2408.09650.pdf),[[Code]](https://github.com/eashanadhikarla/ExpoMamba)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
