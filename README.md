@@ -209,6 +209,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI,[[Paper]](https://arxiv.org/abs/2407.15719),[[Code]](https://github.com/Tinysqua/GFE-Mamba)
 - (arXiv 2024.08) PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement,[[Paper]](https://arxiv.org/abs/2408.01077)
 - (arXiv 2024.08) HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.11289),[[Code]](https://github.com/simzhangbest/HMT-Unet)
+- (arXiv 2024.08) Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark, [[Paper]](https://arxiv.org/pdf/2408.07444)
   
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -359,6 +360,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
 - (arXiv 2024.04) InsectMamba: Insect Pest Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03611.pdf)
 - (arXiv 2024.08) MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling, [[Paper]](https://arxiv.org/pdf/2408.108541.pdf)
+- (arXiv 2024.08) ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.08087.pdf),[[Code]](https://github.com/AlexYangxx/ColorMamba)
 
 
 ## Contact & Feedback
