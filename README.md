@@ -211,7 +211,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.11289),[[Code]](https://github.com/simzhangbest/HMT-Unet)
 - (arXiv 2024.08) Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark, [[Paper]](https://arxiv.org/pdf/2408.07444)
 - (arXiv 2024.08) LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14415),[[Code]](https://github.com/Oulu-IMEDS/LoG-VMamba)
- 
+- (arXiv 2024.08) ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14114)
+
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 
@@ -250,6 +251,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2406.06069),[[Code]](https://github.com/gwenzhang/Voxel-Mamba)
 - (arXiv 2024.06) Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2406.17442)
 - (arXiv 2024.07) Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model, [[Paper]](https://arxiv.org/pdf/2407.12319)
+- (arXiv 2024.07) PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2408.13574)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
