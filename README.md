@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/08/26
+**Last updated: 2024/08/27
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -210,7 +210,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement,[[Paper]](https://arxiv.org/abs/2408.01077)
 - (arXiv 2024.08) HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.11289),[[Code]](https://github.com/simzhangbest/HMT-Unet)
 - (arXiv 2024.08) Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark, [[Paper]](https://arxiv.org/pdf/2408.07444)
-  
+- (arXiv 2024.08) LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14415),[[Code]](https://github.com/Oulu-IMEDS/LoG-VMamba)
+ 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 
