@@ -216,6 +216,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 
+### MIL
+- (arXiv 2024.08) Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology,[[Paper]](https://arxiv.org/pdf/2408.15032.pdf), [[Code]](https://github.com/YuqiZhang-Buaa/Mamba2MIL)
+
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
 - (arXiv 2024.01) BlackMamba: Mixture of Experts for State-Space Models, [[Paper]](https://arxiv.org/pdf/2402.01771.pdf), [[Code]](https://github.com/Zyphra/BlackMamba)
@@ -343,7 +346,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 - (arXiv 2024.08) RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba, [[Paper]](https://arxiv.org/pdf/2408.08827.pdf)
 - (arXiv 2024.08) MambaEVT: Event Stream based Visual Object Tracking using State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10487.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
-- (arXiv 2024.08)MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model, [[Paper]](https://arxiv.org/pdf/2408.09178.pdf)
+- (arXiv 2024.08) MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model, [[Paper]](https://arxiv.org/pdf/2408.09178.pdf)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
@@ -360,12 +363,15 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) VideoMamba: Spatio-Temporal Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2407.08476.pdf),[[Code]](https://github.com/jinyjelly/VideoMamba)
 - (arXiv 2024.07) DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba, [[Paper]](https://arxiv.org/pdf/2408.10679.pdf)
 
+### Zero-Shot Learning
+- (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
+
+
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
 - (arXiv 2024.04) InsectMamba: Insect Pest Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03611.pdf)
 - (arXiv 2024.08) MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling, [[Paper]](https://arxiv.org/pdf/2408.108541.pdf)
 - (arXiv 2024.08) ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.08087.pdf),[[Code]](https://github.com/AlexYangxx/ColorMamba)
-
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
