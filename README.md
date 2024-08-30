@@ -212,6 +212,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) Costal Cartilage Segmentation with Topology Guided Deformable Mamba: Method and Benchmark, [[Paper]](https://arxiv.org/pdf/2408.07444)
 - (arXiv 2024.08) LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14415),[[Code]](https://github.com/Oulu-IMEDS/LoG-VMamba)
 - (arXiv 2024.08) ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14114)
+- (arXiv 2024.08) SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors, [[Paper]](https://arxiv.org/pdf/2408.15887)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -230,7 +231,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model, [[Paper]](https://arxiv.org/pdf/2404.12794.pdf), [[Code]](https://github.com/Terminal-K/MambaMOS)
 - (arXiv 2024.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion, [[Paper]](https://arxiv.org/pdf/2405.02844.pdf)
 - (arXiv 2024.07) InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf), [[Code]](https://steve-zeyu-zhang.github.io/InfiniMotion/)
-
+- (arXiv 2024.08) Pedestrian Motion Prediction Using Transformer-based Behavior Clustering and Data-Driven Reachability Analysis, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf)
+  
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 
