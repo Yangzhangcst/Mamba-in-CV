@@ -256,6 +256,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2406.17442)
 - (arXiv 2024.07) Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model, [[Paper]](https://arxiv.org/pdf/2407.12319)
 - (arXiv 2024.07) PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2408.13574)
+- (arXiv 2024.08) MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms, [[Paper]](https://arxiv.org/pdf/2408.15740),[[Code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
