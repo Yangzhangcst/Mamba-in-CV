@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/02
+**Last updated: 2024/09/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -83,7 +83,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
 - (arXiv 2024.05) Image Deraining with Frequency-Enhanced State Space Model, [[Paper]](https://arxiv.org/pdf/2405.16470.pdf)
 - (arXiv 2024.08) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining, [[Paper]](https://arxiv.org/pdf/2407.21773.pdf),[[Code]](https://github.com/TonyHongtaoWu/RainMamba)
-
+- (arXiv 2024.09) A Hybrid Transformer-Mamba Network for Single Image Deraining, [[Paper]](https://arxiv.org/pdf/2409.01148.pdf)
+  
 ### Detection
 - (arXiv 2024.03) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2403.02148.pdf),[[Code]](https://github.com/txchen-USTC/MiM-ISTD)
 - (arXiv 2024.04) Fusion-Mamba for Cross-modality Object Detection, [[Paper]](https://arxiv.org/pdf/2404.09146.pdf)
@@ -131,6 +132,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba, [[Paper]](https://arxiv.org/pdf/2404.09498.pdf)
 - (arXiv 2024.04) A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion, [[Paper]](https://arxiv.org/pdf/2404.09293.pdf)
 - (arXiv 2024.06) S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion, [[Paper]](https://arxiv.org/pdf/2405.20881)
+- (arXiv 2024.09) Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.01728)
 
 ### Generation
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
@@ -351,6 +353,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba, [[Paper]](https://arxiv.org/pdf/2408.08827.pdf)
 - (arXiv 2024.08) MambaEVT: Event Stream based Visual Object Tracking using State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10487.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 - (arXiv 2024.08) MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model, [[Paper]](https://arxiv.org/pdf/2408.09178.pdf)
+- (arXiv 2024.09) FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking, [[Paper]](https://arxiv.org/pdf/2409.01148.pdf)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
