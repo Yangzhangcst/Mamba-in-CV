@@ -133,6 +133,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion, [[Paper]](https://arxiv.org/pdf/2404.09293.pdf)
 - (arXiv 2024.06) S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion, [[Paper]](https://arxiv.org/pdf/2405.20881)
 - (arXiv 2024.09) Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.01728)
+- (arXiv 2024.09) Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.03223)
 
 ### Generation
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
@@ -299,6 +300,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) A Mamba-based Siamese Network for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2407.06839),[[Code]](https://github.com/JayParanjape/M-CD)
 - (arXiv 2024.07) DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2407.08132),[[Code]](https://github.com/Another-0/DMM)
 - (arXiv 2024.08) UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2408.11545),[[Code]](https://github.com/EnzeZhu2001/UNetMamba)
+- (arXiv 2024.09) UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2409.03431)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
