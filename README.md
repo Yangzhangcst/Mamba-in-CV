@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/06
+**Last updated: 2024/09/09
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -217,6 +217,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14415),[[Code]](https://github.com/Oulu-IMEDS/LoG-VMamba)
 - (arXiv 2024.08) ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation, [[Paper]](https://arxiv.org/pdf/2408.14114)
 - (arXiv 2024.08) SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors, [[Paper]](https://arxiv.org/pdf/2408.15887)
+- (arXiv 2024.09) Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model, [[Paper]](https://arxiv.org/pdf/2409.04356)
+- (arXiv 2024.09) MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection, [[Paper]](https://arxiv.org/pdf/2409.04218),[[Code]](https://github.com/YubiaoYue/MpoxMamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
