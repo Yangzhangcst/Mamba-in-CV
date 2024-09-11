@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/10
+**Last updated: 2024/09/11
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -306,6 +306,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2407.08132),[[Code]](https://github.com/Another-0/DMM)
 - (arXiv 2024.08) UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2408.11545),[[Code]](https://github.com/EnzeZhu2001/UNetMamba)
 - (arXiv 2024.09) UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2409.03431)
+- (arXiv 2024.09) PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2409.06309)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
