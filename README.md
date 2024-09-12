@@ -101,6 +101,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2405.15881.pdf)
 - (arXiv 2024.06) Dimba: Transformer-Mamba Diffusion Models, [[Paper]](https://arxiv.org/pdf/2406.01159),[[Code]](https://dimba-project.github.io/)
 - (arXiv 2024.08) LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba, [[Paper]](https://arxiv.org/pdf/2408.02615)
+- (arXiv 2024.09) Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models, [[Paper]](https://arxiv.org/pdf/2409.07163),[[Code]](https://andycao1125.github.io/mamba_policy/)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
