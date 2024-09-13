@@ -225,6 +225,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model, [[Paper]](https://arxiv.org/pdf/2409.04356)
 - (arXiv 2024.09) MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection, [[Paper]](https://arxiv.org/pdf/2409.04218),[[Code]](https://github.com/YubiaoYue/MpoxMamba)
 - (arXiv 2024.09) Microscopic-Mamba: Revealing the Secrets of Microscopic Images with Just 4M Parameters, [[Paper]](https://arxiv.org/pdf/2409.07896),[[Code]](https://github.com/zs1314/Microscopic-Mamba)
+- (arXiv 2024.09) OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08000),[[Code]](https://github.com/zs1314/OCTAMamba)
+- (arXiv 2024.09) Learning Brain Tumor Representation in 3D High-Resolution MR Images via Interpretable State Space Models, [[Paper]](https://arxiv.org/pdf/2409.07746),[[Code]](https://github.com/WinstonHuTiger/mamba_mae)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
