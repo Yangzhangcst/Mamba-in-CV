@@ -39,6 +39,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) OccMamba: Semantic Occupancy Prediction with State Space Models, [[Paper]](https://arxiv.org/pdf/2408.09859.pdf)
 - (arXiv 2024.08) MambaLoc: Efficient Camera Localisation via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.09680.pdf)
 - (arXiv 2024.09) DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification, [[Paper]](https://arxiv.org/pdf/2409.05587.pdf)
+- (arXiv 2024.09) CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2409.07714.pdf)
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
