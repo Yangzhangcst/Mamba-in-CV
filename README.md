@@ -257,11 +257,11 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2407.02228.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
 - (arXiv 2024.08)  MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2408.15101.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
 
-### OOD
-- (arXiv 2024.05) CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation，[[Paper]](https://arxiv.org/pdf/2404.19394.pdf),[[Code]](https://github.com/raytrun/mamba-clip)
-
 ### OCR
 - (arXiv 2024.01) LOCOST: State-Space Models for Long Document Abstractive Summarization, [[Paper]](https://arxiv.org/pdf/2401.17919.pdf),[[Code]](https://github.com/flbbb/locost-summarization)
+
+### OOD
+- (arXiv 2024.05) CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation，[[Paper]](https://arxiv.org/pdf/2404.19394.pdf),[[Code]](https://github.com/raytrun/mamba-clip)
 
 ### Point Cloud
 - (arXiv 2024.02) PointMamba: A Simple State Space Model for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2402.10739.pdf),[[Code]](https://github.com/LMD0311/PointMamba)
