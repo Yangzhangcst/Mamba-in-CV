@@ -64,6 +64,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2407.13772),[[Code]](https://github.com/Amshaker/GroupMamba)
 - (arXiv 2024.09) Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training, [[Paper]](https://arxiv.org/pdf/2408.17081),[[Code]](https://github.com/huangzizheng01/ShuffleMamba)
 - (arXiv 2024.09) SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2409.09649),[[Code]](https://github.com/LMMMEng/SparX)
+- (arXiv 2024.09) Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion, [[Paper]](https://arxiv.org/pdf/2409.09808)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
