@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/16
+**Last updated: 2024/09/17
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -63,6 +63,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) MambaVision: A Hybrid Mamba-Transformer Vision Backbone, [[Paper]](https://arxiv.org/pdf/2407.08083v1),[[Code]](https://github.com/NVlabs/MambaVision)
 - (arXiv 2024.07) GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2407.13772),[[Code]](https://github.com/Amshaker/GroupMamba)
 - (arXiv 2024.09) Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training, [[Paper]](https://arxiv.org/pdf/2408.17081),[[Code]](https://github.com/huangzizheng01/ShuffleMamba)
+- (arXiv 2024.09) SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2409.09649),[[Code]](https://github.com/LMMMEng/SparX)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -354,6 +355,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
+- (arXiv 2024.09) Mamba-ST: State Space Model for Efficient Style Transfer, [[Paper]](https://arxiv.org/pdf/2409.10385.pdf),[[Code]](https://github.com/FilippoBotti/MambaST)
 
 ### Super-Resolution
 - (arXiv 2024.05) DVMSR: Distillated Vision Mamba for Efficient Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.03008.pdf),[[Code]](https://github.com/nathan66666/DVMSR)
