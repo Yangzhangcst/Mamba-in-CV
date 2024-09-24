@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/18
+**Last updated: 2024/09/24
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -237,6 +237,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) MedSegMamba: 3D CNN-Mamba Hybrid Architecture for Brain Segmentation, [[Paper]](https://arxiv.org/pdf/2409.08307)
 - (arXiv 2024.09) Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images, [[Paper]](https://arxiv.org/pdf/2409.08492),[[Code]](https://github.com/xmed-lab/TP-Mamba)
 - (arXiv 2024.09) SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance, [[Paper]](https://arxiv.org/pdf/2409.10890),[[Code]](https://github.com/zs1314/SkinMamba)
+- (arXiv 2024.09) MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2409.12533),[[Code]](https://github.com/CYB08/MambaClinix-PyTorch)
+- (arXiv 2024.09) MambaRecon: MRI Reconstruction with Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2409.12401),[[Code]](https://github.com/yilmazkorkmaz1/MambaRecon)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
