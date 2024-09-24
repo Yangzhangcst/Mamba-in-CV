@@ -21,6 +21,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Action
 - (arXiv 2024.03) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.20183.pdf)
 - (arXiv 2024.04) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2404.07645.pdf)
+- (arXiv 2024.09) Mamba Fusion: Learning Actions Through Questioning, [[Paper]](https://arxiv.org/pdf/2409.11513.pdf)
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
