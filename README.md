@@ -338,6 +338,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Robot
 - (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
 - (arXiv 2024.08) OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10618.pdf),[[Code]](https://github.com/jmwang0117/Occ-Mamba)
+- (arXiv 2024.09) GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning, [[Paper]](https://arxiv.org/pdf/2409.14403)
 
 ### Self supervised learning
 - (arXiv 2024.08) MambaMIM: Pre-training Mamba with State Space Token-interpolation, [[Paper]](https://arxiv.org/pdf/2408.08070.pdf),[[Code]](https://github.com/FengheTan9/MambaMIM)
