@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/24
+**Last updated: 2024/09/25
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -266,6 +266,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
   
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
+- (arXiv 2024.09) DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection，[[Paper]](https://arxiv.org/pdf/2409.15936.pdf),[[Code]](https://github.com/Jiaxin-Ye/DepMamba)
 
 ### Multi-Task
 - (arXiv 2024.07) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2407.02228.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
