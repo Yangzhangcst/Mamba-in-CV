@@ -125,6 +125,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement, [[Paper]](https://arxiv.org/abs/2408.09650.pdf),[[Code]](https://github.com/eashanadhikarla/ExpoMamba)
 - (arXiv 2024.08) O-Mamba: O-shape State-Space Model for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2408.12816.pdf),[[Code]](https://github.com/chenydong/O-Mamba)
 - (arXiv 2024.09) Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement, [[Paper]](https://arxiv.org/abs/2409.07040.pdf)
+- (arXiv 2024.09) Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2409.16604.pdf),[[Code]](https://github.com/guanguanboy/Semi-LLIE)
 
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
@@ -245,6 +246,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) MambaRecon: MRI Reconstruction with Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2409.12401),[[Code]](https://github.com/yilmazkorkmaz1/MambaRecon)
 - (arXiv 2024.09) SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba, [[Paper]](https://arxiv.org/pdf/2409.12108)
 - (arXiv 2024.09) PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba, [[Paper]](https://arxiv.org/pdf/2409.12031),[[Code]](https://github.com/Chaoqi31/PhysMamba)
+- (arXiv 2024.09) Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba, [[Paper]](https://arxiv.org/pdf/2409.17122)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
