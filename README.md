@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/09/26
+**Last updated: 2024/09/30
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -69,6 +69,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks, [[Paper]](https://arxiv.org/pdf/2409.09649),[[Code]](https://github.com/LMMMEng/SparX)
 - (arXiv 2024.09) Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion, [[Paper]](https://arxiv.org/pdf/2409.09808)
 - (arXiv 2024.09) Distillation-free Scaling of Large SSMs for Images and Videos, [[Paper]](https://arxiv.org/pdf/2409.11867)
+- (arXiv 2024.09) Exploring Token Pruning in Vision State Space Models, [[Paper]](https://arxiv.org/pdf/2409.18962)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
