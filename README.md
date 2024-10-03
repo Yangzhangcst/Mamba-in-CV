@@ -393,6 +393,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) MambaEVT: Event Stream based Visual Object Tracking using State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10487.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
 - (arXiv 2024.08) MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model, [[Paper]](https://arxiv.org/pdf/2408.09178.pdf)
 - (arXiv 2024.09) FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking, [[Paper]](https://arxiv.org/pdf/2409.01148.pdf)
+- (arXiv 2024.10) Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking, [[Paper]](https://arxiv.org/pdf/2410.01806.pdf),[[Code]](https://github.com/mattiasegu/sambamotr)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
