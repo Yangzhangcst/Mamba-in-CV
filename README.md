@@ -15,7 +15,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) State Space Model for New-Generation Network Alternative to Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2404.09516.pdf), [[Project]](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
 - (arXiv 2024.05) A Survey on Vision Mamba: Models, Applications and Challenges, [[Paper]](https://arxiv.org/pdf/2404.18861.pdf), [[Project]](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)
 - (arXiv 2024.05) Vision Mamba: A Comprehensive Survey and Taxonomy, [[Paper]](https://arxiv.org/pdf/2405.04404.pdf), [[Project]](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
-
+- (arXiv 2024.10) A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond, [[Paper]](https://arxiv.org/pdf/2410.02362),[[Code]](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)
 
 ## Recent Papers
 ### Action
