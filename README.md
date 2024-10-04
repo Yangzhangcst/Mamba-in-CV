@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/10/03
+**Last updated: 2024/10/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -249,6 +249,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba, [[Paper]](https://arxiv.org/pdf/2409.12108)
 - (arXiv 2024.09) PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba, [[Paper]](https://arxiv.org/pdf/2409.12031),[[Code]](https://github.com/Chaoqi31/PhysMamba)
 - (arXiv 2024.09) Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba, [[Paper]](https://arxiv.org/pdf/2409.17122)
+- (arXiv 2024.10) MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.02458),[[Code]](https://bit.ly/3zf2CVs)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
