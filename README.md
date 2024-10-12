@@ -164,8 +164,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2402.00789.pdf),[[Code]](https://github.com/bowang-lab/Graph-Mamba)
 - (arXiv 2024.02) Graph Mamba: Towards Learning on Graphs with State Space Models, [[Paper]](https://arxiv.org/pdf/2402.08678.pdf),[[Code]](https://github.com/GraphMamba/GMN)
 
-### Hyperpsectral
-- (arXiv 2024.04) HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
+### Hyperspectral
+- (arXiv 2024.04) HSIMamba: Hyperspectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
 - (arXiv 2024.04) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.08489.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
 - (arXiv 2024.04) HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising, [[Paper]](https://arxiv.org/pdf/2404.09697.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
 - (arXiv 2024.05) Spectral-Spatial Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.18401.pdf)
@@ -178,6 +178,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01372.pdf),[[Code]](https://github.com/MHassaanButt/MorpMamba)
 - (arXiv 2024.08) WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01231.pdf)
 - (arXiv 2024.08) Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01224.pdf),[[Code]](https://github.com/MHassaanButt/MHA_SS_Mamba)
+- (arXiv 2024.10) IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2410.05100.pdf)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
