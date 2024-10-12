@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/10/04
+**Last updated: 2024/10/12
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -16,6 +16,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) A Survey on Vision Mamba: Models, Applications and Challenges, [[Paper]](https://arxiv.org/pdf/2404.18861.pdf), [[Project]](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)
 - (arXiv 2024.05) Vision Mamba: A Comprehensive Survey and Taxonomy, [[Paper]](https://arxiv.org/pdf/2405.04404.pdf), [[Project]](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
 - (arXiv 2024.10) A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond, [[Paper]](https://arxiv.org/pdf/2410.02362),[[Code]](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)
+- (arXiv 2024.10) Mamba in Vision: A Comprehensive Survey of Techniques and Applications, [[Paper]](https://arxiv.org/pdf/2410.03105),[[Code]](https://github.com/maklachur/Mamba-in-Computer-Vision)
 
 ## Recent Papers
 ### Action
@@ -103,6 +104,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) Mamba YOLO: SSMs-Based YOLO For Object Detection, [[Paper]](https://arxiv.org/pdf/2406.05835),[[Code]](https://github.com/HZAI-ZJNU/Mamba-YOLO)
 - (arXiv 2024.08) MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2408.00438)
 - (arXiv 2024.08) MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2408.01037),[[Code]](https://github.com/XiangboGaoBarry/MambaST)
+- (arXiv 2024.10) Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2410.03987),[[Code]](https://github.com/Liangbo-Cheng/mamba_capsule)
+- (arXiv 2024.10) HRVMamba: High-Resolution Visual State Space Model for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2410.03174),[[Code]](https://github.com/zhanghao5201/HRVMamba)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
