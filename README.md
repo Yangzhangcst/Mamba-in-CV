@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/10/16
+**Last updated: 2024/10/17
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -106,7 +106,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection, [[Paper]](https://arxiv.org/pdf/2408.01037),[[Code]](https://github.com/XiangboGaoBarry/MambaST)
 - (arXiv 2024.10) Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2410.03987),[[Code]](https://github.com/Liangbo-Cheng/mamba_capsule)
 - (arXiv 2024.10) HRVMamba: High-Resolution Visual State Space Model for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2410.03174),[[Code]](https://github.com/zhanghao5201/HRVMamba)
-
+- (arXiv 2024.10) MambaBEV: An efficient 3D detection model with Mamba2, [[Paper]](https://arxiv.org/pdf/2410.12673)
+  
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
 - (arXiv 2024.05) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis, [[Paper]](https://arxiv.org/pdf/2405.14224.pdf),[[Code]](https://github.com/tyshiwo1/DiM-DiffusionMamba/)
@@ -317,6 +318,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Referring
 - (arXiv 2024.03) ReMamber: Referring Image Segmentation with Mamba Twister, [[Paper]](https://arxiv.org/pdf/2403.17839.pdf)
+- (arXiv 2024.10) MambaPainter: Neural Stroke-Based Rendering in a Single Step, [[Paper]](https://arxiv.org/pdf/2410.12524.pdf),[[Code]](https://github.com/STomoya/MambaPainter)
 
 ### Registration
 - (arXiv 2024.04) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration, [[Paper]](https://arxiv.org/pdf/2404.05105.pdf),[[Code]](https://github.com/ziyangwang007/VMambaMorph)
