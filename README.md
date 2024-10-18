@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/10/17
+**Last updated: 2024/10/18
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -23,7 +23,6 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.20183.pdf)
 - (arXiv 2024.04) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2404.07645.pdf)
 - (arXiv 2024.09) Mamba Fusion: Learning Actions Through Questioning, [[Paper]](https://arxiv.org/pdf/2409.11513.pdf), [[Code]](https://github.com/Dongzhikang/MambaVL)
-
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
@@ -72,6 +71,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Distillation-free Scaling of Large SSMs for Images and Videos, [[Paper]](https://arxiv.org/pdf/2409.11867)
 - (arXiv 2024.09) Exploring Token Pruning in Vision State Space Models, [[Paper]](https://arxiv.org/pdf/2409.18962)
 - (arXiv 2024.10) MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining, [[Paper]](https://arxiv.org/pdf/2410.00871.pdf)
+- (arXiv 2024.10) GlobalMamba: Global Image Serialization for Vision Mamba, [[Paper]](https://arxiv.org/pdf/2410.10316.pdf),[[Code]](https://github.com/wangck20/GlobalMamba)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
