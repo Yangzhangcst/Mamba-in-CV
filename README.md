@@ -255,6 +255,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba, [[Paper]](https://arxiv.org/pdf/2409.12031),[[Code]](https://github.com/Chaoqi31/PhysMamba)
 - (arXiv 2024.09) Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba, [[Paper]](https://arxiv.org/pdf/2409.17122)
 - (arXiv 2024.10) MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.02458),[[Code]](https://bit.ly/3zf2CVs)
+- (arXiv 2024.10) SlimSeiz: Efficient Channel-Adaptive Seizure Prediction Using a Mamba-Enhanced Network, [[Paper]](https://arxiv.org/pdf/2410.09998),[[Code]](https://github.com/guoruilu/SlimSeiz)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -397,6 +398,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) Deform-Mamba Network for MRI Super-Resolution, [[Paper]](https://arxiv.org/pdf/2407.05969.pdf)
 - (arXiv 2024.08) QMambaBSR: Burst Image Super-Resolution with Query State Space Model, [[Paper]](https://arxiv.org/pdf/2408.08665.pdf)
 - (arXiv 2024.08) MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs, [[Paper]](https://arxiv.org/pdf/2408.11758.pdf),[[Code]](https://github.com/Event-AHU/MambaEVT)
+- (arXiv 2024.10) Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2410.10140.pdf)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
