@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/10/18
+**Last updated: 2024/10/21
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -75,6 +75,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
+- (arXiv 2024.10) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
