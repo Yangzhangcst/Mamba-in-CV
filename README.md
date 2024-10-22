@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/10/21
+**Last updated: 2024/10/22
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -72,6 +72,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Exploring Token Pruning in Vision State Space Models, [[Paper]](https://arxiv.org/pdf/2409.18962)
 - (arXiv 2024.10) MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining, [[Paper]](https://arxiv.org/pdf/2410.00871.pdf)
 - (arXiv 2024.10) GlobalMamba: Global Image Serialization for Vision Mamba, [[Paper]](https://arxiv.org/pdf/2410.10316.pdf),[[Code]](https://github.com/wangck20/GlobalMamba)
+- (arXiv 2024.10) START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation, [[Paper]](https://arxiv.org/pdf/2410.16020.pdf),[[Code]](https://github.com/lingeringlight/START)
+- (arXiv 2024.10) Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion, [[Paper]](https://arxiv.org/pdf/2410.15091.pdf),[[Code]](https://github.com/EdwardChasel/Spatial-Mamba)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -257,6 +259,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba, [[Paper]](https://arxiv.org/pdf/2409.17122)
 - (arXiv 2024.10) MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.02458),[[Code]](https://bit.ly/3zf2CVs)
 - (arXiv 2024.10) SlimSeiz: Efficient Channel-Adaptive Seizure Prediction Using a Mamba-Enhanced Network, [[Paper]](https://arxiv.org/pdf/2410.09998),[[Code]](https://github.com/guoruilu/SlimSeiz)
+- (arXiv 2024.10) Taming Mambas for Voxel Level 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.15496),[[Code]](https://anonymous.4open.science/r/WACV2025-TamingMamba/README.md)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -304,6 +307,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model, [[Paper]](https://arxiv.org/pdf/2407.12319)
 - (arXiv 2024.07) PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2408.13574)
 - (arXiv 2024.08) MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms, [[Paper]](https://arxiv.org/pdf/2408.15740),[[Code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
+- (arXiv 2024.10) MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering, [[Paper]](https://arxiv.org/pdf/2410.15941),[[Code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
@@ -361,6 +365,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10618.pdf),[[Code]](https://github.com/jmwang0117/Occ-Mamba)
 - (arXiv 2024.09) GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning, [[Paper]](https://arxiv.org/pdf/2409.14403)
 
+### Salient
+- (arXiv 2024.10) MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2410.15015),[[Code]](https://github.com/YueZhan721/MambaSOD)
+
 ### Self supervised learning
 - (arXiv 2024.08) MambaMIM: Pre-training Mamba with State Space Token-interpolation, [[Paper]](https://arxiv.org/pdf/2408.08070.pdf),[[Code]](https://github.com/FengheTan9/MambaMIM)
 
@@ -374,7 +381,6 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Speech
 - (arXiv 2024.10) CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning, [[Paper]](https://arxiv.org/pdf/2410.11062.pdf),[[Code]](https://github.com/lab-emi/CleanUMamba)
-
 
 ### State Space Model (SSM)
 - (NeurIPS 2020) HiPPO: Recurrent Memory with Optimal Polynomial Projections, [[Paper]](https://arxiv.org/pdf/2008.07669.pdf),[[Code]](https://github.com/HazyResearch/hippo-code)
