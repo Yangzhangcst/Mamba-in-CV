@@ -443,6 +443,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) InsectMamba: Insect Pest Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03611.pdf)
 - (arXiv 2024.08) MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling, [[Paper]](https://arxiv.org/pdf/2408.108541.pdf)
 - (arXiv 2024.08) ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.08087.pdf),[[Code]](https://github.com/AlexYangxx/ColorMamba)
+- (arXiv 2024.10) ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction, [[Paper]](https://arxiv.org/pdf/2410.21535.pdf),[[Code]](https://github.com/LowlevelAI/ECMamba)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
