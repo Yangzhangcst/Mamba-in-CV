@@ -293,6 +293,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### OCR
 - (arXiv 2024.01) LOCOST: State-Space Models for Long Document Abstractive Summarization, [[Paper]](https://arxiv.org/pdf/2401.17919.pdf),[[Code]](https://github.com/flbbb/locost-summarization)
+- (arXiv 2024.10) Adaptive Multi Scale Document Binarisation Using Vision Mamba, [[Paper]](https://arxiv.org/pdf/2410.22811.pdf)
 
 ### OOD
 - (arXiv 2024.05) CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation，[[Paper]](https://arxiv.org/pdf/2404.19394.pdf),[[Code]](https://github.com/raytrun/mamba-clip)
