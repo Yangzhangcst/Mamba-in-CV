@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/11/01
+**Last updated: 2024/11/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -312,7 +312,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model, [[Paper]](https://arxiv.org/pdf/2407.12319)
 - (arXiv 2024.07) PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2408.13574)
 - (arXiv 2024.08) MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms, [[Paper]](https://arxiv.org/pdf/2408.15740),[[Code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
-- (arXiv 2024.10) MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering, [[Paper]](https://arxiv.org/pdf/2410.15941),[[Code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
+- (arXiv 2024.10) MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering, [[Paper]](https://arxiv.org/pdf/2410.15941)
+- (arXiv 2024.11) NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs, [[Paper]](https://arxiv.org/pdf/2411.00151)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
