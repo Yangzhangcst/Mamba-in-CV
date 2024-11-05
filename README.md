@@ -336,6 +336,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Registration
 - (arXiv 2024.04) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration, [[Paper]](https://arxiv.org/pdf/2404.05105.pdf),[[Code]](https://github.com/ziyangwang007/VMambaMorph)
 - (arXiv 2024.07) Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration, [[Paper]](https://arxiv.org/pdf/2407.19274.pdf),[[Code]](https://github.com/BailiangJ/rethink-reg)
+- (arXiv 2024.11) MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration, [[Paper]](https://arxiv.org/pdf/2411.01399.pdf)
 
 ### Remote Sensing
 - (arXiv 2024.03) RSMamba: Remote Sensing Image Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2403.19654.pdf),[[Code]](https://github.com/KyanChen/RSMamba)
