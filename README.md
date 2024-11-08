@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/11/05
+**Last updated: 2024/11/08
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -75,6 +75,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) GlobalMamba: Global Image Serialization for Vision Mamba, [[Paper]](https://arxiv.org/pdf/2410.10316.pdf),[[Code]](https://github.com/wangck20/GlobalMamba)
 - (arXiv 2024.10) START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation, [[Paper]](https://arxiv.org/pdf/2410.16020.pdf),[[Code]](https://github.com/lingeringlight/START)
 - (arXiv 2024.10) Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion, [[Paper]](https://arxiv.org/pdf/2410.15091.pdf),[[Code]](https://github.com/EdwardChasel/Spatial-Mamba)
+- (arXiv 2024.11) MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba, [[Paper]](https://arxiv.org/pdf/2411.03855.pdf)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -383,6 +384,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.04256.pdf),[[Code]](https://github.com/zifuwan/Sigma)
 - (arXiv 2024.06) Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces, [[Paper]](https://arxiv.org/pdf/2404.16518.pdf)
 - (arXiv 2024.07) Mamba meets crack segmentation, [[Paper]](https://arxiv.org/pdf/2407.15714.pdf)
+
+### Shadow
+- (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
 
 ### Spatiotemporal Forecasting
 - (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
