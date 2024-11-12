@@ -287,7 +287,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion, [[Paper]](https://arxiv.org/pdf/2405.02844.pdf)
 - (arXiv 2024.07) InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf), [[Code]](https://steve-zeyu-zhang.github.io/InfiniMotion/)
 - (arXiv 2024.08) Pedestrian Motion Prediction Using Transformer-based Behavior Clustering and Data-Driven Reachability Analysis, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf)
-  
+- (arXiv 2024.11) KMM: Key Frame Mask Mamba for Extended Motion Generation, [[Paper]](https://arxiv.org/pdf/2411.06481.pdf), [[Code]](https://github.com/steve-zeyu-zhang/KMM)
+
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 - (arXiv 2024.09) DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection，[[Paper]](https://arxiv.org/pdf/2409.15936.pdf),[[Code]](https://github.com/Jiaxin-Ye/DepMamba)
