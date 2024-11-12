@@ -189,6 +189,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
+- (arXiv 2024.11) SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM, [[Paper]](https://arxiv.org/pdf/2411.06318.pdf),[[Code]](https://github.com/ChrisChen1023/SEM-Net)
 
 ### Knowledge Distillation
 - (arXiv 2024.09) Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2409.11018.pdf)
@@ -377,6 +378,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Salient
 - (arXiv 2024.10) MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2410.15015),[[Code]](https://github.com/YueZhan721/MambaSOD)
+- (arXiv 2024.11) LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2411.06652),[[Code]](https://github.com/liuzywen/LFScribble)
 
 ### Self supervised learning
 - (arXiv 2024.08) MambaMIM: Pre-training Mamba with State Space Token-interpolation, [[Paper]](https://arxiv.org/pdf/2408.08070.pdf),[[Code]](https://github.com/FengheTan9/MambaMIM)
