@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/11/12
+**Last updated: 2024/11/13
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -398,6 +398,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Speech
 - (arXiv 2024.10) CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning, [[Paper]](https://arxiv.org/pdf/2410.11062.pdf),[[Code]](https://github.com/lab-emi/CleanUMamba)
+- (arXiv 2024.11) SAV-SE: Scene-aware Audio-Visual Speech Enhancement with Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2411.07751.pdf),[[Code]](https://avsepage.github.io/)
 
 ### State Space Model (SSM)
 - (NeurIPS 2020) HiPPO: Recurrent Memory with Optimal Polynomial Projections, [[Paper]](https://arxiv.org/pdf/2008.07669.pdf),[[Code]](https://github.com/HazyResearch/hippo-code)
