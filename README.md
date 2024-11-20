@@ -268,6 +268,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) Advancing Efficient Brain Tumor Multi-Clas Classification -- New Insights from the Vision Mamba Model in Transfer Learning, [[Paper]](https://arxiv.org/pdf/2410.21872)
 - (arXiv 2024.10) MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.23738),[[Code]](https://github.com/csyfjiang/MLLA-UNet)
 - (arXiv 2024.11) MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation, [[Paper]](https://arxiv.org/pdf/2411.01647),[[Code]](https://wongzbb.github.io/MedSora/)
+- (arXiv 2024.11) KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling, [[Paper]](https://arxiv.org/pdf/2411.01647)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -333,6 +334,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
 - (arXiv 2024.05) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images, [[Paper]](https://arxiv.org/pdf/2405.07777.pdf),[[Code]](https://github.com/wxy11-27/GMSR)
+- (arXiv 2024.11) M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.12635),[[Code]](https://github.com/AnnnnnieZhang/M3D)
 
 ### Referring
 - (arXiv 2024.03) ReMamber: Referring Image Segmentation with Mamba Twister, [[Paper]](https://arxiv.org/pdf/2403.17839.pdf)
@@ -426,6 +428,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) QMambaBSR: Burst Image Super-Resolution with Query State Space Model, [[Paper]](https://arxiv.org/pdf/2408.08665.pdf)
 - (arXiv 2024.08) MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs, [[Paper]](https://arxiv.org/pdf/2408.11758.pdf),[[Code]](https://github.com/Event-AHU/MambaEVT)
 - (arXiv 2024.10) Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2410.10140.pdf)
+- (arXiv 2024.11) Arbitrary-Scale Super-Resolution via Scaleable State Space Model, [[Paper]](https://arxiv.org/pdf/2411.11906.pdf),[[Code]](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
