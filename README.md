@@ -319,6 +319,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms, [[Paper]](https://arxiv.org/pdf/2408.15740),[[Code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
 - (arXiv 2024.10) MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering, [[Paper]](https://arxiv.org/pdf/2410.15941)
 - (arXiv 2024.11) NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs, [[Paper]](https://arxiv.org/pdf/2411.00151)
+- (arXiv 2024.11) STREAM: A Universal State-Space Model for Sparse Geometric Data, [[Paper]](https://arxiv.org/pdf/2411.12603)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
