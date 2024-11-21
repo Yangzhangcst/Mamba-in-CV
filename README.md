@@ -380,6 +380,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
 - (arXiv 2024.08) OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10618.pdf),[[Code]](https://github.com/jmwang0117/Occ-Mamba)
 - (arXiv 2024.09) GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning, [[Paper]](https://arxiv.org/pdf/2409.14403)
+- (arXiv 2024.11) VMGNet: A Low Computational Complexity Robotic Grasping Network Based on VMamba with Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2411.12520)
 
 ### Salient
 - (arXiv 2024.10) MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2410.15015),[[Code]](https://github.com/YueZhan721/MambaSOD)
