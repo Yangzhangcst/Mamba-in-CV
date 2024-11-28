@@ -195,6 +195,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Knowledge Distillation
 - (arXiv 2024.09) Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2409.11018.pdf)
+- (arXiv 2024.11) Vision Mamba Distillation for Low-resolution Fine-grained Image Classification, [[Paper]](https://arxiv.org/pdf/2411.17980.pdf),[[Code]](https://github.com/boa2004plaust/ViMD)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
