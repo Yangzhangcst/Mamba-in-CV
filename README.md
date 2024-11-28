@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/11/22
+**Last updated: 2024/11/28
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -394,6 +394,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2404.04256.pdf),[[Code]](https://github.com/zifuwan/Sigma)
 - (arXiv 2024.06) Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces, [[Paper]](https://arxiv.org/pdf/2404.16518.pdf)
 - (arXiv 2024.07) Mamba meets crack segmentation, [[Paper]](https://arxiv.org/pdf/2407.15714.pdf)
+- (arXiv 2024.11) Deformable Mamba for Wide Field of View Segmentation, [[Paper]](https://arxiv.org/pdf/2411.16481.pdf),[[Code]](https://github.com/JieHu1996/DeformableMamba)
 
 ### Shadow
 - (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
