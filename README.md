@@ -77,6 +77,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion, [[Paper]](https://arxiv.org/pdf/2410.15091.pdf),[[Code]](https://github.com/EdwardChasel/Spatial-Mamba)
 - (arXiv 2024.11) MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba, [[Paper]](https://arxiv.org/pdf/2411.03855.pdf)
 - (arXiv 2024.11) MobileMamba: Lightweight Multi-Receptive Visual Mamba Network, [[Paper]](https://arxiv.org/pdf/2411.15941.pdf),[[Code]](https://github.com/lewandofskee/MobileMamba)
+- (arXiv 2024.11) TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba, [[Paper]](https://arxiv.org/pdf/2411.17473.pdf),[[Code]](https://github.com/xwmaxwma/TinyViM)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
