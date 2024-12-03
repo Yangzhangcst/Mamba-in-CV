@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/11/29
+**Last updated: 2024/12/03
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -193,6 +193,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
 - (arXiv 2024.11) SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM, [[Paper]](https://arxiv.org/pdf/2411.06318.pdf),[[Code]](https://github.com/ChrisChen1023/SEM-Net)
+
+### Keypoint
+- (arXiv 2024.12) MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection, [[Paper]](https://arxiv.org/pdf/2412.01422.pdf),[[Code]](https://mamkpd.github.io/index.html)
 
 ### Knowledge Distillation
 - (arXiv 2024.09) Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2409.11018.pdf)
