@@ -276,6 +276,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2410.23738),[[Code]](https://github.com/csyfjiang/MLLA-UNet)
 - (arXiv 2024.11) MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation, [[Paper]](https://arxiv.org/pdf/2411.01647),[[Code]](https://wongzbb.github.io/MedSora/)
 - (arXiv 2024.11) KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling, [[Paper]](https://arxiv.org/pdf/2411.01647)
+- (arXiv 2024.12) MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.01405),[[Code]](https://github.com/nqnguyen812/MambaU-Lite)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -300,6 +301,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 - (arXiv 2024.09) DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection，[[Paper]](https://arxiv.org/pdf/2409.15936.pdf),[[Code]](https://github.com/Jiaxin-Ye/DepMamba)
+- (arXiv 2024.12) AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment，[[Paper]](https://arxiv.org/pdf/2412.00833.pdf)
 
 ### Multi-Task
 - (arXiv 2024.07) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2407.02228.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
