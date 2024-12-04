@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/03
+**Last updated: 2024/12/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -277,6 +277,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) MedSora: Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation, [[Paper]](https://arxiv.org/pdf/2411.01647),[[Code]](https://wongzbb.github.io/MedSora/)
 - (arXiv 2024.11) KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling, [[Paper]](https://arxiv.org/pdf/2411.01647)
 - (arXiv 2024.12) MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.01405),[[Code]](https://github.com/nqnguyen812/MambaU-Lite)
+- (arXiv 2024.12) 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2412.00678),[[Code]](https://github.com/AtlasAnalyticsLab/2DMamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -449,6 +450,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking, [[Paper]](https://arxiv.org/pdf/2409.01148.pdf)
 - (arXiv 2024.10) Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking, [[Paper]](https://arxiv.org/pdf/2410.01806.pdf),[[Code]](https://github.com/mattiasegu/sambamotr)
 - (arXiv 2024.11) MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking, [[Paper]](https://arxiv.org/pdf/2411.08395.pdf)
+- (arXiv 2024.12) MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning, [[Paper]](https://arxiv.org/pdf/2412.00626.pdf)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
