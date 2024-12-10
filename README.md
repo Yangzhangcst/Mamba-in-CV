@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/04
+**Last updated: 2024/12/10
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -466,6 +466,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) VFIMamba: Video Frame Interpolation with State Space Models, [[Paper]](https://arxiv.org/pdf/2407.02315.pdf)
 - (arXiv 2024.07) VideoMamba: Spatio-Temporal Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2407.08476.pdf),[[Code]](https://github.com/jinyjelly/VideoMamba)
 - (arXiv 2024.07) DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba, [[Paper]](https://arxiv.org/pdf/2408.10679.pdf)
+- (arXiv 2024.12) Look Every Frame All at Once: Video-Ma2mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing, [[Paper]](https://arxiv.org/pdf/2411.19460.pdf),[[Code]](https://ivy-lvlm.github.io/Video-MA2MBA/)
 
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
