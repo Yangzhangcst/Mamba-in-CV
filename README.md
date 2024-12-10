@@ -278,7 +278,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling, [[Paper]](https://arxiv.org/pdf/2411.01647)
 - (arXiv 2024.12) MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.01405),[[Code]](https://github.com/nqnguyen812/MambaU-Lite)
 - (arXiv 2024.12) 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2412.00678),[[Code]](https://github.com/AtlasAnalyticsLab/2DMamba)
-
+- (arXiv 2024.12) SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders, [[Paper]](https://arxiv.org/pdf/2411.19544)
+  
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 
