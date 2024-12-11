@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/10
+**Last updated: 2024/12/11
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -24,6 +24,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos, [[Paper]](https://arxiv.org/pdf/2404.07645.pdf)
 - (arXiv 2024.09) Mamba Fusion: Learning Actions Through Questioning, [[Paper]](https://arxiv.org/pdf/2409.11513.pdf), [[Code]](https://github.com/Dongzhikang/MambaVL)
 - (arXiv 2024.10) SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2410.16746.pdf), [[Code]](https://github.com/Typistchen/SpikMamba)
+- (arXiv 2024.12) Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence, [[Paper]](https://arxiv.org/pdf/2412.07481.pdf), [[Code]](https://github.com/wenbohuang1002/Manta)
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
@@ -442,6 +443,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs, [[Paper]](https://arxiv.org/pdf/2408.11758.pdf),[[Code]](https://github.com/Event-AHU/MambaEVT)
 - (arXiv 2024.10) Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2410.10140.pdf)
 - (arXiv 2024.11) Arbitrary-Scale Super-Resolution via Scaleable State Space Model, [[Paper]](https://arxiv.org/pdf/2411.11906.pdf),[[Code]](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
+- (arXiv 2024.12) MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2412.07222.pdf)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
