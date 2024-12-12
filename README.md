@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/11
+**Last updated: 2024/12/12
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -116,6 +116,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) HRVMamba: High-Resolution Visual State Space Model for Dense Prediction, [[Paper]](https://arxiv.org/pdf/2410.03174),[[Code]](https://github.com/zhanghao5201/HRVMamba)
 - (arXiv 2024.10) MambaBEV: An efficient 3D detection model with Mamba2, [[Paper]](https://arxiv.org/pdf/2410.12673)
 - (arXiv 2024.11) MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2411.13628)
+- (arXiv 2024.12) MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery, [[Paper]](https://arxiv.org/pdf/2412.06211)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
