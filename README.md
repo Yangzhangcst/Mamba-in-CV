@@ -476,7 +476,6 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
 
-
 ### Other
 - (arXiv 2024.02) Pan-Mamba: Effective pan-sharpening with State Space Model, [[Paper]](https://arxiv.org/pdf/2402.12192.pdf),[[Code]](https://github.com/alexhe101/Pan-Mamba)
 - (arXiv 2024.04) InsectMamba: Insect Pest Classification with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.03611.pdf)
@@ -484,6 +483,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.08087.pdf),[[Code]](https://github.com/AlexYangxx/ColorMamba)
 - (arXiv 2024.10) ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction, [[Paper]](https://arxiv.org/pdf/2410.21535.pdf),[[Code]](https://github.com/LowlevelAI/ECMamba)
 - (arXiv 2024.11) RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model, [[Paper]](https://arxiv.org/pdf/2411.11717.pdf)
+- (arXiv 2024.12) Image Forgery Localization with State Space Models, [[Paper]](https://arxiv.org/pdf/2412.11214.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
