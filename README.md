@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/17
+**Last updated: 2024/12/19
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -456,6 +456,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking, [[Paper]](https://arxiv.org/pdf/2410.01806.pdf),[[Code]](https://github.com/mattiasegu/sambamotr)
 - (arXiv 2024.11) MambaXCTrack: Mamba-based Tracker with SSM Cross-correlation and Motion Prompt for Ultrasound Needle Tracking, [[Paper]](https://arxiv.org/pdf/2411.08395.pdf)
 - (arXiv 2024.12) MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning, [[Paper]](https://arxiv.org/pdf/2412.00626.pdf)
+- (arXiv 2024.12) MambaLCT: Boosting Tracking via Long-term Context State Space Model, [[Paper]](https://arxiv.org/pdf/2412.13615.pdf),[[Code]](https://github.com/GXNU-ZhongLab/MambaLCT)
+- (arXiv 2024.12) Robust Tracking via Mamba-based Context-aware Token Learning, [[Paper]](https://arxiv.org/pdf/2412.13611.pdf),[[Code]](https://github.com/GXNU-ZhongLab/TemTrack)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
