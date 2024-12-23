@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/21
+**Last updated: 2024/12/23
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -80,6 +80,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) MobileMamba: Lightweight Multi-Receptive Visual Mamba Network, [[Paper]](https://arxiv.org/pdf/2411.15941.pdf),[[Code]](https://github.com/lewandofskee/MobileMamba)
 - (arXiv 2024.11) TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba, [[Paper]](https://arxiv.org/pdf/2411.17473.pdf),[[Code]](https://github.com/xwmaxwma/TinyViM)
 - (arXiv 2024.12) Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training, [[Paper]](https://arxiv.org/pdf/2412.12496.pdf),[[Code]](https://github.com/NUS-HPC-AI-Lab/R-MeeTo)
+- (arXiv 2024.12) Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2412.16146.pdf)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -283,7 +284,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.01405),[[Code]](https://github.com/nqnguyen812/MambaU-Lite)
 - (arXiv 2024.12) 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2412.00678),[[Code]](https://github.com/AtlasAnalyticsLab/2DMamba)
 - (arXiv 2024.12) SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders, [[Paper]](https://arxiv.org/pdf/2411.19544)
-  
+- (arXiv 2024.12) S3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.14546),[[Code]](https://github.com/ErinWang2023/S3-Mamba)
+
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 
@@ -479,6 +481,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) VideoMamba: Spatio-Temporal Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2407.08476.pdf),[[Code]](https://github.com/jinyjelly/VideoMamba)
 - (arXiv 2024.07) DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba, [[Paper]](https://arxiv.org/pdf/2408.10679.pdf)
 - (arXiv 2024.12) Look Every Frame All at Once: Video-Ma2mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing, [[Paper]](https://arxiv.org/pdf/2411.19460.pdf),[[Code]](https://ivy-lvlm.github.io/Video-MA2MBA/)
+- (arXiv 2024.12) Efficient Self-Supervised Video Hashing with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2412.14518.pdf),[[Code]](https://github.com/gimpong/AAAI25-S5VH)
 
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
