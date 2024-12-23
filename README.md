@@ -392,6 +392,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) VmambaIR: Visual State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2403.11423.pdf),[[Code]](https://github.com/AlphacatPlus/VmambaIR)
 - (arXiv 2024.03) Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models, [[Paper]](https://arxiv.org/pdf/2403.17902.pdf)
 - (arXiv 2024.08) Multi-Scale Representation Learning for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2408.10145.pdf)
+- (arXiv 2024.12) Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation, [[Paper]](https://arxiv.org/pdf/2412.15845.pdf),[[Code]](https://github.com/12138-chr/MTAIR)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
