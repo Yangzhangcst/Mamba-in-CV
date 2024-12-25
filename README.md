@@ -285,6 +285,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2412.00678),[[Code]](https://github.com/AtlasAnalyticsLab/2DMamba)
 - (arXiv 2024.12) SkelMamba: A State Space Model for Efficient Skeleton Action Recognition of Neurological Disorders, [[Paper]](https://arxiv.org/pdf/2411.19544)
 - (arXiv 2024.12) S3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.14546),[[Code]](https://github.com/ErinWang2023/S3-Mamba)
+- (arXiv 2024.12) SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2412.08482)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
