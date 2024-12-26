@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/25
+**Last updated: 2024/12/26
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -83,6 +83,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2412.16146.pdf)
 - (arXiv 2024.12) Selective Visual Prompting in Vision Mamba, [[Paper]](https://arxiv.org/pdf/2412.08947.pdf),[[Code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
 
+### Clustering
+- (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
+
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 - (arXiv 2024.10) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -159,6 +162,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Few-Shot 
 - (arXiv 2024.07) Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2407.06136.pdf),[[Code]](https://github.com/xiaojieli0903/Mamba-FSCIL) 
+
+### Flow
+- (arXiv 2024.12) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation, [[Paper]](https://arxiv.org/pdf/2412.17366.pdf)
 
 ### Fusion
 - (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
