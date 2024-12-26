@@ -124,6 +124,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) MambaBEV: An efficient 3D detection model with Mamba2, [[Paper]](https://arxiv.org/pdf/2410.12673)
 - (arXiv 2024.11) MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2411.13628)
 - (arXiv 2024.12) MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery, [[Paper]](https://arxiv.org/pdf/2412.06211)
+- (arXiv 2024.12) COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection, [[Paper]](https://arxiv.org/pdf/2412.18076),[[Code]](https://github.com/luluyuu/COMO)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -446,6 +447,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) VSSD: Vision Mamba with Non-Casual State Space Duality, [[Paper]](https://arxiv.org/pdf/2407.18559.pdf),[[Code]](https://github.com/YuHengsss/VSSD)
 - (arXiv 2024.08) DeMansia: Mamba Never Forgets Any Tokens, [[Paper]](https://arxiv.org/pdf/2408.01986.pdf),[[Code]](https://github.com/catalpaaa/DeMansia)
 - (arXiv 2024.09) Saliency Unification through Mamba for Visual Attention Modeling, [[Paper]](https://arxiv.org/pdf/2406.17815.pdf),[[Code]](https://github.com/Arhosseini77/SUM)
+- (arXiv 2024.12) V"Mean"ba: Visual State Space Models only need 1 hidden dimension, [[Paper]](https://arxiv.org/pdf/2412.16602.pdf)
 
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
