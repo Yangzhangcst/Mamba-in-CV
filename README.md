@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2024/12/26
+**Last updated: 2025/01/01
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -33,7 +33,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Anomaly Detection
 - (arXiv 2024.04) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2404.06564.pdf), [[Code]](https://github.com/lewandofskee/MambaAD)
 - (arXiv 2024.07) ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement, [[Paper]](https://arxiv.org/pdf/2407.17705.pdf), [[Code]](https://github.com/qsc1103/ALMRR)
-
+- (arXiv 2025.01) STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2412.20084.pdf)
+  
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
 
@@ -104,6 +105,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Depth
 - (arXiv 2024.06) MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2406.04532.pdf),[[Code]](https://github.com/ionut-grigore99/MambaDepth)
+- (arXiv 2025.01) DepthMamba with Adaptive Fusion, [[Paper]](https://arxiv.org/pdf/2412.19964.pdf)
 
 ### Deraining
 - (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
@@ -352,6 +354,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
 - (arXiv 2024.08) PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2408.03540)
 
+### Quantization
+- (arXiv 2025.01) PTQ4VM: Post-Training Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2412.20386),[[Code]](https://github.com/YoungHyun197/ptq4vm)
+
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
 - (arXiv 2024.05) OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
@@ -428,6 +433,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Shadow
 - (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
+
+### SLAM
+- (arXiv 2025.01) MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing, [[Paper]](https://arxiv.org/pdf/2412.20082.pdf)
 
 ### Spatiotemporal Forecasting
 - (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
