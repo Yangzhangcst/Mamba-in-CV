@@ -364,7 +364,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) An Empirical Study of Mamba-based Pedestrian Attribute Recognition, [[Paper]](https://arxiv.org/pdf/2407.10374.pdf),[[Code]](https://github.com/Event-AHU/OpenPAR)
 
 ### Reconstruction
-- (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf)
+- (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf), [[Code]](https://github.com/SkyworkAI/Gamba)
 - (arXiv 2024.05) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images, [[Paper]](https://arxiv.org/pdf/2405.07777.pdf),[[Code]](https://github.com/wxy11-27/GMSR)
 - (arXiv 2024.11) M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.12635),[[Code]](https://github.com/AnnnnnieZhang/M3D)
 
