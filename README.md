@@ -297,6 +297,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) S3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2412.14546),[[Code]](https://github.com/ErinWang2023/S3-Mamba)
 - (arXiv 2024.12) SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2412.08482)
 - (arXiv 2025.01) HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation, [[Paper]](https://arxiv.org/pdf/2501.00751),[[Code]](https://anonymous.4open.science/r/ICME2025_HCMA-UNet/README.md)
+- (arXiv 2025.01) Merging Context Clustering with Visual State Space Models for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2501.01618),[[Code]](https://github.com/zymissy/CCViM)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
