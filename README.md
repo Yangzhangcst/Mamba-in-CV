@@ -83,6 +83,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training, [[Paper]](https://arxiv.org/pdf/2412.12496.pdf),[[Code]](https://github.com/NUS-HPC-AI-Lab/R-MeeTo)
 - (arXiv 2024.12) Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2412.16146.pdf)
 - (arXiv 2024.12) Selective Visual Prompting in Vision Mamba, [[Paper]](https://arxiv.org/pdf/2412.08947.pdf),[[Code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
+- (arXiv 2025.01) A Separable Self-attention Inspired by the State Space Model for Computer Vision, [[Paper]](https://arxiv.org/pdf/2501.02040.pdf),[[Code]](https://github.com/yws-wxs/VMINet)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -298,6 +299,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2412.08482)
 - (arXiv 2025.01) HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation, [[Paper]](https://arxiv.org/pdf/2501.00751),[[Code]](https://anonymous.4open.science/r/ICME2025_HCMA-UNet/README.md)
 - (arXiv 2025.01) Merging Context Clustering with Visual State Space Models for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2501.01618),[[Code]](https://github.com/zymissy/CCViM)
+- (arXiv 2025.01) KM-UNet KAN Mamba UNet for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2501.02559),[[Code]](https://github.com/2760613195/KM_UNet)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
