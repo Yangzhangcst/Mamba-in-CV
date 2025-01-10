@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/01/09
+**Last updated: 2025/01/10
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -142,6 +142,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
 
+### Edge
+- (arXiv 2025.01) EDMB: Edge Detector with Mamba, [[Paper]](https://arxiv.org/pdf/2501.04846.pdf),[[Code]](https://github.com/Li-yachuan/EDMB)
+
 ### Enhancement
 - (arXiv 2024.04) MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2404/2404.13884.pdf),[[Code]](https://github.com/1024AILab/MambaUIE)
 - (arXiv 2024.05) Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2405.03349.pdf),[[Code]](https://github.com/YhuoyuH/RetinexMamba)
@@ -206,6 +209,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01231.pdf)
 - (arXiv 2024.08) Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2408.01224.pdf),[[Code]](https://github.com/MHassaanButt/MHA_SS_Mamba)
 - (arXiv 2024.10) IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2410.05100.pdf)
+- (arXiv 2025.01) MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2501.04944.pdf),[[Code]](https://github.com/li-yapeng/MambaHSI)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
