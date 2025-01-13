@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/01/10
+**Last updated: 2025/01/13
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -25,6 +25,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Mamba Fusion: Learning Actions Through Questioning, [[Paper]](https://arxiv.org/pdf/2409.11513.pdf), [[Code]](https://github.com/Dongzhikang/MambaVL)
 - (arXiv 2024.10) SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition, [[Paper]](https://arxiv.org/pdf/2410.16746.pdf), [[Code]](https://github.com/Typistchen/SpikMamba)
 - (arXiv 2024.12) Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence, [[Paper]](https://arxiv.org/pdf/2412.07481.pdf), [[Code]](https://github.com/wenbohuang1002/Manta)
+- (arXiv 2025.01) MS-Temba : Multi-Scale Temporal Mamba for Efficient Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2501.06138.pdf), [[Code]](https://github.com/thearkaprava/MS-Temba)
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
