@@ -93,13 +93,13 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Completion
 - (arXiv 2025.01) Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2501.07260.pdf),[[Code]](https://github.com/xrkong/skimba)
 
-
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 - (arXiv 2024.10) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
+- (arXiv 2025.01) Mamba-MOC: A Multicategory Remote Object Counting via State Space Model, [[Paper]](https://arxiv.org/pdf/2501.06697.pdf),[[Code]](https://github.com/lp-094/Mamba-MOC)
 
 ### Deblurring
 - (arXiv 2024.03) Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.20106.pdf),[[Code]](https://github.com/MambaMixer/M2)
@@ -310,6 +310,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation, [[Paper]](https://arxiv.org/pdf/2501.00751),[[Code]](https://anonymous.4open.science/r/ICME2025_HCMA-UNet/README.md)
 - (arXiv 2025.01) Merging Context Clustering with Visual State Space Models for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2501.01618),[[Code]](https://github.com/zymissy/CCViM)
 - (arXiv 2025.01) KM-UNet KAN Mamba UNet for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2501.02559),[[Code]](https://github.com/2760613195/KM_UNet)
+- (arXiv 2025.01) MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation, [[Paper]](https://arxiv.org/pdf/2501.07120)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
