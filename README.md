@@ -312,6 +312,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) Merging Context Clustering with Visual State Space Models for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2501.01618),[[Code]](https://github.com/zymissy/CCViM)
 - (arXiv 2025.01) KM-UNet KAN Mamba UNet for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2501.02559),[[Code]](https://github.com/2760613195/KM_UNet)
 - (arXiv 2025.01) MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation, [[Paper]](https://arxiv.org/pdf/2501.07120)
+- (arXiv 2025.01) DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction, [[Paper]](https://arxiv.org/pdf/2501.08163)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -337,6 +338,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 - (arXiv 2024.09) DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection，[[Paper]](https://arxiv.org/pdf/2409.15936.pdf),[[Code]](https://github.com/Jiaxin-Ye/DepMamba)
 - (arXiv 2024.12) AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment，[[Paper]](https://arxiv.org/pdf/2412.00833.pdf)
+- (arXiv 2025.01) AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation，[[Paper]](https://arxiv.org/pdf/2501.07810.pdf),[Code](https://github.com/SitongGong/AVS-Mamba)
 
 ### Multi-Task
 - (arXiv 2024.07) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2407.02228.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
