@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/01/14
+**Last updated: 2025/01/16
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -143,6 +143,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba, [[Paper]](https://arxiv.org/pdf/2408.02615)
 - (arXiv 2024.09) Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models, [[Paper]](https://arxiv.org/pdf/2409.07163),[[Code]](https://andycao1125.github.io/mamba_policy/)
 - (arXiv 2024.11) DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation, [[Paper]](https://arxiv.org/pdf/2411.04168),[[Code]](https://github.com/VinAIResearch/DiMSUM)
+- (arXiv 2025.01) MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation, [[Paper]](https://arxiv.org/pdf/2501.08837)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
