@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/01/16
+**Last updated: 2025/01/17
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -173,6 +173,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Face
 - (arXiv 2024.05) FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space, [[Paper]](https://arxiv.org/pdf/2405.01828.pdf),[[Code]](https://github.com/SwjtuMa/FER-YOLO-Mamba) 
 - (arXiv 2024.09) Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations, [[Paper]](https://arxiv.org/pdf/2409.05243.pdf)
+- (arXiv 2025.01) WMamba: Wavelet-based Mamba for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2501.09617.pdf)
 
 ### Few-Shot 
 - (arXiv 2024.07) Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2407.06136.pdf),[[Code]](https://github.com/xiaojieli0903/Mamba-FSCIL) 
