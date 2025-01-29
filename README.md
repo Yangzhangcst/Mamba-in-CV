@@ -316,6 +316,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) KM-UNet KAN Mamba UNet for medical image segmentation, [[Paper]](https://arxiv.org/pdf/2501.02559),[[Code]](https://github.com/2760613195/KM_UNet)
 - (arXiv 2025.01) MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation, [[Paper]](https://arxiv.org/pdf/2501.07120)
 - (arXiv 2025.01) DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction, [[Paper]](https://arxiv.org/pdf/2501.08163)
+- (arXiv 2025.01) Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation, [[Paper]](https://arxiv.org/pdf/2501.14679),[[Code]](https://github.com/Rongzhao-He/surface-vision-mamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
