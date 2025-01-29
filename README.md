@@ -327,6 +327,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Mixture of Experts
 - (arXiv 2024.01) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts, [[Paper]](https://arxiv.org/pdf/2401.04081.pdf)
 - (arXiv 2024.01) BlackMamba: Mixture of Experts for State-Space Models, [[Paper]](https://arxiv.org/pdf/2402.01771.pdf), [[Code]](https://github.com/Zyphra/BlackMamba)
+- (arXiv 2025.01) Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity, [[Paper]](https://arxiv.org/pdf/2501.16295.pdf), [[Code]](https://github.com/Weixin-Liang/Mixture-of-Mamba)
 
 ### Motion
 - (arXiv 2024.03) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM, [[Paper]](https://arxiv.org/pdf/2403.07487.pdf), [[Code]](https://steve-zeyu-zhang.github.io/MotionMamba)
@@ -423,6 +424,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2409.06309)
 - (arXiv 2024.09) SITSMamba for Crop Classification based on Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2409.09673),[[Code]](https://github.com/XiaoleiQinn/SITSMamba)
 - (arXiv 2024.10) RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2410.13532)
+- (arXiv 2025.01) CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2501.15455),[[Code]](https://github.com/xwmaxwma/rschange)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
