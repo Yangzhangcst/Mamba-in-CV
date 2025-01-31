@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/01/29
+**Last updated: 2025/01/31
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -498,6 +498,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2410.10140.pdf)
 - (arXiv 2024.11) Arbitrary-Scale Super-Resolution via Scaleable State Space Model, [[Paper]](https://arxiv.org/pdf/2411.11906.pdf),[[Code]](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
 - (arXiv 2024.12) MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2412.07222.pdf)
+- (arXiv 2025.01) HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution, [[Paper]](https://arxiv.org/pdf/2501.18500.pdf)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
