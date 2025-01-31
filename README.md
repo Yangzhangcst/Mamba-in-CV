@@ -433,6 +433,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) Multi-Scale Representation Learning for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2408.10145.pdf)
 - (arXiv 2024.12) Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation, [[Paper]](https://arxiv.org/pdf/2412.15845.pdf),[[Code]](https://github.com/12138-chr/MTAIR)
 - (arXiv 2025.01) Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2501.16583.pdf)
+- (arXiv 2025.01) MatIR: A Hybrid Mamba-Transformer Image Restoration Model, [[Paper]](https://arxiv.org/pdf/2501.18401.pdf),[[Code]](https://github.com/wenjuan7275/MatIR)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
