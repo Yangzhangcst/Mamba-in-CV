@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/01/31
+**Last updated: 2025/02/05
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -237,6 +237,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2, [[Paper]](https://arxiv.org/pdf/2407.19832)
 - (arXiv 2024.09) Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling, [[Paper]](https://arxiv.org/pdf/2409.05395),[[Code]](https://github.com/gpantaz/vl_mamba)
 
+### Matching
+- (arXiv 2025.02) MambaGlue: Fast and Robust Local Feature Matching With Mamba, [[Paper]](https://arxiv.org/pdf/2502.00462),[[Code]](https://github.com/url-kaist/MambaGlue)
+
 ### Medical
 - (arXiv 2024.01) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.04722.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
 - (arXiv 2024.01) SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.13560.pdf), [[Code]](https://github.com/ge-xing/SegMamba)
@@ -425,6 +428,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) SITSMamba for Crop Classification based on Satellite Image Time Series, [[Paper]](https://arxiv.org/pdf/2409.09673),[[Code]](https://github.com/XiaoleiQinn/SITSMamba)
 - (arXiv 2024.10) RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2410.13532)
 - (arXiv 2025.01) CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2501.15455),[[Code]](https://github.com/xwmaxwma/rschange)
+- (arXiv 2025.02) SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models, [[Paper]](https://arxiv.org/pdf/2502.00435),[[Code]](https://github.com/mdchuc/HRSFM)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
