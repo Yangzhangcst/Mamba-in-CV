@@ -87,6 +87,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2412.16146.pdf)
 - (arXiv 2024.12) Selective Visual Prompting in Vision Mamba, [[Paper]](https://arxiv.org/pdf/2412.08947.pdf),[[Code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
 - (arXiv 2025.01) A Separable Self-attention Inspired by the State Space Model for Computer Vision, [[Paper]](https://arxiv.org/pdf/2501.02040.pdf),[[Code]](https://github.com/yws-wxs/VMINet)
+- (arXiv 2025.02) Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing, [[Paper]](https://arxiv.org/pdf/2502.00594.pdf),[[Code]](https://github.com/insitro/FastVim)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -97,6 +98,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 - (arXiv 2024.10) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
+- (arXiv 2025.02) S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation, [[Paper]](https://arxiv.org/pdf/2502.00700.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
@@ -195,6 +197,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Generation
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
 - (arXiv 2024.08) Scalable Autoregressive Image Generation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.12245),[[Code]](https://github.com/hp-l33/AiM)
+- (arXiv 2025.02) Pushing the Boundaries of State Space Models for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2502.00972),[[Code]](https://yiconghong.me/HTH/)
 
 ### Gesture
 - (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
