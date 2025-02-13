@@ -17,6 +17,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) Vision Mamba: A Comprehensive Survey and Taxonomy, [[Paper]](https://arxiv.org/pdf/2405.04404.pdf), [[Project]](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
 - (arXiv 2024.10) A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond, [[Paper]](https://arxiv.org/pdf/2410.02362),[[Code]](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)
 - (arXiv 2024.10) Mamba in Vision: A Comprehensive Survey of Techniques and Applications, [[Paper]](https://arxiv.org/pdf/2410.03105),[[Code]](https://github.com/maklachur/Mamba-in-Computer-Vision)
+- (arXiv 2025.02) A Survey on Mamba Architecture for Vision Applications, [[Paper]](https://arxiv.org/pdf/2502.07161)
 
 ## Recent Papers
 ### Action
