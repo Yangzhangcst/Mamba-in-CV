@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/02/12
+**Last updated: 2025/02/20
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -236,6 +236,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Knowledge Distillation
 - (arXiv 2024.09) Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2409.11018.pdf)
 - (arXiv 2024.11) Vision Mamba Distillation for Low-resolution Fine-grained Image Classification, [[Paper]](https://arxiv.org/pdf/2411.17980.pdf),[[Code]](https://github.com/boa2004plaust/ViMD)
+- (arXiv 2025.02) Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation, [[Paper]](https://arxiv.org/pdf/2502.13145.pdf),[[Code]](https://github.com/hustvl/mmMamba)
 
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
