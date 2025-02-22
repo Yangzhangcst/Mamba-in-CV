@@ -141,6 +141,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery, [[Paper]](https://arxiv.org/pdf/2412.06211)
 - (arXiv 2024.12) COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection, [[Paper]](https://arxiv.org/pdf/2412.18076),[[Code]](https://github.com/luluyuu/COMO)
 - (arXiv 2025.01) SMamba: Sparse Mamba for Event-based Object Detection, [[Paper]](https://arxiv.org/pdf/2501.11971),[[Code]](https://github.com/Zizzzzzzz/SMamba)
+- (arXiv 2025.02) DAViMNet: SSMs-Based Domain Adaptive Object Detection, [[Paper]](https://arxiv.org/pdf/2502.11178),[[Code]](https://github.com/enesdoruk/DAVimNet)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
