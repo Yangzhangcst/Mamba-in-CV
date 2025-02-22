@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/02/20
+**Last updated: 2025/02/22
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -89,6 +89,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Selective Visual Prompting in Vision Mamba, [[Paper]](https://arxiv.org/pdf/2412.08947.pdf),[[Code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
 - (arXiv 2025.01) A Separable Self-attention Inspired by the State Space Model for Computer Vision, [[Paper]](https://arxiv.org/pdf/2501.02040.pdf),[[Code]](https://github.com/yws-wxs/VMINet)
 - (arXiv 2025.02) Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing, [[Paper]](https://arxiv.org/pdf/2502.00594.pdf),[[Code]](https://github.com/insitro/FastVim)
+- (arXiv 2025.02) DAMamba: Vision State Space Model with Dynamic Adaptive Scan, [[Paper]](https://arxiv.org/pdf/2502.12627.pdf),[[Code]](https://github.com/ltzovo/DAMamba)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
