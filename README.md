@@ -332,6 +332,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) Topology-Aware Wavelet Mamba for Airway Structure Segmentation in Postoperative Recurrent Nasopharyngeal Carcinoma CT Scans, [[Paper]](https://arxiv.org/pdf/2502.14363)
 - (arXiv 2025.02) CardiacMamba: A Multimodal RGB-RF Fusion Framework with State Space Models for Remote Physiological Measurement, [[Paper]](https://arxiv.org/pdf/2502.13624),[[Code]](https://github.com/WuZheng42/CardiacMamba)
 - (arXiv 2025.02) MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2502.13524),[[Code]](https://github.com/anthonyweidai/MobileViM_3D/)
+- (arXiv 2025.02) A Reverse Mamba Attention Network for Pathological Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2502.18232),[[Code]](https://github.com/JunZengz/RMAMamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
