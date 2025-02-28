@@ -188,6 +188,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Flow
 - (arXiv 2024.12) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation, [[Paper]](https://arxiv.org/pdf/2412.17366.pdf)
+- (arXiv 2025.02) MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2502.16907.pdf),[[Code]](https://github.com/SCNU-RISLAB/MambaFlow) 
 
 ### Fusion
 - (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
@@ -560,6 +561,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model, [[Paper]](https://arxiv.org/pdf/2411.11717.pdf)
 - (arXiv 2024.12) Image Forgery Localization with State Space Models, [[Paper]](https://arxiv.org/pdf/2412.11214.pdf)
 - (arXiv 2025.01) Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2501.01262.pdf)
+- (arXiv 2025.02) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba, [[Paper]](https://arxiv.org/pdf/2502.15130.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
