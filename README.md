@@ -336,8 +336,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) A Reverse Mamba Attention Network for Pathological Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2502.18232),[[Code]](https://github.com/JunZengz/RMAMamba)
 - (arXiv 2025.02) EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training, [[Paper]](https://arxiv.org/pdf/2502.19090)
 - (arXiv 2025.03) From Claims to Evidence: A Unified Framework and Critical Analysis of CNN vs. Transformer vs. Mamba in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.01306),[[Code]](https://github.com/QLYCode/SparseMamba-PCL)
-
 - (arXiv 2025.03) SparseMamba-PCL: Scribble-Supervised Medical Image Segmentation via SAM-Guided Progressive Collaborative Learning, [[Paper]](https://arxiv.org/pdf/2503.01633),[[Code]](https://github.com/AI-in-Cardiovascular-Medicine/nnUZoo)
+- (arXiv 2025.03) COMMA: Coordinate-aware Modulated Mamba Network for 3D Dispersed Vessel Segmentation, [[Paper]](https://arxiv.org/pdf/2503.02332),[[Code]](https://github.com/shigen-StoneRoot/COMMA)
+- (arXiv 2025.03) XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2503.02619),[[Code]](https://github.com/XZheng0427/XFMamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -470,6 +471,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Salient
 - (arXiv 2024.10) MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2410.15015),[[Code]](https://github.com/YueZhan721/MambaSOD)
 - (arXiv 2024.11) LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2411.06652),[[Code]](https://github.com/liuzywen/LFScribble)
+- (arXiv 2025.03) SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images [[Paper]](https://arxiv.org/pdf/2503.02270)
 
 ### Self supervised learning
 - (arXiv 2024.08) MambaMIM: Pre-training Mamba with State Space Token-interpolation, [[Paper]](https://arxiv.org/pdf/2408.08070.pdf),[[Code]](https://github.com/FengheTan9/MambaMIM)
