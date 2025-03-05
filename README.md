@@ -335,6 +335,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) MobileViM: A Light-weight and Dimension-independent Vision Mamba for 3D Medical Image Analysis, [[Paper]](https://arxiv.org/pdf/2502.13524),[[Code]](https://github.com/anthonyweidai/MobileViM_3D/)
 - (arXiv 2025.02) A Reverse Mamba Attention Network for Pathological Liver Segmentation, [[Paper]](https://arxiv.org/pdf/2502.18232),[[Code]](https://github.com/JunZengz/RMAMamba)
 - (arXiv 2025.02) EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training, [[Paper]](https://arxiv.org/pdf/2502.19090)
+- (arXiv 2025.03) From Claims to Evidence: A Unified Framework and Critical Analysis of CNN vs. Transformer vs. Mamba in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.01306)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
