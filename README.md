@@ -444,6 +444,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2410.13532)
 - (arXiv 2025.01) CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2501.15455),[[Code]](https://github.com/xwmaxwma/rschange)
 - (arXiv 2025.02) SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models, [[Paper]](https://arxiv.org/pdf/2502.00435),[[Code]](https://github.com/mdchuc/HRSFM)
+- (arXiv 2025.03) 2DMCG:2D Mamba with Change Flow Guidance for Change Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.00521)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
