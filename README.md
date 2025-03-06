@@ -249,6 +249,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Matching
 - (arXiv 2025.02) MambaGlue: Fast and Robust Local Feature Matching With Mamba, [[Paper]](https://arxiv.org/pdf/2502.00462),[[Code]](https://github.com/url-kaist/MambaGlue)
+- (arXiv 2025.03) JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba, [[Paper]](https://arxiv.org/pdf/2503.03437),[[Code]](https://github.com/leoluxxx/JamMa)
 
 ### Medical
 - (arXiv 2024.01) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.04722.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
