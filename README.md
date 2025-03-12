@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/06
+**Last updated: 2025/03/12
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -189,6 +189,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Flow
 - (arXiv 2024.12) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation, [[Paper]](https://arxiv.org/pdf/2412.17366.pdf)
 - (arXiv 2025.02) MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation, [[Paper]](https://arxiv.org/pdf/2502.16907.pdf),[[Code]](https://github.com/SCNU-RISLAB/MambaFlow) 
+- (arXiv 2025.03) MambaFlow: A Mamba-Centric Architecture for End-to-End Optical Flow Estimation, [[Paper]](https://arxiv.org/pdf/2503.07046.pdf)
 
 ### Fusion
 - (arXiv 2024.04) FusionMamba: Efficient Image Fusion with State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07932.pdf) 
