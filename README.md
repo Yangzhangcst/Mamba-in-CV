@@ -96,6 +96,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Completion
 - (arXiv 2025.01) Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2501.07260.pdf),[[Code]](https://github.com/xrkong/skimba)
+- (arXiv 2025.03) Global-Aware Monocular Semantic Scene Completion with State Space Models, [[Paper]](https://arxiv.org/pdf/2503.06569.pdf)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -362,6 +363,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf), [[Code]](https://steve-zeyu-zhang.github.io/InfiniMotion/)
 - (arXiv 2024.08) Pedestrian Motion Prediction Using Transformer-based Behavior Clustering and Data-Driven Reachability Analysis, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf)
 - (arXiv 2024.11) KMM: Key Frame Mask Mamba for Extended Motion Generation, [[Paper]](https://arxiv.org/pdf/2411.06481.pdf), [[Code]](https://github.com/steve-zeyu-zhang/KMM)
+- (arXiv 2025.03) HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation, [[Paper]](https://arxiv.org/pdf/2503.06897.pdf)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
@@ -451,6 +453,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2501.15455),[[Code]](https://github.com/xwmaxwma/rschange)
 - (arXiv 2025.02) SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models, [[Paper]](https://arxiv.org/pdf/2502.00435),[[Code]](https://github.com/mdchuc/HRSFM)
 - (arXiv 2025.03) 2DMCG:2D Mamba with Change Flow Guidance for Change Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.00521)
+- (arXiv 2025.03) M3amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification, [[Paper]](https://arxiv.org/pdf/2503.06446),[[Code]](https://github.com/kaka-Cao/M3amba)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
