@@ -90,6 +90,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) A Separable Self-attention Inspired by the State Space Model for Computer Vision, [[Paper]](https://arxiv.org/pdf/2501.02040.pdf),[[Code]](https://github.com/yws-wxs/VMINet)
 - (arXiv 2025.02) Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing, [[Paper]](https://arxiv.org/pdf/2502.00594.pdf),[[Code]](https://github.com/insitro/FastVim)
 - (arXiv 2025.02) DAMamba: Vision State Space Model with Dynamic Adaptive Scan, [[Paper]](https://arxiv.org/pdf/2502.12627.pdf),[[Code]](https://github.com/ltzovo/DAMamba)
+- (arXiv 2025.03) Spectral State Space Model for Rotation-Invariant Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2503.06369.pdf),[[Code]](https://github.com/Sahardastani/equivariant-vmamba)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
