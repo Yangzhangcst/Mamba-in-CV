@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/12
+**Last updated: 2025/03/13
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -343,6 +343,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) SparseMamba-PCL: Scribble-Supervised Medical Image Segmentation via SAM-Guided Progressive Collaborative Learning, [[Paper]](https://arxiv.org/pdf/2503.01633),[[Code]](https://github.com/AI-in-Cardiovascular-Medicine/nnUZoo)
 - (arXiv 2025.03) COMMA: Coordinate-aware Modulated Mamba Network for 3D Dispersed Vessel Segmentation, [[Paper]](https://arxiv.org/pdf/2503.02332),[[Code]](https://github.com/shigen-StoneRoot/COMMA)
 - (arXiv 2025.03) XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2503.02619),[[Code]](https://github.com/XZheng0427/XFMamba)
+- (arXiv 2025.03) SegResMamba: An Efficient Architecture for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.07766)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -371,7 +372,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection，[[Paper]](https://arxiv.org/pdf/2409.15936.pdf),[[Code]](https://github.com/Jiaxin-Ye/DepMamba)
 - (arXiv 2024.12) AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment，[[Paper]](https://arxiv.org/pdf/2412.00833.pdf)
 - (arXiv 2025.01) AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation，[[Paper]](https://arxiv.org/pdf/2501.07810.pdf),[Code](https://github.com/SitongGong/AVS-Mamba)
-
+- (arXiv 2025.03) OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models，[[Paper]](https://arxiv.org/pdf/2503.08686.pdf),[Code](https://github.com/hustvl/OmniMamba)
+  
 ### Multi-Task
 - (arXiv 2024.07) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2407.02228.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
 - (arXiv 2024.08)  MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2408.15101.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
