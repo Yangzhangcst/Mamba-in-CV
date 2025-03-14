@@ -175,13 +175,13 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement, [[Paper]](https://arxiv.org/abs/2409.07040.pdf)
 - (arXiv 2024.09) Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2409.16604.pdf),[[Code]](https://github.com/guanguanboy/Semi-LLIE)
 
+### Emotion
+- (arXiv 2025.03) Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space, [[Paper]](https://arxiv.org/pdf/2503.10104.pdf),[[Code]](https://github.com/FreedomPuppy77/Charon)
+
 ### Event Cameras
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
 - (arXiv 2024.04) MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking, [[Paper]](https://arxiv.org/pdf/2404.12083.pdf) 
 - (arXiv 2024.09) Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration, [[Paper]](https://arxiv.org/pdf/2409.16953.pdf),[[Code]](https://github.com/jiazhou-garland/EventBind)
-
-### Emotion
-- (arXiv 2025.03) Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space, [[Paper]](https://arxiv.org/pdf/2503.10104.pdf),[[Code]](https://github.com/FreedomPuppy77/Charon)
 
 ### Face
 - (arXiv 2024.05) FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space, [[Paper]](https://arxiv.org/pdf/2405.01828.pdf),[[Code]](https://github.com/SwjtuMa/FER-YOLO-Mamba) 
@@ -413,6 +413,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Quantization
 - (arXiv 2025.01) PTQ4VM: Post-Training Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2412.20386),[[Code]](https://github.com/YoungHyun197/ptq4vm)
 - (arXiv 2025.01) QMamba: Post-Training Quantization for Vision State Space Models, [[Paper]](https://arxiv.org/pdf/2501.13624)
+- (arXiv 2025.03) ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2503.09509)
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
