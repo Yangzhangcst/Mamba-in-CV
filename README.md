@@ -461,6 +461,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models, [[Paper]](https://arxiv.org/pdf/2502.00435),[[Code]](https://github.com/mdchuc/HRSFM)
 - (arXiv 2025.03) 2DMCG:2D Mamba with Change Flow Guidance for Change Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.00521)
 - (arXiv 2025.03) M3amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification, [[Paper]](https://arxiv.org/pdf/2503.06446),[[Code]](https://github.com/kaka-Cao/M3amba)
+- (arXiv 2025.03) RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.10392),[[Code]](https://github.com/MiliLab/RoMA)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
