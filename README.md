@@ -50,6 +50,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2409.07714.pdf)
 - (arXiv 2024.09) CoMamba: Real-time Cooperative Perception Unlocked with State Space Models, [[Paper]](https://arxiv.org/pdf/2409.10699.pdf)
 - (arXiv 2025.01) H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2501.04302.pdf)
+- (arXiv 2025.03) Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM, [[Paper]](https://arxiv.org/pdf/2503.10898.pdf)
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -585,6 +586,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Image Forgery Localization with State Space Models, [[Paper]](https://arxiv.org/pdf/2412.11214.pdf)
 - (arXiv 2025.01) Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2501.01262.pdf)
 - (arXiv 2025.02) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba, [[Paper]](https://arxiv.org/pdf/2502.15130.pdf)
+- (arXiv 2025.03) HiCMamba: Enhancing Hi-C Resolution and Identifying 3D Genome Structures with State Space Modeling, [[Paper]](https://arxiv.org/pdf/2503.10713.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
