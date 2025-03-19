@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/18
+**Last updated: 2025/03/19
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -414,6 +414,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) PTQ4VM: Post-Training Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2412.20386),[[Code]](https://github.com/YoungHyun197/ptq4vm)
 - (arXiv 2025.01) QMamba: Post-Training Quantization for Vision State Space Models, [[Paper]](https://arxiv.org/pdf/2501.13624)
 - (arXiv 2025.03) ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2503.09509)
+- (arXiv 2025.03) OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models, [[Paper]](https://arxiv.org/pdf/2503.10959)
 
 ### Recognition
 - (arXiv 2024.05) MemoryMamba: Memory-Augmented State Space Model for Defect Recognition, [[Paper]](https://arxiv.org/pdf/2405.03673.pdf)
