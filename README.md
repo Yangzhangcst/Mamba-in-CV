@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/19
+**Last updated: 2025/03/21
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -145,6 +145,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection, [[Paper]](https://arxiv.org/pdf/2412.18076),[[Code]](https://github.com/luluyuu/COMO)
 - (arXiv 2025.01) SMamba: Sparse Mamba for Event-based Object Detection, [[Paper]](https://arxiv.org/pdf/2501.11971),[[Code]](https://github.com/Zizzzzzzz/SMamba)
 - (arXiv 2025.02) DAViMNet: SSMs-Based Domain Adaptive Object Detection, [[Paper]](https://arxiv.org/pdf/2502.11178),[[Code]](https://github.com/enesdoruk/DAVimNet)
+- (arXiv 2025.03) State Space Model Meets Transformer: A New Paradigm for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.14493),[[Code]](https://github.com/OpenSpaceAI/DEST3D)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -587,6 +588,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2501.01262.pdf)
 - (arXiv 2025.02) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba, [[Paper]](https://arxiv.org/pdf/2502.15130.pdf)
 - (arXiv 2025.03) HiCMamba: Enhancing Hi-C Resolution and Identifying 3D Genome Structures with State Space Modeling, [[Paper]](https://arxiv.org/pdf/2503.10713.pdf)
+- (arXiv 2025.03) BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau, [[Paper]](https://arxiv.org/pdf/2503.12495.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
