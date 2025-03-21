@@ -51,6 +51,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) CoMamba: Real-time Cooperative Perception Unlocked with State Space Models, [[Paper]](https://arxiv.org/pdf/2409.10699.pdf)
 - (arXiv 2025.01) H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2501.04302.pdf)
 - (arXiv 2025.03) Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM, [[Paper]](https://arxiv.org/pdf/2503.10898.pdf)
+- (arXiv 2025.03) MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations, [[Paper]](https://arxiv.org/pdf/2503.13858.pdf), [[Code]](https://github.com/amai-gsu/MamBEV/tree/main)
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -105,6 +106,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
 - (arXiv 2025.02) S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation, [[Paper]](https://arxiv.org/pdf/2502.00700.pdf)
 - (arXiv 2025.02) CMamba: Learned Image Compression with State Space Models, [[Paper]](https://arxiv.org/pdf/2502.04988.pdf)
+- (arXiv 2025.03) MambaIC: State Space Models for High-Performance Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2503.12461.pdf),[[Code]](https://github.com/AuroraZengfh/MambaIC)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
@@ -146,6 +148,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) SMamba: Sparse Mamba for Event-based Object Detection, [[Paper]](https://arxiv.org/pdf/2501.11971),[[Code]](https://github.com/Zizzzzzzz/SMamba)
 - (arXiv 2025.02) DAViMNet: SSMs-Based Domain Adaptive Object Detection, [[Paper]](https://arxiv.org/pdf/2502.11178),[[Code]](https://github.com/enesdoruk/DAVimNet)
 - (arXiv 2025.03) State Space Model Meets Transformer: A New Paradigm for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.14493),[[Code]](https://github.com/OpenSpaceAI/DEST3D)
+- (arXiv 2025.03) UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.12009),[[Code]](https://github.com/suhaisheng/UniMamba)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -156,6 +159,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models, [[Paper]](https://arxiv.org/pdf/2409.07163),[[Code]](https://andycao1125.github.io/mamba_policy/)
 - (arXiv 2024.11) DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation, [[Paper]](https://arxiv.org/pdf/2411.04168),[[Code]](https://github.com/VinAIResearch/DiMSUM)
 - (arXiv 2025.01) MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation, [[Paper]](https://arxiv.org/pdf/2501.08837)
+- (arXiv 2025.03) TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba, [[Paper]](https://arxiv.org/pdf/2503.13004)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
@@ -218,6 +222,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Graph
 - (arXiv 2024.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2402.00789.pdf),[[Code]](https://github.com/bowang-lab/Graph-Mamba)
 - (arXiv 2024.02) Graph Mamba: Towards Learning on Graphs with State Space Models, [[Paper]](https://arxiv.org/pdf/2402.08678.pdf),[[Code]](https://github.com/GraphMamba/GMN)
+- (arXiv 2024.03) DynSTG-Mamba: Dynamic Spatio-Temporal Graph Mamba with Cross-Graph Knowledge Distillation for Gait Disorders Recognition, [[Paper]](https://arxiv.org/pdf/2503.13156.pdf)
 
 ### Hyperspectral
 - (arXiv 2024.04) HSIMamba: Hyperspectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
@@ -475,6 +480,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation, [[Paper]](https://arxiv.org/pdf/2412.15845.pdf),[[Code]](https://github.com/12138-chr/MTAIR)
 - (arXiv 2025.01) Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2501.16583.pdf)
 - (arXiv 2025.01) MatIR: A Hybrid Mamba-Transformer Image Restoration Model, [[Paper]](https://arxiv.org/pdf/2501.18401.pdf),[[Code]](https://github.com/wenjuan7275/MatIR)
+- (arXiv 2025.03) DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2503.13073.pdf),[[Code]](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
