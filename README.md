@@ -121,6 +121,10 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
 - (arXiv 2024.05) RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing, [[Paper]](https://arxiv.org/pdf/2405.10030.pdf)
 
+### Demosaicing
+- (arXiv 2025.03) Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing, [[Paper]](https://arxiv.org/pdf/2503.16134.pdf),[[Code]](https://github.com/Clausy9/BMTNet)
+
+
 ### Depth
 - (arXiv 2024.06) MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2406.04532.pdf),[[Code]](https://github.com/ionut-grigore99/MambaDepth)
 - (arXiv 2025.01) DepthMamba with Adaptive Fusion, [[Paper]](https://arxiv.org/pdf/2412.19964.pdf)
@@ -536,6 +540,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
 - (arXiv 2024.09) Mamba-ST: State Space Model for Efficient Style Transfer, [[Paper]](https://arxiv.org/pdf/2409.10385.pdf),[[Code]](https://github.com/FilippoBotti/MambaST)
+- (arXiv 2025.03) SaMam: Style-aware State Space Model for Arbitrary Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2503.15934.pdf)
 
 ### Super-Resolution
 - (arXiv 2024.05) DVMSR: Distillated Vision Mamba for Efficient Super-Resolution, [[Paper]](https://arxiv.org/pdf/2405.03008.pdf),[[Code]](https://github.com/nathan66666/DVMSR)
