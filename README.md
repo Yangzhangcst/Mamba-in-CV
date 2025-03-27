@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/21
+**Last updated: 2025/03/27
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -153,6 +153,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) DAViMNet: SSMs-Based Domain Adaptive Object Detection, [[Paper]](https://arxiv.org/pdf/2502.11178),[[Code]](https://github.com/enesdoruk/DAVimNet)
 - (arXiv 2025.03) State Space Model Meets Transformer: A New Paradigm for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.14493),[[Code]](https://github.com/OpenSpaceAI/DEST3D)
 - (arXiv 2025.03) UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.12009),[[Code]](https://github.com/suhaisheng/UniMamba)
+- (arXiv 2025.03) MAMAT: 3D Mamba-Based Atmospheric Turbulence Removal and its Object Detection Capability, [[Paper]](https://arxiv.org/pdf/2503.17700)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -214,6 +215,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion, [[Paper]](https://arxiv.org/pdf/2405.20881)
 - (arXiv 2024.09) Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.01728)
 - (arXiv 2024.09) Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.03223)
+- (arXiv 2025.03) Exploring State Space Model in Wavelet Domain: An Infrared and Visible Image Fusion Network via Wavelet Transform and State Space Model, [[Paper]](https://arxiv.org/pdf/2503.18378),[[Code]](https://github.com/Lmmh058/W-Mamba) 
 
 ### Generation
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
@@ -359,6 +361,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) XFMamba: Cross-Fusion Mamba for Multi-View Medical Image Classification, [[Paper]](https://arxiv.org/pdf/2503.02619),[[Code]](https://github.com/XZheng0427/XFMamba)
 - (arXiv 2025.03) SegResMamba: An Efficient Architecture for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.07766)
 - (arXiv 2025.03) Multi-Modal Mamba Modeling for Survival Prediction (M4Survive): Adapting Joint Foundation Model Representations, [[Paper]](https://arxiv.org/pdf/2503.10057),[[Code]](https://github.com/microsoft/healthcareai-examples)
+- (arXiv 2025.03) MM-UNet: Meta Mamba UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.17540)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
