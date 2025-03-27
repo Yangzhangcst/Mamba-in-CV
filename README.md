@@ -362,6 +362,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) SegResMamba: An Efficient Architecture for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.07766)
 - (arXiv 2025.03) Multi-Modal Mamba Modeling for Survival Prediction (M4Survive): Adapting Joint Foundation Model Representations, [[Paper]](https://arxiv.org/pdf/2503.10057),[[Code]](https://github.com/microsoft/healthcareai-examples)
 - (arXiv 2025.03) MM-UNet: Meta Mamba UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.17540)
+- (arXiv 2025.03) Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images, [[Paper]](https://arxiv.org/pdf/2503.17261),[[Code]](https://github.com/mj129/CIPA)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
