@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/27
+**Last updated: 2025/03/31
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -363,6 +363,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Multi-Modal Mamba Modeling for Survival Prediction (M4Survive): Adapting Joint Foundation Model Representations, [[Paper]](https://arxiv.org/pdf/2503.10057),[[Code]](https://github.com/microsoft/healthcareai-examples)
 - (arXiv 2025.03) MM-UNet: Meta Mamba UNet for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.17540)
 - (arXiv 2025.03) Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images, [[Paper]](https://arxiv.org/pdf/2503.17261),[[Code]](https://github.com/mj129/CIPA)
+- (arXiv 2025.03) Mamba-3D as Masked Autoencoders for Accurate and Data-Efficient Analysis of Medical Ultrasound Videos, [[Paper]](https://arxiv.org/pdf/2503.20258),[[Code]](https://github.com/HenryZhou19/E-ViM3)
+- (arXiv 2025.03) A Comprehensive Analysis of Mamba for 3D Volumetric Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19308)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -559,6 +561,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2412.07222.pdf)
 - (arXiv 2025.01) HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution, [[Paper]](https://arxiv.org/pdf/2501.18500.pdf)
 - (arXiv 2025.02) MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2502.14090.pdf)
+- (arXiv 2025.03) Burst Image Super-Resolution with Mamba, [[Paper]](https://arxiv.org/pdf/2503.19634.pdf)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
