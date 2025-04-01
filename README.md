@@ -195,7 +195,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.02) State Space Models for Event Cameras, [[Paper]](https://arxiv.org/pdf/2402.15584.pdf) 
 - (arXiv 2024.04) MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking, [[Paper]](https://arxiv.org/pdf/2404.12083.pdf) 
 - (arXiv 2024.09) Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration, [[Paper]](https://arxiv.org/pdf/2409.16953.pdf),[[Code]](https://github.com/jiazhou-garland/EventBind)
-
+- (arXiv 2025.03) EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction, [[Paper]](https://arxiv.org/pdf/2503.19721.pdf)
+  
 ### Face
 - (arXiv 2024.05) FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space, [[Paper]](https://arxiv.org/pdf/2405.01828.pdf),[[Code]](https://github.com/SwjtuMa/FER-YOLO-Mamba) 
 - (arXiv 2024.09) Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations, [[Paper]](https://arxiv.org/pdf/2409.05243.pdf)
