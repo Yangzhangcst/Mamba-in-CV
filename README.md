@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/03/31
+**Last updated: 2025/04/01
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -37,7 +37,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.04) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2404.06564.pdf), [[Code]](https://github.com/lewandofskee/MambaAD)
 - (arXiv 2024.07) ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement, [[Paper]](https://arxiv.org/pdf/2407.17705.pdf), [[Code]](https://github.com/qsc1103/ALMRR)
 - (arXiv 2025.01) STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2412.20084.pdf)
-  
+- (arXiv 2025.03) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2503.21169.pdf), [[Code]](https://github.com/jLooo/VADMamba)
+
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
 
@@ -93,6 +94,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing, [[Paper]](https://arxiv.org/pdf/2502.00594.pdf),[[Code]](https://github.com/insitro/FastVim)
 - (arXiv 2025.02) DAMamba: Vision State Space Model with Dynamic Adaptive Scan, [[Paper]](https://arxiv.org/pdf/2502.12627.pdf),[[Code]](https://github.com/ltzovo/DAMamba)
 - (arXiv 2025.03) Spectral State Space Model for Rotation-Invariant Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2503.06369.pdf),[[Code]](https://github.com/Sahardastani/equivariant-vmamba)
+- (arXiv 2025.03) vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2503.21262.pdf)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -365,6 +367,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Cross-Modal Interactive Perception Network with Mamba for Lung Tumor Segmentation in PET-CT Images, [[Paper]](https://arxiv.org/pdf/2503.17261),[[Code]](https://github.com/mj129/CIPA)
 - (arXiv 2025.03) Mamba-3D as Masked Autoencoders for Accurate and Data-Efficient Analysis of Medical Ultrasound Videos, [[Paper]](https://arxiv.org/pdf/2503.20258),[[Code]](https://github.com/HenryZhou19/E-ViM3)
 - (arXiv 2025.03) A Comprehensive Analysis of Mamba for 3D Volumetric Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19308)
+- (arXiv 2025.03) Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19589v1)
+- (arXiv 2025.03) ASP-VMUNet: Atrous Shifted Parallel Vision Mamba U-Net for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19427),[[Code]](https://github.com/BaoBao0926/ASP-VMUNet)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -562,6 +566,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution, [[Paper]](https://arxiv.org/pdf/2501.18500.pdf)
 - (arXiv 2025.02) MambaLiteSR: Image Super-Resolution with Low-Rank Mamba using Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2502.14090.pdf)
 - (arXiv 2025.03) Burst Image Super-Resolution with Mamba, [[Paper]](https://arxiv.org/pdf/2503.19634.pdf)
+- (arXiv 2025.03) Lightweight Light Field Image Super-Resolution with State Space Model, [[Paper]](https://arxiv.org/pdf/2503.19253.pdf)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
