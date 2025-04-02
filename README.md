@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/04/01
+**Last updated: 2025/04/02
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -496,6 +496,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2501.16583.pdf)
 - (arXiv 2025.01) MatIR: A Hybrid Mamba-Transformer Image Restoration Model, [[Paper]](https://arxiv.org/pdf/2501.18401.pdf),[[Code]](https://github.com/wenjuan7275/MatIR)
 - (arXiv 2025.03) DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2503.13073.pdf),[[Code]](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
+- (arXiv 2025.03) Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2503.21970.pdf)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
@@ -547,6 +548,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) DeMansia: Mamba Never Forgets Any Tokens, [[Paper]](https://arxiv.org/pdf/2408.01986.pdf),[[Code]](https://github.com/catalpaaa/DeMansia)
 - (arXiv 2024.09) Saliency Unification through Mamba for Visual Attention Modeling, [[Paper]](https://arxiv.org/pdf/2406.17815.pdf),[[Code]](https://github.com/Arhosseini77/SUM)
 - (arXiv 2024.12) V"Mean"ba: Visual State Space Models only need 1 hidden dimension, [[Paper]](https://arxiv.org/pdf/2412.16602.pdf)
+- (arXiv 2025.03) Ancestral Mamba: Enhancing Selective Discriminant Space Model with Online Visual Prototype Learning for Efficient and Robust Discriminant Approach, [[Paper]](https://arxiv.org/pdf/2503.22729.pdf)
 
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
