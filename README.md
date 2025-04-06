@@ -600,6 +600,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba, [[Paper]](https://arxiv.org/pdf/2408.10679.pdf)
 - (arXiv 2024.12) Look Every Frame All at Once: Video-Ma2mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing, [[Paper]](https://arxiv.org/pdf/2411.19460.pdf),[[Code]](https://ivy-lvlm.github.io/Video-MA2MBA/)
 - (arXiv 2024.12) Efficient Self-Supervised Video Hashing with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2412.14518.pdf),[[Code]](https://github.com/gimpong/AAAI25-S5VH)
+- (arXiv 2025.04) Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation, [[Paper]](https://arxiv.org/pdf/2504.02697.pdf),[[Code]](https://github.com/xg416/MambaTM)
+- (arXiv 2025.04) Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation, [[Paper]](https://arxiv.org/pdf/2504.02542.pdf),[[Code]](https://github.com/harlanhong/ACTalker)
 
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
