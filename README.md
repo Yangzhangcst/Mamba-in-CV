@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/04/06
+**Last updated: 2025/04/07
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -38,6 +38,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement, [[Paper]](https://arxiv.org/pdf/2407.17705.pdf), [[Code]](https://github.com/qsc1103/ALMRR)
 - (arXiv 2025.01) STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2412.20084.pdf)
 - (arXiv 2025.03) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2503.21169.pdf), [[Code]](https://github.com/jLooo/VADMamba)
+- (arXiv 2025.03) Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2504.03442.pdf), [[Code]](https://github.com/iqbalmlpuniud/Pyramid_Mamba)
 
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
