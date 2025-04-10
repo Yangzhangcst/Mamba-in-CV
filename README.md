@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/04/07
+**Last updated: 2025/04/10
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -38,7 +38,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement, [[Paper]](https://arxiv.org/pdf/2407.17705.pdf), [[Code]](https://github.com/qsc1103/ALMRR)
 - (arXiv 2025.01) STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2412.20084.pdf)
 - (arXiv 2025.03) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2503.21169.pdf), [[Code]](https://github.com/jLooo/VADMamba)
-- (arXiv 2025.03) Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2504.03442.pdf), [[Code]](https://github.com/iqbalmlpuniud/Pyramid_Mamba)
+- (arXiv 2025.04) Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2504.03442.pdf), [[Code]](https://github.com/iqbalmlpuniud/Pyramid_Mamba)
 
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
@@ -96,6 +96,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) DAMamba: Vision State Space Model with Dynamic Adaptive Scan, [[Paper]](https://arxiv.org/pdf/2502.12627.pdf),[[Code]](https://github.com/ltzovo/DAMamba)
 - (arXiv 2025.03) Spectral State Space Model for Rotation-Invariant Visual Representation Learning, [[Paper]](https://arxiv.org/pdf/2503.06369.pdf),[[Code]](https://github.com/Sahardastani/equivariant-vmamba)
 - (arXiv 2025.03) vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2503.21262.pdf)
+- (arXiv 2025.04) DefMamba: Deformable Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2504.05794.pdf),[[Code]](https://github.com/leiyeliu/DefMamba)
+- (arXiv 2025.04) Dynamic Vision Mamba, [[Paper]](https://arxiv.org/pdf/2504.04787.pdf),[[Code]](https://github.com/NUS-HPC-AI-Lab/DyVM)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -524,6 +526,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) Deformable Mamba for Wide Field of View Segmentation, [[Paper]](https://arxiv.org/pdf/2411.16481.pdf),[[Code]](https://github.com/JieHu1996/DeformableMamba)
 - (arXiv 2024.12) SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2412.11890.pdf),[[Code]](https://github.com/yunxiangfu2001/SegMAN)
 - (arXiv 2025.03) SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures, [[Paper]](https://arxiv.org/pdf/2503.01113.pdf),[[Code]](https://github.com/Karl1109/SCSegamba)
+- (arXiv 2025.04) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2504.03193.pdf),[[Code]](https://github.com/devinxzhang/MFuser)
 
 ### Shadow
 - (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
