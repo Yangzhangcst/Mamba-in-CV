@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/04/10
+**Last updated: 2025/04/15
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -435,6 +435,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
 - (arXiv 2024.08) PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2408.03540)
+- (arXiv 2025.04) EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage, [[Paper]](https://arxiv.org/pdf/2504.08718)
 
 ### Quantization
 - (arXiv 2025.01) PTQ4VM: Post-Training Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2412.20386),[[Code]](https://github.com/YoungHyun197/ptq4vm)
