@@ -170,6 +170,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) DiMSUM: Diffusion Mamba -- A Scalable and Unified Spatial-Frequency Method for Image Generation, [[Paper]](https://arxiv.org/pdf/2411.04168),[[Code]](https://github.com/VinAIResearch/DiMSUM)
 - (arXiv 2025.01) MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation, [[Paper]](https://arxiv.org/pdf/2501.08837)
 - (arXiv 2025.03) TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba, [[Paper]](https://arxiv.org/pdf/2503.13004)
+- (arXiv 2025.04) U-Shape Mamba: State Space Model for faster diffusion, [[Paper]](https://arxiv.org/pdf/2504.13499)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
@@ -433,6 +434,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs, [[Paper]](https://arxiv.org/pdf/2411.00151)
 - (arXiv 2024.11) STREAM: A Universal State-Space Model for Sparse Geometric Data, [[Paper]](https://arxiv.org/pdf/2411.12603)
 - (arXiv 2025.04) Efficient Spiking Point Mamba for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2504.14371)
+- (arXiv 2025.04) WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, [[Paper]](https://arxiv.org/pdf/2504.13561),[[Code]](https://github.com/wuyang98/weathergen)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
