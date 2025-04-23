@@ -129,7 +129,6 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Demosaicing
 - (arXiv 2025.03) Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing, [[Paper]](https://arxiv.org/pdf/2503.16134.pdf),[[Code]](https://github.com/Clausy9/BMTNet)
 
-
 ### Depth
 - (arXiv 2024.06) MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2406.04532.pdf),[[Code]](https://github.com/ionut-grigore99/MambaDepth)
 - (arXiv 2025.01) DepthMamba with Adaptive Fusion, [[Paper]](https://arxiv.org/pdf/2412.19964.pdf)
@@ -171,6 +170,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation, [[Paper]](https://arxiv.org/pdf/2501.08837)
 - (arXiv 2025.03) TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba, [[Paper]](https://arxiv.org/pdf/2503.13004)
 - (arXiv 2025.04) U-Shape Mamba: State Space Model for faster diffusion, [[Paper]](https://arxiv.org/pdf/2504.13499)
+- (arXiv 2025.04) WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, [[Paper]](https://arxiv.org/pdf/2504.13561),[[Code]](https://github.com/wuyang98/weathergen)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
@@ -380,6 +380,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 - (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://github.com/kaviezhang/MeshMamba)
+- (arXiv 2025.04) VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image,[[Paper]](https://arxiv.org/pdf/2504.14618.pdf)
 
 ### MIL
 - (arXiv 2024.08) Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology,[[Paper]](https://arxiv.org/pdf/2408.15032.pdf), [[Code]](https://github.com/YuqiZhang-Buaa/Mamba2MIL)
