@@ -28,6 +28,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence, [[Paper]](https://arxiv.org/pdf/2412.07481.pdf), [[Code]](https://github.com/wenbohuang1002/Manta)
 - (arXiv 2025.01) MS-Temba: Multi-Scale Temporal Mamba for Efficient Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2501.06138.pdf), [[Code]](https://github.com/thearkaprava/MS-Temba)
 - (arXiv 2025.01) MV-GMN: State Space Model for Multi-View Action Recognition, [[Paper]](https://arxiv.org/pdf/2501.13829)
+- (arXiv 2025.04) RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model, [[Paper]](https://arxiv.org/pdf/2504.12039), [[Code]](https://github.com/lab-emi/AIRHAR)
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
@@ -39,6 +40,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2412.20084.pdf)
 - (arXiv 2025.03) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2503.21169.pdf), [[Code]](https://github.com/jLooo/VADMamba)
 - (arXiv 2025.04) Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2504.03442.pdf), [[Code]](https://github.com/iqbalmlpuniud/Pyramid_Mamba)
+- (arXiv 2025.04) ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model, [[Paper]](https://arxiv.org/pdf/2504.11781.pdf)
 
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
@@ -256,6 +258,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2410.05100.pdf)
 - (arXiv 2025.01) MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2501.04944.pdf),[[Code]](https://github.com/li-yapeng/MambaHSI)
 - (arXiv 2025.02) Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2502.06427.pdf)
+- (arXiv 2025.04) HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.15612.pdf)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
