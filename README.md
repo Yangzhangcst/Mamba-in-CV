@@ -42,6 +42,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
+- (arXiv 2025.04) MVQA: Mamba with Unified Sampling for Efficient Video Quality Assessment, [[Paper]](https://arxiv.org/pdf/2504.16003.pdf)
 
 ### Autonomous Driving
 - (arXiv 2024.05) DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2405.04390.pdf)
