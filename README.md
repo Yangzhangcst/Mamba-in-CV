@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/04/24
+**Last updated: 2025/04/25
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -512,6 +512,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) MatIR: A Hybrid Mamba-Transformer Image Restoration Model, [[Paper]](https://arxiv.org/pdf/2501.18401.pdf),[[Code]](https://github.com/wenjuan7275/MatIR)
 - (arXiv 2025.03) DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2503.13073.pdf),[[Code]](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 - (arXiv 2025.03) Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2503.21970.pdf)
+- (arXiv 2025.04) DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model, [[Paper]](https://arxiv.org/pdf/2504.17732.pdf)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
