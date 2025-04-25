@@ -379,7 +379,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) A Comprehensive Analysis of Mamba for 3D Volumetric Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19308)
 - (arXiv 2025.03) Prompt-Guided Dual-Path UNet with Mamba for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19589v1)
 - (arXiv 2025.03) ASP-VMUNet: Atrous Shifted Parallel Vision Mamba U-Net for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19427),[[Code]](https://github.com/BaoBao0926/ASP-VMUNet)
-- (arXiv 2025.03) Hierarchical Feature Learning for Medical Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2504.13015),[[Code]](https://github.com/wlsdzyzl/flemme)
+- (arXiv 2025.04) Hierarchical Feature Learning for Medical Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2504.13015),[[Code]](https://github.com/wlsdzyzl/flemme)
+- (arXiv 2025.04) Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2504.17515),[[Code]](https://github.com/orange-czh/Mamba-Sea)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
