@@ -568,6 +568,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) V"Mean"ba: Visual State Space Models only need 1 hidden dimension, [[Paper]](https://arxiv.org/pdf/2412.16602.pdf)
 - (arXiv 2025.03) Ancestral Mamba: Enhancing Selective Discriminant Space Model with Online Visual Prototype Learning for Efficient and Robust Discriminant Approach, [[Paper]](https://arxiv.org/pdf/2503.22729.pdf)
 
+### Stereo
+- (arXiv 2025.04) StereoMamba: Real-time and Robust Intraoperative Stereo Disparity Estimation via Long-range Spatial Dependencies, [[Paper]](https://arxiv.org/pdf/2504.17401.pdf),[[Code]](https://github.com/MichaelWangGo/StereoMamba)
+
 ### Style Transfer
 - (arXiv 2024.05) StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer, [[Paper]](https://arxiv.org/pdf/2405.05027.pdf)
 - (arXiv 2024.09) Mamba-ST: State Space Model for Efficient Style Transfer, [[Paper]](https://arxiv.org/pdf/2409.10385.pdf),[[Code]](https://github.com/FilippoBotti/MambaST)
