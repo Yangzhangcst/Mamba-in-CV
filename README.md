@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/04/28
+**Last updated: 2025/05/01
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -259,6 +259,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2501.04944.pdf),[[Code]](https://github.com/li-yapeng/MambaHSI)
 - (arXiv 2025.02) Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2502.06427.pdf)
 - (arXiv 2025.04) HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.15612.pdf)
+- (arXiv 2025.04) MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.20509.pdf)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
@@ -381,6 +382,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) ASP-VMUNet: Atrous Shifted Parallel Vision Mamba U-Net for Skin Lesion Segmentation, [[Paper]](https://arxiv.org/pdf/2503.19427),[[Code]](https://github.com/BaoBao0926/ASP-VMUNet)
 - (arXiv 2025.04) Hierarchical Feature Learning for Medical Point Clouds via State Space Model, [[Paper]](https://arxiv.org/pdf/2504.13015),[[Code]](https://github.com/wlsdzyzl/flemme)
 - (arXiv 2025.04) Mamba-Sea: A Mamba-based Framework with Global-to-Local Sequence Augmentation for Generalizable Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2504.17515),[[Code]](https://github.com/orange-czh/Mamba-Sea)
+- (arXiv 2025.04) Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image, [[Paper]](https://arxiv.org/pdf/2504.21281)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
