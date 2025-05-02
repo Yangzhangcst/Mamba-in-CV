@@ -4,12 +4,13 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/05/01
+**Last updated: 2025/05/02
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
 ## Survey
+- (arXiv 2024.05) Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook, [[Paper]](https://arxiv.org/pdf/2505.00630.pdf), [[Project]](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing)
 - (arXiv 2024.04) Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges, [[Paper]](https://arxiv.org/pdf/2404.16112.pdf), [[Project]](https://github.com/badripatro/mamba360)
 - (arXiv 2024.04) A Survey on Visual Mamba, [[Paper]](https://arxiv.org/pdf/2404.15956.pdf)
 - (arXiv 2024.04) State Space Model for New-Generation Network Alternative to Transformers: A Survey, [[Paper]](https://arxiv.org/pdf/2404.09516.pdf), [[Project]](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
