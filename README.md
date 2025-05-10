@@ -505,6 +505,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images, [[Paper]](https://arxiv.org/pdf/2410.13532)
 - (arXiv 2025.01) CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2501.15455),[[Code]](https://github.com/xwmaxwma/rschange)
 - (arXiv 2025.02) SatMamba: Development of Foundation Models for Remote Sensing Imagery Using State Space Models, [[Paper]](https://arxiv.org/pdf/2502.00435),[[Code]](https://github.com/mdchuc/HRSFM)
+- (arXiv 2025.03) DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding, [[Paper]](https://arxiv.org/pdf/2503.16426),[[Code]](https://github.com/KyanChen/DynamicVis)
 - (arXiv 2025.03) 2DMCG:2D Mamba with Change Flow Guidance for Change Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.00521)
 - (arXiv 2025.03) M3amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification, [[Paper]](https://arxiv.org/pdf/2503.06446),[[Code]](https://github.com/kaka-Cao/M3amba)
 - (arXiv 2025.03) RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.10392),[[Code]](https://github.com/MiliLab/RoMA)
