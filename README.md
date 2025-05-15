@@ -456,6 +456,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2408.03540)
 - (arXiv 2025.04) EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage, [[Paper]](https://arxiv.org/pdf/2504.08718)
 
+### Pruning
+- (arXiv 2025.05) Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments, [[Paper]](https://arxiv.org/pdf/2505.08299)
+
 ### Quantization
 - (arXiv 2025.01) PTQ4VM: Post-Training Quantization for Visual Mamba, [[Paper]](https://arxiv.org/pdf/2412.20386),[[Code]](https://github.com/YoungHyun197/ptq4vm)
 - (arXiv 2025.01) QMamba: Post-Training Quantization for Vision State Space Models, [[Paper]](https://arxiv.org/pdf/2501.13624)
