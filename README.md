@@ -129,6 +129,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
 - (arXiv 2024.05) RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing, [[Paper]](https://arxiv.org/pdf/2405.10030.pdf)
+- (arXiv 2025.05) WDMamba: When Wavelet Degradation Prior Meets Vision Mamba for Image Dehazing, [[Paper]](https://arxiv.org/pdf/2505.04369.pdf),[[Code]](https://github.com/SunJ000/WDMamba)
 
 ### Demosaicing
 - (arXiv 2025.03) Binarized Mamba-Transformer for Lightweight Quad Bayer HybridEVS Demosaicing, [[Paper]](https://arxiv.org/pdf/2503.16134.pdf),[[Code]](https://github.com/Clausy9/BMTNet)
