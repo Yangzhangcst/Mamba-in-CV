@@ -389,6 +389,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) Mamba Based Feature Extraction And Adaptive Multilevel Feature Fusion For 3D Tumor Segmentation From Multi-modal Medical Image, [[Paper]](https://arxiv.org/pdf/2504.21281)
 - (arXiv 2025.05) Topo-VM-UNetV2: Encoding Topology into Vision Mamba UNet for Polyp Segmentation, [[Paper]](https://arxiv.org/pdf/2505.06210)
 - (arXiv 2025.05) GaMNet: A Hybrid Network with Gabor Fusion and NMamba for Efficient 3D Glioma Segmentation, [[Paper]](https://arxiv.org/pdf/2505.05520)
+- (arXiv 2025.05) MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2505.09965)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -413,6 +414,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) Pedestrian Motion Prediction Using Transformer-based Behavior Clustering and Data-Driven Reachability Analysis, [[Paper]](https://arxiv.org/pdf/2407.10061.pdf)
 - (arXiv 2024.11) KMM: Key Frame Mask Mamba for Extended Motion Generation, [[Paper]](https://arxiv.org/pdf/2411.06481.pdf), [[Code]](https://github.com/steve-zeyu-zhang/KMM)
 - (arXiv 2025.03) HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation, [[Paper]](https://arxiv.org/pdf/2503.06897.pdf)
+- (arXiv 2025.05) Dyadic Mamba: Long-term Dyadic Human Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2505.09827.pdf)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
