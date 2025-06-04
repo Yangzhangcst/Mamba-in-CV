@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/05/16
+**Last updated: 2025/06/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -164,6 +164,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) State Space Model Meets Transformer: A New Paradigm for 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.14493),[[Code]](https://github.com/OpenSpaceAI/DEST3D)
 - (arXiv 2025.03) UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.12009),[[Code]](https://github.com/suhaisheng/UniMamba)
 - (arXiv 2025.03) MAMAT: 3D Mamba-Based Atmospheric Turbulence Removal and its Object Detection Capability, [[Paper]](https://arxiv.org/pdf/2503.17700)
+- (arXiv 2025.06) SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2505.23214),[[Code]](https://github.com/zhengshuchen/SAMamba)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -655,6 +656,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba, [[Paper]](https://arxiv.org/pdf/2502.15130.pdf)
 - (arXiv 2025.03) HiCMamba: Enhancing Hi-C Resolution and Identifying 3D Genome Structures with State Space Modeling, [[Paper]](https://arxiv.org/pdf/2503.10713.pdf)
 - (arXiv 2025.03) BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau, [[Paper]](https://arxiv.org/pdf/2503.12495.pdf)
+- (arXiv 2025.06) RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting, [[Paper]](https://arxiv.org/pdf/2505.22535.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
