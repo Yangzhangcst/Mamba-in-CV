@@ -178,6 +178,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba, [[Paper]](https://arxiv.org/pdf/2503.13004)
 - (arXiv 2025.04) U-Shape Mamba: State Space Model for faster diffusion, [[Paper]](https://arxiv.org/pdf/2504.13499)
 - (arXiv 2025.04) WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, [[Paper]](https://arxiv.org/pdf/2504.13561),[[Code]](https://github.com/wuyang98/weathergen)
+- (arXiv 2025.06) StateSpaceDiffuser: Bringing Long Context to Diffusion World Models, [[Paper]](https://arxiv.org/pdf/2505.22246)
 
 ### Domain
 - (arXiv 2024.04) DGMamba: Domain Generalization via Generalized State Space Model, [[Paper]](https://arxiv.org/pdf/2404.07794.pdf),[[Code]](https://github.com/longshaocong/DGMamba)
