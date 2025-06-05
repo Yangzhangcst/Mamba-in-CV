@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/04
+**Last updated: 2025/06/05
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -165,6 +165,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection, [[Paper]](https://arxiv.org/pdf/2503.12009),[[Code]](https://github.com/suhaisheng/UniMamba)
 - (arXiv 2025.03) MAMAT: 3D Mamba-Based Atmospheric Turbulence Removal and its Object Detection Capability, [[Paper]](https://arxiv.org/pdf/2503.17700)
 - (arXiv 2025.06) SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2505.23214),[[Code]](https://github.com/zhengshuchen/SAMamba)
+- (arXiv 2025.06) ConMamba: Contrastive Vision Mamba for Plant Disease Detection, [[Paper]](https://arxiv.org/pdf/2506.03213)
+- (arXiv 2025.06) MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection, [[Paper]](https://arxiv.org/pdf/2506.03654),[[Code]](https://github.com/zhengshuchen/SAMamba)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -534,6 +536,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
+- (arXiv 2025.06) MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2506.03473.pdf),[[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
 
 ### Robot
 - (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
