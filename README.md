@@ -535,6 +535,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model, [[Paper]](https://arxiv.org/pdf/2503.13073.pdf),[[Code]](https://github.com/mmic-lcl/Datasets-and-benchmark-code)
 - (arXiv 2025.03) Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2503.21970.pdf)
 - (arXiv 2025.04) DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model, [[Paper]](https://arxiv.org/pdf/2504.17732.pdf)
+- (arXiv 2025.06) ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.02633.pdf)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
