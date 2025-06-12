@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/09
+**Last updated: 2025/06/12
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -395,6 +395,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.05) GaMNet: A Hybrid Network with Gabor Fusion and NMamba for Efficient 3D Glioma Segmentation, [[Paper]](https://arxiv.org/pdf/2505.05520)
 - (arXiv 2025.05) MambaControl: Anatomy Graph-Enhanced Mamba ControlNet with Fourier Refinement for Diffusion-Based Disease Trajectory Prediction, [[Paper]](https://arxiv.org/pdf/2505.09965)
 - (arXiv 2025.06) DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling, [[Paper]](https://arxiv.org/pdf/2506.05297)
+- (arXiv 2025.06) FMaMIL: Frequency-Driven Mamba Multi-Instance Learning for Weakly Supervised Lesion Segmentation in Medical Images, [[Paper]](https://arxiv.org/pdf/2506.07652)
+- (arXiv 2025.06) Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis, [[Paper]](https://arxiv.org/pdf/2506.06886)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -459,6 +461,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) Efficient Spiking Point Mamba for Point Cloud Analysis, [[Paper]](https://arxiv.org/pdf/2504.14371)
 - (arXiv 2025.04) WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, [[Paper]](https://arxiv.org/pdf/2504.13561),[[Code]](https://github.com/wuyang98/weathergen)
 - (arXiv 2025.05) PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model, [[Paper]](https://arxiv.org/pdf/2505.05397)
+- (arXiv 2025.06) Polar Hierarchical Mamba: Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences, [[Paper]](https://arxiv.org/pdf/2506.06944),[[Code]](https://github.com/meilongzhang/Polar-Hierarchical-Mamba
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
