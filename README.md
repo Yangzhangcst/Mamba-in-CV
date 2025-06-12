@@ -211,6 +211,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration, [[Paper]](https://arxiv.org/pdf/2409.16953.pdf),[[Code]](https://github.com/jiazhou-garland/EventBind)
 - (arXiv 2025.03) EventMamba: Enhancing Spatio-Temporal Locality with State Space Models for Event-Based Video Reconstruction, [[Paper]](https://arxiv.org/pdf/2503.19721.pdf)
 - (arXiv 2025.05) PRE-Mamba: A 4D State Space Model for Ultra-High-Frequent Event Camera Deraining, [[Paper]](https://arxiv.org/pdf/2505.05307.pdf)
+- (arXiv 2025.06) Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow, [[Paper]](https://arxiv.org/pdf/2506.07878.pdf),[[Code]](https://github.com/AhmedHumais/E-STMFlow)
 
 ### Face
 - (arXiv 2024.05) FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space, [[Paper]](https://arxiv.org/pdf/2405.01828.pdf),[[Code]](https://github.com/SwjtuMa/FER-YOLO-Mamba) 
@@ -397,6 +398,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) DM-SegNet: Dual-Mamba Architecture for 3D Medical Image Segmentation with Global Context Modeling, [[Paper]](https://arxiv.org/pdf/2506.05297)
 - (arXiv 2025.06) FMaMIL: Frequency-Driven Mamba Multi-Instance Learning for Weakly Supervised Lesion Segmentation in Medical Images, [[Paper]](https://arxiv.org/pdf/2506.07652)
 - (arXiv 2025.06) Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis, [[Paper]](https://arxiv.org/pdf/2506.06886)
+- (arXiv 2025.06) FAMSeg: Fetal Femur and Cranial Ultrasound Segmentation Using Feature-Aware Attention and Mamba Enhancement, [[Paper]](https://arxiv.org/pdf/2506.07431)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -539,7 +541,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Q-MambaIR: Accurate Quantized Mamba for Efficient Image Restoration, [[Paper]](https://arxiv.org/pdf/2503.21970.pdf)
 - (arXiv 2025.04) DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model, [[Paper]](https://arxiv.org/pdf/2504.17732.pdf)
 - (arXiv 2025.06) ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.02633.pdf)
-
+- (arXiv 2025.06) M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.07814.pdf)
+  
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
 - (arXiv 2025.06) MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2506.03473.pdf),[[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
