@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/12
+**Last updated: 2025/06/13
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -621,6 +621,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Burst Image Super-Resolution with Mamba, [[Paper]](https://arxiv.org/pdf/2503.19634.pdf)
 - (arXiv 2025.03) Lightweight Light Field Image Super-Resolution with State Space Model, [[Paper]](https://arxiv.org/pdf/2503.19253.pdf)
 - (arXiv 2025.06) Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution, [[Paper]](https://arxiv.org/pdf/2506.01040.pdf),[[Code]](https://github.com/HaixiaBi1982/ECP_Mamba)
+
+### T2V
+- (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
 
 ### Tracking
 - (arXiv 2024.05) Mamba-FETrack: Frame-Event Tracking via State Space Model, [[Paper]](https://arxiv.org/pdf/2404.18174.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)
