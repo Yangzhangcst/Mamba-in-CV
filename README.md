@@ -94,7 +94,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.11) TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba, [[Paper]](https://arxiv.org/pdf/2411.17473.pdf),[[Code]](https://github.com/xwmaxwma/TinyViM)
 - (arXiv 2024.12) Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training, [[Paper]](https://arxiv.org/pdf/2412.12496.pdf),[[Code]](https://github.com/NUS-HPC-AI-Lab/R-MeeTo)
 - (arXiv 2024.12) Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks, [[Paper]](https://arxiv.org/pdf/2412.16146.pdf)
-- (arXiv 2024.12) Selective Visual Prompting in Vision Mamba, [[Paper]](https://arxiv.org/pdf/2412.08947.pdf),[[Code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
+- (arXiv 2024.1InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba
+2) Selective Visual Prompting in Vision Mamba, [[Paper]](https://arxiv.org/pdf/2412.08947.pdf),[[Code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
 - (arXiv 2025.01) A Separable Self-attention Inspired by the State Space Model for Computer Vision, [[Paper]](https://arxiv.org/pdf/2501.02040.pdf),[[Code]](https://github.com/yws-wxs/VMINet)
 - (arXiv 2025.02) Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing, [[Paper]](https://arxiv.org/pdf/2502.00594.pdf),[[Code]](https://github.com/insitro/FastVim)
 - (arXiv 2025.02) DAMamba: Vision State Space Model with Dynamic Adaptive Scan, [[Paper]](https://arxiv.org/pdf/2502.12627.pdf),[[Code]](https://github.com/ltzovo/DAMamba)
@@ -102,6 +103,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) vGamba: Attentive State Space Bottleneck for efficient Long-range Dependencies in Visual Recognition, [[Paper]](https://arxiv.org/pdf/2503.21262.pdf)
 - (arXiv 2025.04) DefMamba: Deformable Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2504.05794.pdf),[[Code]](https://github.com/leiyeliu/DefMamba)
 - (arXiv 2025.04) Dynamic Vision Mamba, [[Paper]](https://arxiv.org/pdf/2504.04787.pdf),[[Code]](https://github.com/NUS-HPC-AI-Lab/DyVM)
+- (arXiv 2025.06) InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba, [[Paper]](https://arxiv.org/pdf/2506.08735.pdf),[[Code]](https://github.com/Wake1021/InceptionMamba)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -569,6 +571,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2412.11890.pdf),[[Code]](https://github.com/yunxiangfu2001/SegMAN)
 - (arXiv 2025.03) SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures, [[Paper]](https://arxiv.org/pdf/2503.01113.pdf),[[Code]](https://github.com/Karl1109/SCSegamba)
 - (arXiv 2025.04) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2504.03193.pdf),[[Code]](https://github.com/devinxzhang/MFuser)
+- (arXiv 2025.06) ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network, [[Paper]](https://arxiv.org/pdf/2506.08629.pdf),[[Code]](https://github.com/devinxzhang/MFuser)
 
 ### Shadow
 - (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
@@ -659,6 +662,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) Learning Phase Distortion with Selective State Space Models for Video Turbulence Mitigation, [[Paper]](https://arxiv.org/pdf/2504.02697.pdf),[[Code]](https://github.com/xg416/MambaTM)
 - (arXiv 2025.04) Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation, [[Paper]](https://arxiv.org/pdf/2504.02542.pdf),[[Code]](https://github.com/harlanhong/ACTalker)
 - (arXiv 2025.06) Dual Branch VideoMamba with Gated Class Token Fusion for Violence Detection, [[Paper]](https://arxiv.org/pdf/2506.03162.pdf)
+- (arXiv 2025.06) MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding, [[Paper]](https://arxiv.org/pdf/2506.08512.pdf)
 
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
