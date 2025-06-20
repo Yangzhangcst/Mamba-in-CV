@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/13
+**Last updated: 2025/06/20
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -118,6 +118,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) S2CFormer: Reorienting Learned Image Compression from Spatial Interaction to Channel Aggregation, [[Paper]](https://arxiv.org/pdf/2502.00700.pdf)
 - (arXiv 2025.02) CMamba: Learned Image Compression with State Space Models, [[Paper]](https://arxiv.org/pdf/2502.04988.pdf)
 - (arXiv 2025.03) MambaIC: State Space Models for High-Performance Learned Image Compression, [[Paper]](https://arxiv.org/pdf/2503.12461.pdf),[[Code]](https://github.com/AuroraZengfh/MambaIC)
+- (arXiv 2025.06) MambaMia: A State-Space-Model-Based Compression for Efficient Video Understanding in Large Multimodal Models, [[Paper]](https://arxiv.org/pdf/2506.13564.pdf)
 
 ### Crowd Counting
 - (arXiv 2024.05) VMambaCC: A Visual State Space Model for Crowd Counting, [[Paper]](https://arxiv.org/pdf/2405.03978.pdf)
@@ -401,6 +402,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) FMaMIL: Frequency-Driven Mamba Multi-Instance Learning for Weakly Supervised Lesion Segmentation in Medical Images, [[Paper]](https://arxiv.org/pdf/2506.07652)
 - (arXiv 2025.06) Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis, [[Paper]](https://arxiv.org/pdf/2506.06886)
 - (arXiv 2025.06) FAMSeg: Fetal Femur and Cranial Ultrasound Segmentation Using Feature-Aware Attention and Mamba Enhancement, [[Paper]](https://arxiv.org/pdf/2506.07431)
+- (arXiv 2025.06) InceptionMamba: Efficient Multi-Stage Feature Enhancement with Selective State Space Model for Microscopic Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12208)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -500,6 +502,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.07) Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration, [[Paper]](https://arxiv.org/pdf/2407.19274.pdf),[[Code]](https://github.com/BailiangJ/rethink-reg)
 - (arXiv 2024.11) MambaReg: Mamba-Based Disentangled Convolutional Sparse Coding for Unsupervised Deformable Multi-Modal Image Registration, [[Paper]](https://arxiv.org/pdf/2411.01399.pdf)
 - (arXiv 2024.11) XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration, [[Paper]](https://arxiv.org/pdf/2411.07430.pdf),[[Code]](https://github.com/canyagmur/XPoint)
+- (arXiv 2025.06) MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration, [[Paper]](https://arxiv.org/pdf/2506.13183.pdf)
 
 ### Re-Identification
 - (arXiv 2024.12) MambaPro: Multi-Modal Object Re-Identification with Mamba Aggregation and Synergistic Prompt, [[Paper]](https://arxiv.org/pdf/2412.10707.pdf),[[Code]](https://github.com/924973292/MambaPro)
