@@ -403,6 +403,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis, [[Paper]](https://arxiv.org/pdf/2506.06886)
 - (arXiv 2025.06) FAMSeg: Fetal Femur and Cranial Ultrasound Segmentation Using Feature-Aware Attention and Mamba Enhancement, [[Paper]](https://arxiv.org/pdf/2506.07431)
 - (arXiv 2025.06) InceptionMamba: Efficient Multi-Stage Feature Enhancement with Selective State Space Model for Microscopic Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12208)
+- (arXiv 2025.06) MS-UMamba: An Improved Vision Mamba Unet for Fetal Abdominal Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12441)
+- (arXiv 2025.06) Unleashing Diffusion and State Space Models for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12747),[[Code]](https://github.com/Rows21/KMax-Mamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -627,7 +629,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Burst Image Super-Resolution with Mamba, [[Paper]](https://arxiv.org/pdf/2503.19634.pdf)
 - (arXiv 2025.03) Lightweight Light Field Image Super-Resolution with State Space Model, [[Paper]](https://arxiv.org/pdf/2503.19253.pdf)
 - (arXiv 2025.06) Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution, [[Paper]](https://arxiv.org/pdf/2506.01040.pdf),[[Code]](https://github.com/HaixiaBi1982/ECP_Mamba)
-
+- (arXiv 2025.06) MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.11768.pdf)
+  
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
 
