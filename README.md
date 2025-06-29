@@ -474,6 +474,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion, [[Paper]](https://arxiv.org/pdf/2504.13561),[[Code]](https://github.com/wuyang98/weathergen)
 - (arXiv 2025.05) PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model, [[Paper]](https://arxiv.org/pdf/2505.05397)
 - (arXiv 2025.06) Polar Hierarchical Mamba: Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences, [[Paper]](https://arxiv.org/pdf/2506.06944),[[Code]](https://github.com/meilongzhang/Polar-Hierarchical-Mamba
+- (arXiv 2025.06) StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning, [[Paper]](https://arxiv.org/pdf/2506.21541)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
