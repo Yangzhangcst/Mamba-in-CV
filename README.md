@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/20
+**Last updated: 2025/06/27
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -284,7 +284,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation, [[Paper]](https://arxiv.org/pdf/2409.11018.pdf)
 - (arXiv 2024.11) Vision Mamba Distillation for Low-resolution Fine-grained Image Classification, [[Paper]](https://arxiv.org/pdf/2411.17980.pdf),[[Code]](https://github.com/boa2004plaust/ViMD)
 - (arXiv 2025.02) Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation, [[Paper]](https://arxiv.org/pdf/2502.13145.pdf),[[Code]](https://github.com/hustvl/mmMamba)
-
+- (arXiv 2025.06) Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation, [[Paper]](https://arxiv.org/pdf/2506.18999.pdf)
+  
 ### LLM
 - (arXiv 2024.03) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models, [[Paper]](https://arxiv.org/pdf/2403.00818.pdf),[[Code]](https://github.com/WailordHe/DenseSSM)
 - (arXiv 2024.05) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models, [[Paper]](https://arxiv.org/pdf/2405.15574),[[Code]](https://github.com/ByungKwanLee/Meteor)
@@ -405,6 +406,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) InceptionMamba: Efficient Multi-Stage Feature Enhancement with Selective State Space Model for Microscopic Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12208)
 - (arXiv 2025.06) MS-UMamba: An Improved Vision Mamba Unet for Fetal Abdominal Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12441)
 - (arXiv 2025.06) Unleashing Diffusion and State Space Models for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.12747),[[Code]](https://github.com/Rows21/KMax-Mamba)
+- (arXiv 2025.06) MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.18679)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -438,7 +440,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.12) AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment，[[Paper]](https://arxiv.org/pdf/2412.00833.pdf)
 - (arXiv 2025.01) AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation，[[Paper]](https://arxiv.org/pdf/2501.07810.pdf),[Code](https://github.com/SitongGong/AVS-Mamba)
 - (arXiv 2025.03) OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models，[[Paper]](https://arxiv.org/pdf/2503.08686.pdf),[Code](https://github.com/hustvl/OmniMamba)
-  
+- (arXiv 2025.06) Cross-modal State Space Modeling for Real-time RGB-thermal Wild Scene Semantic Segmentation，[[Paper]](https://arxiv.org/pdf/2506.17869.pdf),[Code](https://github.com/xiaodonguo/CMSSM)
+
 ### Multi-Task
 - (arXiv 2024.07) MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2407.02228.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
 - (arXiv 2024.08)  MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders，[[Paper]](https://arxiv.org/pdf/2408.15101.pdf),[[Code]](https://github.com/EnVision-Research/MTMamba)
