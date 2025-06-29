@@ -592,6 +592,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Spatiotemporal Forecasting
 - (arXiv 2024.03) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting, [[Paper]](https://arxiv.org/pdf/2403.16536.pdf),[[Code]](https://github.com/yyyujintang/VMRNN-PyTorch)
+- (arXiv 2025.06) Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction, [[Paper]](https://arxiv.org/pdf/2506.18939.pdf)
 
 ### Speech
 - (arXiv 2024.10) CleanUMamba: A Compact Mamba Network for Speech Denoising using Channel Pruning, [[Paper]](https://arxiv.org/pdf/2410.11062.pdf),[[Code]](https://github.com/lab-emi/CleanUMamba)
