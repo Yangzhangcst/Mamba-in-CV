@@ -204,6 +204,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) O-Mamba: O-shape State-Space Model for Underwater Image Enhancement, [[Paper]](https://arxiv.org/abs/2408.12816.pdf),[[Code]](https://github.com/chenydong/O-Mamba)
 - (arXiv 2024.09) Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement, [[Paper]](https://arxiv.org/abs/2409.07040.pdf)
 - (arXiv 2024.09) Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement, [[Paper]](https://arxiv.org/abs/2409.16604.pdf),[[Code]](https://github.com/guanguanboy/Semi-LLIE)
+- (arXiv 2025.06) BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancemen, [[Paper]](https://arxiv.org/abs/2506.18346.pdf),[[Code]](https://github.com/guanguanboy/Semi-LLIE)
 
 ### Emotion
 - (arXiv 2025.03) Mamba-VA: A Mamba-based Approach for Continuous Emotion Recognition in Valence-Arousal Space, [[Paper]](https://arxiv.org/pdf/2503.10104.pdf),[[Code]](https://github.com/FreedomPuppy77/Charon)
@@ -538,6 +539,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) 2DMCG:2D Mamba with Change Flow Guidance for Change Detection in Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.00521)
 - (arXiv 2025.03) M3amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification, [[Paper]](https://arxiv.org/pdf/2503.06446),[[Code]](https://github.com/kaka-Cao/M3amba)
 - (arXiv 2025.03) RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.10392),[[Code]](https://github.com/MiliLab/RoMA)
+- (arXiv 2025.06) OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2506.18006),[[Code]](https://github.com/Chenshuaiyu1120/Oil-Spill-detection)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
@@ -556,6 +558,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
 - (arXiv 2025.06) MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2506.03473.pdf),[[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
+- (arXiv 2025.06) MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval, [[Paper]](https://arxiv.org/pdf/2506.16353.pdf),[[Code]](https://github.com/shuaichaochao/MambaHash)
 
 ### Robot
 - (arXiv 2024.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation, [[Paper]](https://arxiv.org/pdf/2406.04339.pdf),[[Code]](https://github.com/lmzpai/roboMamba)
