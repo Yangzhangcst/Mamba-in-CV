@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/27
+**Last updated: 2025/06/30
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -556,7 +556,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model, [[Paper]](https://arxiv.org/pdf/2504.17732.pdf)
 - (arXiv 2025.06) ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.02633.pdf)
 - (arXiv 2025.06) M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.07814.pdf)
-  
+- (arXiv 2025.06) EAMamba: Efficient All-Around Vision State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.22246.pdf),[[Code]](https://github.com/daidaijr/EAMamba)
+
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
 - (arXiv 2025.06) MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2506.03473.pdf),[[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
@@ -695,6 +696,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) HiCMamba: Enhancing Hi-C Resolution and Identifying 3D Genome Structures with State Space Modeling, [[Paper]](https://arxiv.org/pdf/2503.10713.pdf)
 - (arXiv 2025.03) BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau, [[Paper]](https://arxiv.org/pdf/2503.12495.pdf)
 - (arXiv 2025.06) RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting, [[Paper]](https://arxiv.org/pdf/2505.22535.pdf)
+- (arXiv 2025.06) RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network, [[Paper]](https://arxiv.org/pdf/2506.21905.pdf),[[Code]](https://github.com/wxqnl/RAUM)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
