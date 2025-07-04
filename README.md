@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/06/30
+**Last updated: 2025/07/04
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -640,7 +640,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Lightweight Light Field Image Super-Resolution with State Space Model, [[Paper]](https://arxiv.org/pdf/2503.19253.pdf)
 - (arXiv 2025.06) Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution, [[Paper]](https://arxiv.org/pdf/2506.01040.pdf),[[Code]](https://github.com/HaixiaBi1982/ECP_Mamba)
 - (arXiv 2025.06) MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.11768.pdf)
-  
+- (arXiv 2025.06) VSRM: A Robust Mamba-Based Framework for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.22762.pdf)
+
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
 
@@ -658,6 +659,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) S3MOT: Monocular 3D Object Tracking with Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2504.18068.pdf),[[Code]](https://github.com/bytepioneerX/s3mot)  
 - (arXiv 2025.05) SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking, [[Paper]](https://arxiv.org/pdf/2505.04088.pdf) 
 - (arXiv 2025.06) SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports, [[Paper]](https://arxiv.org/pdf/2506.03335.pdf) 
+- (arXiv 2025.06) Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2506.23783.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)  
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
@@ -679,6 +681,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation, [[Paper]](https://arxiv.org/pdf/2504.02542.pdf),[[Code]](https://github.com/harlanhong/ACTalker)
 - (arXiv 2025.06) Dual Branch VideoMamba with Gated Class Token Fusion for Violence Detection, [[Paper]](https://arxiv.org/pdf/2506.03162.pdf)
 - (arXiv 2025.06) MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding, [[Paper]](https://arxiv.org/pdf/2506.08512.pdf)
+- (arXiv 2025.06) MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition, [[Paper]](https://arxiv.org/pdf/2506.23283.pdf)
 
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
