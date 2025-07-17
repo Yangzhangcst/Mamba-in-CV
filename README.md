@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/04
+**Last updated: 2025/07/17
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -104,6 +104,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) DefMamba: Deformable Visual State Space Model, [[Paper]](https://arxiv.org/pdf/2504.05794.pdf),[[Code]](https://github.com/leiyeliu/DefMamba)
 - (arXiv 2025.04) Dynamic Vision Mamba, [[Paper]](https://arxiv.org/pdf/2504.04787.pdf),[[Code]](https://github.com/NUS-HPC-AI-Lab/DyVM)
 - (arXiv 2025.06) InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba, [[Paper]](https://arxiv.org/pdf/2506.08735.pdf),[[Code]](https://github.com/Wake1021/InceptionMamba)
+- (arXiv 2025.07) QuarterMap: Efficient Post-Training Token Pruning for Visual State Space Models, [[Paper]](https://arxiv.org/pdf/2507.09514.pdf)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -141,6 +142,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2406.04532.pdf),[[Code]](https://github.com/ionut-grigore99/MambaDepth)
 - (arXiv 2025.01) DepthMamba with Adaptive Fusion, [[Paper]](https://arxiv.org/pdf/2412.19964.pdf)
 - (arXiv 2025.05) LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment, [[Paper]](https://arxiv.org/pdf/2505.00980)
+- (arXiv 2025.07) Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation, [[Paper]](https://arxiv.org/pdf/2507.07687),[[Code]](https://github.com/WYJGR/Tree-Mamba)
 
 ### Deraining
 - (arXiv 2024.04) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining, [[Paper]](https://arxiv.org/pdf/2404.09476.pdf)
