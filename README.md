@@ -4,8 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/17
-
+**Last updated: 2025/07/22
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -173,6 +172,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection, [[Paper]](https://arxiv.org/pdf/2505.23214),[[Code]](https://github.com/zhengshuchen/SAMamba)
 - (arXiv 2025.06) ConMamba: Contrastive Vision Mamba for Plant Disease Detection, [[Paper]](https://arxiv.org/pdf/2506.03213)
 - (arXiv 2025.06) MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection, [[Paper]](https://arxiv.org/pdf/2506.03654),[[Code]](https://github.com/zhengshuchen/SAMamba)
+- (arXiv 2025.07) Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection, [[Paper]](https://arxiv.org/pdf/2507.14643),[[Code]](https://github.com/61s61min/MS2Fusion)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -227,6 +227,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Few-Shot 
 - (arXiv 2024.07) Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2407.06136.pdf),[[Code]](https://github.com/xiaojieli0903/Mamba-FSCIL) 
+- (arXiv 2025.07) Few-Shot Object Detection via Spatial-Channel State Space Model, [[Paper]](https://arxiv.org/pdf/2507.15308.pdf)
 
 ### Flow
 - (arXiv 2024.12) FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation, [[Paper]](https://arxiv.org/pdf/2412.17366.pdf)
@@ -417,7 +418,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 - (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://github.com/kaviezhang/MeshMamba)
-- (arXiv 2025.04) VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image,[[Paper]](https://arxiv.org/pdf/2504.14618.pdf)
+- (arXiv 2025.04) VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image, [[Paper]](https://arxiv.org/pdf/2504.14618.pdf)
+- (arXiv 2025.07) MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction, [[Paper]](https://arxiv.org/pdf/2507.15212.pdf)
 
 ### MIL
 - (arXiv 2024.08) Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology,[[Paper]](https://arxiv.org/pdf/2408.15032.pdf), [[Code]](https://github.com/YuqiZhang-Buaa/Mamba2MIL)
