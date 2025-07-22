@@ -414,6 +414,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2506.18679)
 - (arXiv 2025.06) Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models, [[Paper]](https://arxiv.org/pdf/2506.21330)
 - (arXiv 2025.07) Unified Medical Image Segmentation with State Space Modeling Snake, [[Paper]](https://arxiv.org/pdf/2507.12760)
+- (arXiv 2025.07) DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification, [[Paper]](https://arxiv.org/pdf/2507.15487)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
