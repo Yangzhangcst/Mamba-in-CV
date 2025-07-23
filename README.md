@@ -105,6 +105,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba, [[Paper]](https://arxiv.org/pdf/2506.08735.pdf),[[Code]](https://github.com/Wake1021/InceptionMamba)
 - (arXiv 2025.07) QuarterMap: Efficient Post-Training Token Pruning for Visual State Space Models, [[Paper]](https://arxiv.org/pdf/2507.09514.pdf)
 - (arXiv 2025.07) Training-free Token Reduction for Vision Mamba, [[Paper]](https://arxiv.org/pdf/2507.14042.pdf)
+- (arXiv 2025.07) A2Mamba: Attention-augmented State Space Models for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2507.16624.pdf),[[Code]](https://github.com/LMMMEng/A2Mamba)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
