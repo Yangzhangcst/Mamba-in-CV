@@ -550,6 +550,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) M3amba: CLIP-driven Mamba Model for Multi-modal Remote Sensing Classification, [[Paper]](https://arxiv.org/pdf/2503.06446),[[Code]](https://github.com/kaka-Cao/M3amba)
 - (arXiv 2025.03) RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.10392),[[Code]](https://github.com/MiliLab/RoMA)
 - (arXiv 2025.06) OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2506.18006),[[Code]](https://github.com/Chenshuaiyu1120/Oil-Spill-detection)
+- (arXiv 2025.07) AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2507.16172)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
