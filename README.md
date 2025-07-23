@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/22
+**Last updated: 2025/07/23
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -416,6 +416,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) Holistic Surgical Phase Recognition with Hierarchical Input Dependent State Space Models, [[Paper]](https://arxiv.org/pdf/2506.21330)
 - (arXiv 2025.07) Unified Medical Image Segmentation with State Space Modeling Snake, [[Paper]](https://arxiv.org/pdf/2507.12760)
 - (arXiv 2025.07) DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification, [[Paper]](https://arxiv.org/pdf/2507.15487)
+- (arXiv 2025.07) Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video, [[Paper]](https://arxiv.org/pdf/2507.16342)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
