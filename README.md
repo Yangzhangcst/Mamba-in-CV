@@ -420,6 +420,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video, [[Paper]](https://arxiv.org/pdf/2507.16342)
 - (arXiv 2025.07) Differential-UMamba: Rethinking Tumor Segmentation Under Limited Data Scenarios, [[Paper]](https://arxiv.org/pdf/2507.18177)
 - (arXiv 2025.07) MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI, [[Paper]](https://arxiv.org/pdf/2507.17678),[[Code]](https://github.com/yjh-0104/MCM)
+- (arXiv 2025.07) Mammo-Mamba: A Hybrid State-Space and Transformer Architecture with Sequential Mixture of Experts for Multi-View Mammography, [[Paper]](https://arxiv.org/pdf/2507.17662)
   
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
