@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/23
+**Last updated: 2025/07/25
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -596,6 +596,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures, [[Paper]](https://arxiv.org/pdf/2503.01113.pdf),[[Code]](https://github.com/Karl1109/SCSegamba)
 - (arXiv 2025.04) Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2504.03193.pdf),[[Code]](https://github.com/devinxzhang/MFuser)
 - (arXiv 2025.06) ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network, [[Paper]](https://arxiv.org/pdf/2506.08629.pdf),[[Code]](https://github.com/devinxzhang/MFuser)
+- (arXiv 2025.07) HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2507.18575.pdf),[[Code]](https://github.com/deepinact/HybridTM)
 
 ### Shadow
 - (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
