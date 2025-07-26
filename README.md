@@ -174,6 +174,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) ConMamba: Contrastive Vision Mamba for Plant Disease Detection, [[Paper]](https://arxiv.org/pdf/2506.03213)
 - (arXiv 2025.06) MambaNeXt-YOLO: A Hybrid State Space Model for Real-time Object Detection, [[Paper]](https://arxiv.org/pdf/2506.03654),[[Code]](https://github.com/zhengshuchen/SAMamba)
 - (arXiv 2025.07) Multispectral State-Space Feature Fusion: Bridging Shared and Cross-Parametric Interactions for Object Detection, [[Paper]](https://arxiv.org/pdf/2507.14643),[[Code]](https://github.com/61s61min/MS2Fusion)
+- (arXiv 2025.07) WaveMamba: Wavelet-Driven Mamba Fusion for RGB-Infrared Object Detection, [[Paper]](https://arxiv.org/pdf/2507.18173)
 
 ### Diffusion
 - (arXiv 2024.03) ZigMa: Zigzag Mamba Diffusion Model, [[Paper]](https://arxiv.org/pdf/2403.13802.pdf),[[Code]](https://github.com/CompVis/zigma)
@@ -417,7 +418,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) Unified Medical Image Segmentation with State Space Modeling Snake, [[Paper]](https://arxiv.org/pdf/2507.12760)
 - (arXiv 2025.07) DeSamba: Decoupled Spectral Adaptive Framework for 3D Multi-Sequence MRI Lesion Classification, [[Paper]](https://arxiv.org/pdf/2507.15487)
 - (arXiv 2025.07) Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video, [[Paper]](https://arxiv.org/pdf/2507.16342)
-
+- (arXiv 2025.07) Differential-UMamba: Rethinking Tumor Segmentation Under Limited Data Scenarios, [[Paper]](https://arxiv.org/pdf/2507.18177)
+- (arXiv 2025.07) MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI, [[Paper]](https://arxiv.org/pdf/2507.17678)
+  
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
 - (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://github.com/kaviezhang/MeshMamba)
@@ -485,6 +488,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.05) PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model, [[Paper]](https://arxiv.org/pdf/2505.05397)
 - (arXiv 2025.06) Polar Hierarchical Mamba: Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences, [[Paper]](https://arxiv.org/pdf/2506.06944),[[Code]](https://github.com/meilongzhang/Polar-Hierarchical-Mamba
 - (arXiv 2025.06) StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning, [[Paper]](https://arxiv.org/pdf/2506.21541)
+- (arXiv 2025.07) SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2507.17479)
+- (arXiv 2025.07) PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining, [[Paper]](https://arxiv.org/pdf/2507.17296)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
