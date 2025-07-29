@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/25
+**Last updated: 2025/07/29
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -658,6 +658,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) Self-supervised ControlNet with Spatio-Temporal Mamba for Real-world Video Super-resolution, [[Paper]](https://arxiv.org/pdf/2506.01040.pdf),[[Code]](https://github.com/HaixiaBi1982/ECP_Mamba)
 - (arXiv 2025.06) MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.11768.pdf)
 - (arXiv 2025.06) VSRM: A Robust Mamba-Based Framework for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.22762.pdf)
+- (arXiv 2025.07) GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2507.18998.pdf),[[Code]](https://github.com/yongsongH/GPSMamba)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
