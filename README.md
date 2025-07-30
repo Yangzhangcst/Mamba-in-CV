@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/29
+**Last updated: 2025/07/30
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -57,6 +57,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) H-MBA: Hierarchical MamBa Adaptation for Multi-Modal Video Understanding in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2501.04302.pdf)
 - (arXiv 2025.03) Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM, [[Paper]](https://arxiv.org/pdf/2503.10898.pdf)
 - (arXiv 2025.03) MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations, [[Paper]](https://arxiv.org/pdf/2503.13858.pdf), [[Code]](https://github.com/amai-gsu/MamBEV/tree/main)
+- (arXiv 2025.07) MambaMap: Online Vectorized HD Map Construction using State Space Model, [[Paper]](https://arxiv.org/pdf/2507.20224.pdf), [[Code]](https://github.com/ZiziAmy/MambaMap)
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -422,6 +423,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) MCM: Mamba-based Cardiac Motion Tracking using Sequential Images in MRI, [[Paper]](https://arxiv.org/pdf/2507.17678),[[Code]](https://github.com/yjh-0104/MCM)
 - (arXiv 2025.07) Mammo-Mamba: A Hybrid State-Space and Transformer Architecture with Sequential Mixture of Experts for Multi-View Mammography, [[Paper]](https://arxiv.org/pdf/2507.17662)
 - (arXiv 2025.07) SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2507.19076),[[Code]](https://github.com/Ray-RuiPan/SP-Mamba)
+- (arXiv 2025.07) FaRMamba: Frequency-based learning and Reconstruction aided Mamba for Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2507.20056)
+- (arXiv 2025.07) MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2507.19931),[[Code]](https://github.com/CC0117/MambaVesselNet)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -498,6 +501,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
 - (arXiv 2024.08) PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2408.03540)
 - (arXiv 2025.04) EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage, [[Paper]](https://arxiv.org/pdf/2504.08718)
+- (arXiv 2025.07) A Structure-aware and Motion-adaptive Framework for 3D Human Pose Estimation with Mamba, [[Paper]](https://arxiv.org/pdf/2507.19852)
 
 ### Pruning
 - (arXiv 2025.05) Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments, [[Paper]](https://arxiv.org/pdf/2505.08299)
