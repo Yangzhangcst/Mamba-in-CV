@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/07/31
+**Last updated: 2025/08/01
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -58,6 +58,11 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) Trajectory Mamba: Efficient Attention-Mamba Forecasting Model Based on Selective SSM, [[Paper]](https://arxiv.org/pdf/2503.10898.pdf)
 - (arXiv 2025.03) MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations, [[Paper]](https://arxiv.org/pdf/2503.13858.pdf), [[Code]](https://github.com/amai-gsu/MamBEV/tree/main)
 - (arXiv 2025.07) MambaMap: Online Vectorized HD Map Construction using State Space Model, [[Paper]](https://arxiv.org/pdf/2507.20224.pdf), [[Code]](https://github.com/ZiziAmy/MambaMap)
+- (arXiv 2025.07) MamV2XCalib: V2X-based Target-less Infrastructure Camera Calibration with State Space Model, [[Paper]](https://arxiv.org/pdf/2507.23595.pdf), [[Code]](https://github.com/zhuyaoye/MamV2XCalib)
+
+### Camouflaged
+- (arXiv 2025.07) Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2507.23601.pdf)
+
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
