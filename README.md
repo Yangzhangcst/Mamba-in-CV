@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/01
+**Last updated: 2025/08/04
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -285,10 +285,14 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.02) Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2502.06427.pdf)
 - (arXiv 2025.04) HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.15612.pdf)
 - (arXiv 2025.04) MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.20509.pdf)
+- (arXiv 2025.08) PIF-Net: Ill-Posed Prior Guided Multispectral and Hyperspectral Image Fusion via Invertible Mamba and Fusion-Aware LoRA, [[Paper]](https://arxiv.org/pdf/2508.00453.pdf)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
 - (arXiv 2024.11) SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM, [[Paper]](https://arxiv.org/pdf/2411.06318.pdf),[[Code]](https://github.com/ChrisChen1023/SEM-Net)
+
+### Instance Segmentation 
+- (arXiv 2025.08) UIS-Mamba: Exploring Mamba for Underwater Instance Segmentation via Dynamic Tree Scan and Hidden State Weaken, [[Paper]](https://arxiv.org/pdf/2508.00421.pdf),[[Code]](https://github.com/Maricalce/UIS-Mamba)
 
 ### Keypoint
 - (arXiv 2024.12) MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection, [[Paper]](https://arxiv.org/pdf/2412.01422.pdf),[[Code]](https://mamkpd.github.io/index.html)
@@ -430,6 +434,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2507.19076),[[Code]](https://github.com/Ray-RuiPan/SP-Mamba)
 - (arXiv 2025.07) FaRMamba: Frequency-based learning and Reconstruction aided Mamba for Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2507.20056)
 - (arXiv 2025.07) MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2507.19931),[[Code]](https://github.com/CC0117/MambaVesselNet)
+- (arXiv 2025.08) Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models, [[Paper]](https://arxiv.org/pdf/2508.00383),[[Code]](https://github.com/deepnoid-ai/MVHybrid)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
