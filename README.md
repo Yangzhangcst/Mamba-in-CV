@@ -676,6 +676,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.11768.pdf)
 - (arXiv 2025.06) VSRM: A Robust Mamba-Based Framework for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.22762.pdf)
 - (arXiv 2025.07) GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2507.18998.pdf),[[Code]](https://github.com/yongsongH/GPSMamba)
+- (arXiv 2025.08) Guided Depth Map Super-Resolution via Multi-Scale Fusion U-shaped Mamba Network, [[Paper]](https://arxiv.org/pdf/2508.00248.pdf)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
