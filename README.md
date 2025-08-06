@@ -4,7 +4,8 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/04
+**Last updated: 2025/08/06
+
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
 
@@ -41,6 +42,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) VADMamba: Exploring State Space Models for Fast Video Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2503.21169.pdf), [[Code]](https://github.com/jLooo/VADMamba)
 - (arXiv 2025.04) Pyramid-based Mamba Multi-class Unsupervised Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2504.03442.pdf), [[Code]](https://github.com/iqbalmlpuniud/Pyramid_Mamba)
 - (arXiv 2025.04) ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model, [[Paper]](https://arxiv.org/pdf/2504.11781.pdf)
+- (arXiv 2025.08) Self-Navigated Residual Mamba for Universal Industrial Anomaly Detection, [[Paper]](https://arxiv.org/pdf/2508.01591.pdf), [[Code]](https://github.com/BeJane/SNARM)
 
 ### Assessment
 - (arXiv 2024.06) Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment, [[Paper]](https://arxiv.org/pdf/2406.09546.pdf), [[Code]](https://github.com/kenomo/ilid)
@@ -736,6 +738,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) BS-Mamba for Black-Soil Area Detection On the Qinghai-Tibetan Plateau, [[Paper]](https://arxiv.org/pdf/2503.12495.pdf)
 - (arXiv 2025.06) RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting, [[Paper]](https://arxiv.org/pdf/2505.22535.pdf)
 - (arXiv 2025.06) RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network, [[Paper]](https://arxiv.org/pdf/2506.21905.pdf),[[Code]](https://github.com/wxqnl/RAUM)
+- (arXiv 2025.08) DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal, [[Paper]](https://arxiv.org/pdf/2508.02113.pdf),[[Code]](https://github.com/BNU-ERC-ITEA/DeflareMamba)
+- (arXiv 2025.08) RoadMamba: A Dual Branch Visual State Space Model for Road Surface Classification, [[Paper]](https://arxiv.org/pdf/2508.01210.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
