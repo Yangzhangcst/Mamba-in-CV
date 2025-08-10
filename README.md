@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/06
+**Last updated: 2025/08/11
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -437,6 +437,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) FaRMamba: Frequency-based learning and Reconstruction aided Mamba for Medical Segmentation, [[Paper]](https://arxiv.org/pdf/2507.20056)
 - (arXiv 2025.07) MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2507.19931),[[Code]](https://github.com/CC0117/MambaVesselNet)
 - (arXiv 2025.08) Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models, [[Paper]](https://arxiv.org/pdf/2508.00383),[[Code]](https://github.com/deepnoid-ai/MVHybrid)
+- (arXiv 2025.08) SSFMamba: Symmetry-driven Spatial-Frequency Feature Fusion for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.03069)
+- (arXiv 2025.08) AMD-Mamba: A Phenotype-Aware Multi-Modal Framework for Robust AMD Prognosis, [[Paper]](https://arxiv.org/pdf/2508.02957)
+- (arXiv 2025.08) ClinicalFMamba: Advancing Clinical Assessment using Mamba-based Multimodal Neuroimaging Fusion, [[Paper]](https://arxiv.org/pdf/2508.03008)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
