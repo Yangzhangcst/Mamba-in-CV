@@ -440,6 +440,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) SSFMamba: Symmetry-driven Spatial-Frequency Feature Fusion for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.03069)
 - (arXiv 2025.08) AMD-Mamba: A Phenotype-Aware Multi-Modal Framework for Robust AMD Prognosis, [[Paper]](https://arxiv.org/pdf/2508.02957)
 - (arXiv 2025.08) ClinicalFMamba: Advancing Clinical Assessment using Mamba-based Multimodal Neuroimaging Fusion, [[Paper]](https://arxiv.org/pdf/2508.03008)
+- (arXiv 2025.08) Text Embedded Swin-UMamba for DeepLesion Segmentation, [[Paper]](https://arxiv.org/pdf/2508.06453),[[Code]](https://github.com/ruida/LLM-Swin-UMamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
