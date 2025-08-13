@@ -723,7 +723,10 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation, [[Paper]](https://arxiv.org/pdf/2504.02542.pdf),[[Code]](https://github.com/harlanhong/ACTalker)
 - (arXiv 2025.06) Dual Branch VideoMamba with Gated Class Token Fusion for Violence Detection, [[Paper]](https://arxiv.org/pdf/2506.03162.pdf)
 - (arXiv 2025.06) MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding, [[Paper]](https://arxiv.org/pdf/2506.08512.pdf)
-- (arXiv 2025.06) MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition, [[Paper]](https://arxiv.org/pdf/2506.23283.pdf)
+- (arXiv 2025.06) MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition, [[Paper]](https://arxiv.org/pdf/2508.08974.pdf),[[Code]](https://github.com/Elman295/TCSSM)
+
+### VQA
+- (arXiv 2025.08) Text-conditioned State Space Model For Domain-generalized Change Detection Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2506.23283.pdf)
 
 ### Zero-Shot Learning
 - (arXiv 2024.08) ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning, [[Paper]](https://arxiv.org/pdf/2408.14868.pdf),[[Code]](https://anonymous.4open.science/r/ZeroMamba/README.md)
