@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/13
+**Last updated: 2025/08/14
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -64,7 +64,6 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 
 ### Camouflaged
 - (arXiv 2025.07) Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2507.23601.pdf)
-
 
 ### Classification (Backbone)
 - (arXiv 2024.01) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model, [[Paper]](https://arxiv.org/pdf/2401.09417.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -254,6 +253,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.01728)
 - (arXiv 2024.09) Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion, [[Paper]](https://arxiv.org/pdf/2409.03223)
 - (arXiv 2025.03) Exploring State Space Model in Wavelet Domain: An Infrared and Visible Image Fusion Network via Wavelet Transform and State Space Model, [[Paper]](https://arxiv.org/pdf/2503.18378),[[Code]](https://github.com/Lmmh058/W-Mamba) 
+- (arXiv 2025.08) MambaTrans: Multimodal Fusion Image Translation via Large Language Model Priors for Downstream Visual Tasks, [[Paper]](https://arxiv.org/pdf/2508.07803)
 
 ### Generation
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
