@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/14
+**Last updated: 2025/08/18
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -468,6 +468,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) HiSTF Mamba: Hierarchical Spatiotemporal Fusion with Multi-Granular Body-Spatial Modeling for High-Fidelity Text-to-Motion Generation, [[Paper]](https://arxiv.org/pdf/2503.06897.pdf)
 - (arXiv 2025.05) Dyadic Mamba: Long-term Dyadic Human Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2505.09827.pdf)
 - (arXiv 2025.06) InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba, [[Paper]](https://arxiv.org/pdf/2506.03084.pdf)
+- (arXiv 2025.08) EgoMusic-driven Human Dance Motion Estimation with Skeleton Mamba, [[Paper]](https://arxiv.org/pdf/2508.10522.pdf), [[Code]](https://zquang2202.github.io/SkeletonMamba/)
 
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
@@ -683,6 +684,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) VSRM: A Robust Mamba-Based Framework for Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2506.22762.pdf)
 - (arXiv 2025.07) GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2507.18998.pdf),[[Code]](https://github.com/yongsongH/GPSMamba)
 - (arXiv 2025.08) Guided Depth Map Super-Resolution via Multi-Scale Fusion U-shaped Mamba Network, [[Paper]](https://arxiv.org/pdf/2508.00248.pdf)
+- (arXiv 2025.08) Trajectory-aware Shifted State Space Models for Online Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2508.10453.pdf)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
