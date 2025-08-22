@@ -751,6 +751,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) RAUM-Net: Regional Attention and Uncertainty-aware Mamba Network, [[Paper]](https://arxiv.org/pdf/2506.21905.pdf),[[Code]](https://github.com/wxqnl/RAUM)
 - (arXiv 2025.08) DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal, [[Paper]](https://arxiv.org/pdf/2508.02113.pdf),[[Code]](https://github.com/BNU-ERC-ITEA/DeflareMamba)
 - (arXiv 2025.08) RoadMamba: A Dual Branch Visual State Space Model for Road Surface Classification, [[Paper]](https://arxiv.org/pdf/2508.01210.pdf)
+- (arXiv 2025.08) Guiding WaveMamba with Frequency Maps for Image Debanding, [[Paper]](https://arxiv.org/pdf/2508.11331.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
