@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/18
+**Last updated: 2025/08/26
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -137,6 +137,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring, [[Paper]](https://arxiv.org/pdf/2403.20106.pdf),[[Code]](https://github.com/MambaMixer/M2)
 - (arXiv 2024.05) Efficient Visual State Space Model for Image Deblurring, [[Paper]](https://arxiv.org/pdf/2405.14343.pdf)
 - (arXiv 2024.12) XYScanNet: An Interpretable State Space Model for Perceptual Image Deblurring, [[Paper]](https://arxiv.org/pdf/2412.10338.pdf)
+- (arXiv 2025.08) MBMamba: When Memory Buffer Meets Mamba for Structure-Aware Image Deblurring, [[Paper]](https://arxiv.org/pdf/2412.10338.pdf)
 
 ### Dehazing
 - (arXiv 2024.02) U-shaped Vision Mamba for Single Image Dehazing, [[Paper]](https://arxiv.org/pdf/2402.04139.pdf),[[Code]](https://github.com/zzr-idam)
@@ -443,10 +444,12 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) Text Embedded Swin-UMamba for DeepLesion Segmentation, [[Paper]](https://arxiv.org/pdf/2508.06453),[[Code]](https://github.com/ruida/LLM-Swin-UMamba)
 - (arXiv 2025.08) HiFi-Mamba: Dual-Stream W-Laplacian Enhanced Mamba for High-Fidelity MRI Reconstruction, [[Paper]](https://arxiv.org/pdf/2508.09179)
 - (arXiv 2025.08) UltraLight Med-Vision Mamba for Classification of Neoplastic Progression in Tubular Adenomas, [[Paper]](https://arxiv.org/pdf/2508.09339)
+- (arXiv 2025.08) Diversity-enhanced Collaborative Mamba for Semi-supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.13712),[[Code]](https://github.com/ShumengLI/DCMamba)
+- (arXiv 2025.08) SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes, [[Paper]](https://arxiv.org/pdf/2508.12410),[[Code]](https://github.com/JunZengz/SRMA-Mamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
-- (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://github.com/kaviezhang/MeshMamba)
+- (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://githubSRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes.com/kaviezhang/MeshMamba)
 - (arXiv 2025.04) VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image, [[Paper]](https://arxiv.org/pdf/2504.14618.pdf)
 - (arXiv 2025.07) MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction, [[Paper]](https://arxiv.org/pdf/2507.15212.pdf)
 
@@ -515,6 +518,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving, [[Paper]](https://arxiv.org/pdf/2507.17479)
 - (arXiv 2025.07) PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining, [[Paper]](https://arxiv.org/pdf/2507.17296)
 - (arXiv 2025.07) HydraMamba: Multi-Head State Space Model for Global Point Cloud Learning, [[Paper]](https://arxiv.org/pdf/2507.19778),[[Code]](https://github.com/Point-Cloud-Learning/HydraMamba)
+- (arXiv 2025.08) UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling, [[Paper]](https://arxiv.org/pdf/2508.14604),[[Code]](https://github.com/wangzy01/UST-SSM)
 
 ### Pose
 - (arXiv 2024.08) Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network, [[Paper]](https://arxiv.org/pdf/2408.02922)
@@ -752,6 +756,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) DeflareMamba: Hierarchical Vision Mamba for Contextually Consistent Lens Flare Removal, [[Paper]](https://arxiv.org/pdf/2508.02113.pdf),[[Code]](https://github.com/BNU-ERC-ITEA/DeflareMamba)
 - (arXiv 2025.08) RoadMamba: A Dual Branch Visual State Space Model for Road Surface Classification, [[Paper]](https://arxiv.org/pdf/2508.01210.pdf)
 - (arXiv 2025.08) Guiding WaveMamba with Frequency Maps for Image Debanding, [[Paper]](https://arxiv.org/pdf/2508.11331.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
+- (arXiv 2025.08) D2-Mamba: Dual-Scale Fusion and Dual-Path Scanning with SSMs for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2508.12750.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
