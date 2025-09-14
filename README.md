@@ -235,6 +235,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.05) FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space, [[Paper]](https://arxiv.org/pdf/2405.01828.pdf),[[Code]](https://github.com/SwjtuMa/FER-YOLO-Mamba) 
 - (arXiv 2024.09) Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations, [[Paper]](https://arxiv.org/pdf/2409.05243.pdf)
 - (arXiv 2025.01) WMamba: Wavelet-based Mamba for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2501.09617.pdf)
+- (arXiv 2025.09) Mamba-CNN: A Hybrid Architecture for Efficient and Accurate Facial Beauty Prediction, [[Paper]](https://arxiv.org/pdf/2509.01431.pdf)
 
 ### Few-Shot 
 - (arXiv 2024.07) Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2407.06136.pdf),[[Code]](https://github.com/xiaojieli0903/Mamba-FSCIL) 
@@ -450,6 +451,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes, [[Paper]](https://arxiv.org/pdf/2508.12410),[[Code]](https://github.com/JunZengz/SRMA-Mamba)
 - (arXiv 2025.09) SFD-Mamba2Net: Strcture-Guided Frequency-Enhanced Dual-Stream Mamba2 Network for Coronary Artery Segmentation, [[Paper]](https://arxiv.org/pdf/2509.08934)
 - (arXiv 2025.09) SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2509.00442)
+- (arXiv 2025.09) SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection, [[Paper]](https://arxiv.org/pdf/2509.01080)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
