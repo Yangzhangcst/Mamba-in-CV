@@ -447,6 +447,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) UltraLight Med-Vision Mamba for Classification of Neoplastic Progression in Tubular Adenomas, [[Paper]](https://arxiv.org/pdf/2508.09339)
 - (arXiv 2025.08) Diversity-enhanced Collaborative Mamba for Semi-supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.13712),[[Code]](https://github.com/ShumengLI/DCMamba)
 - (arXiv 2025.08) SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes, [[Paper]](https://arxiv.org/pdf/2508.12410),[[Code]](https://github.com/JunZengz/SRMA-Mamba)
+- (arXiv 2025.09) SFD-Mamba2Net: Strcture-Guided Frequency-Enhanced Dual-Stream Mamba2 Network for Coronary Artery Segmentation, [[Paper]](https://arxiv.org/pdf/2509.08934)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -692,6 +693,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2507.18998.pdf),[[Code]](https://github.com/yongsongH/GPSMamba)
 - (arXiv 2025.08) Guided Depth Map Super-Resolution via Multi-Scale Fusion U-shaped Mamba Network, [[Paper]](https://arxiv.org/pdf/2508.00248.pdf)
 - (arXiv 2025.08) Trajectory-aware Shifted State Space Models for Online Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2508.10453.pdf)
+- (arXiv 2025.09) First-order State Space Model for Lightweight Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2509.08458.pdf)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
