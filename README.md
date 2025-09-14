@@ -617,6 +617,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model, [[Paper]](https://arxiv.org/pdf/2408.10618.pdf),[[Code]](https://github.com/jmwang0117/Occ-Mamba)
 - (arXiv 2024.09) GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning, [[Paper]](https://arxiv.org/pdf/2409.14403)
 - (arXiv 2024.11) VMGNet: A Low Computational Complexity Robotic Grasping Network Based on VMamba with Multi-Scale Feature Fusion, [[Paper]](https://arxiv.org/pdf/2411.12520)
+- (arXiv 2025.09) LocoMamba: Vision-Driven Locomotion via End-to-End Deep Reinforcement Learning with Mamba, [[Paper]](https://arxiv.org/pdf/2508.11849),[[Code]](https://github.com/allen-quad-robot/locomamba)
 
 ### Salient
 - (arXiv 2024.10) MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2410.15015),[[Code]](https://github.com/YueZhan721/MambaSOD)
@@ -696,6 +697,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) Guided Depth Map Super-Resolution via Multi-Scale Fusion U-shaped Mamba Network, [[Paper]](https://arxiv.org/pdf/2508.00248.pdf)
 - (arXiv 2025.08) Trajectory-aware Shifted State Space Models for Online Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2508.10453.pdf)
 - (arXiv 2025.09) First-order State Space Model for Lightweight Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2509.08458.pdf)
+- (arXiv 2025.09) Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution, [[Paper]](https://arxiv.org/pdf/2509.04824.pdf)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
