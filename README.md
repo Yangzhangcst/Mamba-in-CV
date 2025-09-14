@@ -718,6 +718,10 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
 
+### UAV
+- (arXiv 2025.09) DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion, [[Paper]](https://arxiv.org/pdf/2509.07327.pdf)
+
+
 ### Video
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
 - (arXiv 2024.03) Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.09626.pdf),[[Code]](https://github.com/OpenGVLab/video-mamba-suite)
