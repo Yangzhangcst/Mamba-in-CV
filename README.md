@@ -476,7 +476,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.05) Dyadic Mamba: Long-term Dyadic Human Motion Synthesis, [[Paper]](https://arxiv.org/pdf/2505.09827.pdf)
 - (arXiv 2025.06) InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba, [[Paper]](https://arxiv.org/pdf/2506.03084.pdf)
 - (arXiv 2025.08) EgoMusic-driven Human Dance Motion Estimation with Skeleton Mamba, [[Paper]](https://arxiv.org/pdf/2508.10522.pdf), [[Code]](https://zquang2202.github.io/SkeletonMamba/)
-
+- (arXiv 2025.09) Can SSD-Mamba2 Unlock Reinforcement Learning for End-to-End Motion Control, [[Paper]](https://arxiv.org/pdf/2509.07593.pdf)
+  
 ### Multimodal
 - (arXiv 2024.03) VL-Mamba: Exploring State Space Models for Multimodal Learning，[[Paper]](https://arxiv.org/pdf/2403.13600.pdf),[[Code]](https://github.com/ZhengYu518/VL-Mamba)
 - (arXiv 2024.09) DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection，[[Paper]](https://arxiv.org/pdf/2409.15936.pdf),[[Code]](https://github.com/Jiaxin-Ye/DepMamba)
