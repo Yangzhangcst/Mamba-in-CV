@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/08/26
+**Last updated: 2025/09/14
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -289,6 +289,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) HS-Mamba: Full-Field Interaction Multi-Groups Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.15612.pdf)
 - (arXiv 2025.04) MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.20509.pdf)
 - (arXiv 2025.08) PIF-Net: Ill-Posed Prior Guided Multispectral and Hyperspectral Image Fusion via Invertible Mamba and Fusion-Aware LoRA, [[Paper]](https://arxiv.org/pdf/2508.00453.pdf)
+- (arXiv 2025.09) Hyperspectral Mamba for Hyperspectral Object Tracking, [[Paper]](https://arxiv.org/pdf/2509.08265.pdf),[[Code]](https://github.com/lgao001/HyMamba)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
