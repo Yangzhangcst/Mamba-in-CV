@@ -449,6 +449,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) Diversity-enhanced Collaborative Mamba for Semi-supervised Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2508.13712),[[Code]](https://github.com/ShumengLI/DCMamba)
 - (arXiv 2025.08) SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes, [[Paper]](https://arxiv.org/pdf/2508.12410),[[Code]](https://github.com/JunZengz/SRMA-Mamba)
 - (arXiv 2025.09) SFD-Mamba2Net: Strcture-Guided Frequency-Enhanced Dual-Stream Mamba2 Network for Coronary Artery Segmentation, [[Paper]](https://arxiv.org/pdf/2509.08934)
+- (arXiv 2025.09) SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2509.00442)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -529,6 +530,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.08) PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model, [[Paper]](https://arxiv.org/pdf/2408.03540)
 - (arXiv 2025.04) EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage, [[Paper]](https://arxiv.org/pdf/2504.08718)
 - (arXiv 2025.07) A Structure-aware and Motion-adaptive Framework for 3D Human Pose Estimation with Mamba, [[Paper]](https://arxiv.org/pdf/2507.19852)
+- (arXiv 2025.09) MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation, [[Paper]](https://arxiv.org/pdf/2509.00649),[[Code]](https://aviralchharia.github.io/MV-SSM/)
+
 
 ### Pruning
 - (arXiv 2025.05) Efficient Unstructured Pruning of Mamba State-Space Models for Resource-Constrained Environments, [[Paper]](https://arxiv.org/pdf/2505.08299)
@@ -591,6 +594,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing, [[Paper]](https://arxiv.org/pdf/2503.10392),[[Code]](https://github.com/MiliLab/RoMA)
 - (arXiv 2025.06) OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2506.18006),[[Code]](https://github.com/Chenshuaiyu1120/Oil-Spill-detection)
 - (arXiv 2025.07) AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2507.16172)
+- (arXiv 2025.09) CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2509.00677)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
