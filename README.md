@@ -113,6 +113,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) QuarterMap: Efficient Post-Training Token Pruning for Visual State Space Models, [[Paper]](https://arxiv.org/pdf/2507.09514.pdf)
 - (arXiv 2025.07) Training-free Token Reduction for Vision Mamba, [[Paper]](https://arxiv.org/pdf/2507.14042.pdf)
 - (arXiv 2025.07) A2Mamba: Attention-augmented State Space Models for Visual Recognition, [[Paper]](https://arxiv.org/pdf/2507.16624.pdf),[[Code]](https://github.com/LMMMEng/A2Mamba)
+- (arXiv 2025.09) VCMamba: Bridging Convolutions with Multi-Directional Mamba for Efficient Visual Representation, [[Paper]](https://arxiv.org/pdf/2509.04669.pdf),[[Code]](https://github.com/Wertyuui345/VCMamba)
 
 ### Clustering
 - (arXiv 2024.12) Trusted Mamba Contrastive Network for Multi-View Clustering, [[Paper]](https://arxiv.org/pdf/2412.16487.pdf)
@@ -765,6 +766,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) RoadMamba: A Dual Branch Visual State Space Model for Road Surface Classification, [[Paper]](https://arxiv.org/pdf/2508.01210.pdf)
 - (arXiv 2025.08) Guiding WaveMamba with Frequency Maps for Image Debanding, [[Paper]](https://arxiv.org/pdf/2508.11331.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
 - (arXiv 2025.08) D2-Mamba: Dual-Scale Fusion and Dual-Path Scanning with SSMs for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2508.12750.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
+- (arXiv 2025.09) CD-Mamba: Cloud detection with long-range spatial dependency modeling, [[Paper]](https://arxiv.org/pdf/2509.04729.pdf),[[Code]](https://github.com/kunzhan/CD-Mamba)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
