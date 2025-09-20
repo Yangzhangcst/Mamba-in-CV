@@ -452,6 +452,10 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) SFD-Mamba2Net: Strcture-Guided Frequency-Enhanced Dual-Stream Mamba2 Network for Coronary Artery Segmentation, [[Paper]](https://arxiv.org/pdf/2509.08934)
 - (arXiv 2025.09) SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification, [[Paper]](https://arxiv.org/pdf/2509.00442)
 - (arXiv 2025.09) SpectMamba: Integrating Frequency and State Space Models for Enhanced Medical Image Detection, [[Paper]](https://arxiv.org/pdf/2509.01080)
+- (arXiv 2025.09) Joint-octamamba:an octa joint segmentation network based on feature enhanced mamba, [[Paper]](https://arxiv.org/pdf/2509.11649),[[Code]](https://github.com/lc-sfis/Joint-OCTAMamba)
+- (arXiv 2025.09) U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT, [[Paper]](https://arxiv.org/pdf/2509.12069),[[Code]](https://github.com/zhiqin1998/UMamba2)
+- (arXiv 2025.09) CECT-Mamba: a Hierarchical Contrast-enhanced-aware Model for Pancreatic Tumor Subtyping from Multi-phase CECT, [[Paper]](https://arxiv.org/pdf/2509.12777)
+- (arXiv 2025.09) HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2509.14609)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -775,6 +779,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) Guiding WaveMamba with Frequency Maps for Image Debanding, [[Paper]](https://arxiv.org/pdf/2508.11331.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
 - (arXiv 2025.08) D2-Mamba: Dual-Scale Fusion and Dual-Path Scanning with SSMs for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2508.12750.pdf),[[Code]](https://github.com/xinyiW915/Debanding-PCS2025)
 - (arXiv 2025.09) CD-Mamba: Cloud detection with long-range spatial dependency modeling, [[Paper]](https://arxiv.org/pdf/2509.04729.pdf),[[Code]](https://github.com/kunzhan/CD-Mamba)
+- (arXiv 2025.09) FLARE-SSM: Deep State Space Models with Influence-Balanced Loss for 72-Hour Solar Flare Prediction, [[Paper]](https://arxiv.org/pdf/2509.09988.pdf)
 
 ## Contact & Feedback
 If you have any suggestions about this project, feel free to contact me.
