@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/09/20
+**Last updated: 2025/09/27
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -236,6 +236,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.09) Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations, [[Paper]](https://arxiv.org/pdf/2409.05243.pdf)
 - (arXiv 2025.01) WMamba: Wavelet-based Mamba for Face Forgery Detection, [[Paper]](https://arxiv.org/pdf/2501.09617.pdf)
 - (arXiv 2025.09) Mamba-CNN: A Hybrid Architecture for Efficient and Accurate Facial Beauty Prediction, [[Paper]](https://arxiv.org/pdf/2509.01431.pdf)
+- (arXiv 2025.09) SynergyNet: Fusing Generative Priors and State-Space Models for Facial Beauty Prediction, [[Paper]](https://arxiv.org/pdf/2509.17172.pdf)
 
 ### Few-Shot 
 - (arXiv 2024.07) Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning, [[Paper]](https://arxiv.org/pdf/2407.06136.pdf),[[Code]](https://github.com/xiaojieli0903/Mamba-FSCIL) 
@@ -456,6 +457,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT, [[Paper]](https://arxiv.org/pdf/2509.12069),[[Code]](https://github.com/zhiqin1998/UMamba2)
 - (arXiv 2025.09) CECT-Mamba: a Hierarchical Contrast-enhanced-aware Model for Pancreatic Tumor Subtyping from Multi-phase CECT, [[Paper]](https://arxiv.org/pdf/2509.12777)
 - (arXiv 2025.09) HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2509.14609)
+- (arXiv 2025.09) Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2509.16618)
+- (arXiv 2025.09) ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis, [[Paper]](https://arxiv.org/pdf/2509.16900)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -601,6 +604,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) OSDMamba: Enhancing Oil Spill Detection from Remote Sensing Images Using Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2506.18006),[[Code]](https://github.com/Chenshuaiyu1120/Oil-Spill-detection)
 - (arXiv 2025.07) AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2507.16172)
 - (arXiv 2025.09) CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2509.00677)
+- (arXiv 2025.09) DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection, [[Paper]](https://arxiv.org/pdf/2509.15563)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
