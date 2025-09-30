@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/09/27
+**Last updated: 2025/09/30
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -459,6 +459,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) HybridMamba: A Dual-domain Mamba for 3D Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2509.14609)
 - (arXiv 2025.09) Surgical-MambaLLM: Mamba2-enhanced Multimodal Large Language Model for VQLA in Robotic Surgery, [[Paper]](https://arxiv.org/pdf/2509.16618)
 - (arXiv 2025.09) ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis, [[Paper]](https://arxiv.org/pdf/2509.16900)
+- (arXiv 2025.09) U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT, [[Paper]](https://arxiv.org/pdf/2509.20154),[[Code]](https://github.com/zhiqin1998/UMamba2)
+- (arXiv 2025.09) SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology, [[Paper]](https://arxiv.org/pdf/2509.21239)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -605,6 +607,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection, [[Paper]](https://arxiv.org/pdf/2507.16172)
 - (arXiv 2025.09) CSFMamba: Cross State Fusion Mamba Operator for Multimodal Remote Sensing Image Classification, [[Paper]](https://arxiv.org/pdf/2509.00677)
 - (arXiv 2025.09) DC-Mamba: Bi-temporal deformable alignment and scale-sparse enhancement for remote sensing change detection, [[Paper]](https://arxiv.org/pdf/2509.15563)
+- (arXiv 2025.09) SwinMamba: A hybrid local-global mamba framework for enhancing semantic segmentation of remotely sensed images, [[Paper]](https://arxiv.org/pdf/2509.20918)
 
 ### Restoration
 - (arXiv 2024.02) A Simple Baseline for Image Restoration with State-Space Model, [[Paper]](https://arxiv.org/pdf/2402.15648.pdf),[[Code]](https://github.com/csguoh/MambaIR)
@@ -637,6 +640,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.10) MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2410.15015),[[Code]](https://github.com/YueZhan721/MambaSOD)
 - (arXiv 2024.11) LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2411.06652),[[Code]](https://github.com/liuzywen/LFScribble)
 - (arXiv 2025.03) SSNet: Saliency Prior and State Space Model-based Network for Salient Object Detection in RGB-D Images [[Paper]](https://arxiv.org/pdf/2503.02270)
+- (arXiv 2025.09) LEAF-Mamba: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection, [[Paper]](https://arxiv.org/pdf/2509.18683)
 
 ### Self supervised learning
 - (arXiv 2024.08) MambaMIM: Pre-training Mamba with State Space Token-interpolation, [[Paper]](https://arxiv.org/pdf/2408.08070.pdf),[[Code]](https://github.com/FengheTan9/MambaMIM)
