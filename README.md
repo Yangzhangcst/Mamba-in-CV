@@ -61,7 +61,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.03) MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations, [[Paper]](https://arxiv.org/pdf/2503.13858.pdf), [[Code]](https://github.com/amai-gsu/MamBEV/tree/main)
 - (arXiv 2025.07) MambaMap: Online Vectorized HD Map Construction using State Space Model, [[Paper]](https://arxiv.org/pdf/2507.20224.pdf), [[Code]](https://github.com/ZiziAmy/MambaMap)
 - (arXiv 2025.07) MamV2XCalib: V2X-based Target-less Infrastructure Camera Calibration with State Space Model, [[Paper]](https://arxiv.org/pdf/2507.23595.pdf), [[Code]](https://github.com/zhuyaoye/MamV2XCalib)
-
+- (arXiv 2025.09) PRISM: Progressive Rain removal with Integrated State-space Modeling, [[Paper]](https://arxiv.org/pdf/2509.26413.pdf)
 ### Camouflaged
 - (arXiv 2025.07) Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2507.23601.pdf)
 
@@ -319,6 +319,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Matching
 - (arXiv 2025.02) MambaGlue: Fast and Robust Local Feature Matching With Mamba, [[Paper]](https://arxiv.org/pdf/2502.00462),[[Code]](https://github.com/url-kaist/MambaGlue)
 - (arXiv 2025.03) JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba, [[Paper]](https://arxiv.org/pdf/2503.03437),[[Code]](https://github.com/leoluxxx/JamMa)
+- (arXiv 2025.09) Similarity-Aware Selective State-Space Modeling for Semantic Correspondence, [[Paper]](https://arxiv.org/pdf/2509.24318),[[Code]](https://cvlab.postech.ac.kr/project/MambaMatcher/)
 
 ### Medical
 - (arXiv 2024.01) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2401.04722.pdf), [[Code]](https://github.com/bowang-lab/U-Mamba)
@@ -461,10 +462,11 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis, [[Paper]](https://arxiv.org/pdf/2509.16900)
 - (arXiv 2025.09) U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT, [[Paper]](https://arxiv.org/pdf/2509.20154),[[Code]](https://github.com/zhiqin1998/UMamba2)
 - (arXiv 2025.09) SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology, [[Paper]](https://arxiv.org/pdf/2509.21239)
+- (arXiv 2025.09) MSD-KMamba: Bidirectional Spatial-Aware Multi-Modal 3D Brain Segmentation via Multi-scale Self-Distilled Fusion Strategy, [[Paper]](https://arxiv.org/pdf/2509.23677),[[Code]](https://github.com/daimao-zhang/MSD-KMamba)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
-- (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://githubSRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes.com/kaviezhang/MeshMamba)
+- (arXiv 2025.04) Mesh Mamba: A Unified State Space Model for Saliency Prediction in Non-Textured and Textured Meshes,[[Paper]](https://arxiv.org/pdf/2504.01466.pdf),[[Code]](https://github.com/kaviezhang/MeshMamba)
 - (arXiv 2025.04) VM-BHINet:Vision Mamba Bimanual Hand Interaction Network for 3D Interacting Hand Mesh Recovery From a Single RGB Image, [[Paper]](https://arxiv.org/pdf/2504.14618.pdf)
 - (arXiv 2025.07) MeshMamba: State Space Models for Articulated 3D Mesh Generation and Reconstruction, [[Paper]](https://arxiv.org/pdf/2507.15212.pdf)
 
