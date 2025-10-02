@@ -271,6 +271,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2402.00789.pdf),[[Code]](https://github.com/bowang-lab/Graph-Mamba)
 - (arXiv 2024.02) Graph Mamba: Towards Learning on Graphs with State Space Models, [[Paper]](https://arxiv.org/pdf/2402.08678.pdf),[[Code]](https://github.com/GraphMamba/GMN)
 - (arXiv 2024.03) DynSTG-Mamba: Dynamic Spatio-Temporal Graph Mamba with Cross-Graph Knowledge Distillation for Gait Disorders Recognition, [[Paper]](https://arxiv.org/pdf/2503.13156.pdf)
+- (arXiv 2025.09) Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba, [[Paper]](https://arxiv.org/pdf/2509.24020.pdf)
 
 ### Hyperspectral
 - (arXiv 2024.04) HSIMamba: Hyperspectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
