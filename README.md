@@ -626,6 +626,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.02633.pdf)
 - (arXiv 2025.06) M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.07814.pdf)
 - (arXiv 2025.06) EAMamba: Efficient All-Around Vision State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.22246.pdf),[[Code]](https://github.com/daidaijr/EAMamba)
+- (arXiv 2025.09) VAMamba: An Efficient Visual Adaptive Mamba for Image Restoration, [[Paper]](https://arxiv.org/pdf/2509.23601.pdf),[[Code]](https://github.com/WaterHQH/VAMamba)
 
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
@@ -719,6 +720,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.08) Trajectory-aware Shifted State Space Models for Online Video Super-Resolution, [[Paper]](https://arxiv.org/pdf/2508.10453.pdf)
 - (arXiv 2025.09) First-order State Space Model for Lightweight Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2509.08458.pdf)
 - (arXiv 2025.09) Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution, [[Paper]](https://arxiv.org/pdf/2509.04824.pdf)
+- (arXiv 2025.09) Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model, [[Paper]](https://arxiv.org/pdf/2510.00862.pdf),[[Code]](https://github.com/Ko-Lani/GSMamba)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
