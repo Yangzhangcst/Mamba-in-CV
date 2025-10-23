@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/10/20
+**Last updated: 2025/10/23
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -740,14 +740,14 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) S3MOT: Monocular 3D Object Tracking with Selective State Space Model, [[Paper]](https://arxiv.org/pdf/2504.18068.pdf),[[Code]](https://github.com/bytepioneerX/s3mot)  
 - (arXiv 2025.05) SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking, [[Paper]](https://arxiv.org/pdf/2505.04088.pdf) 
 - (arXiv 2025.06) SportMamba: Adaptive Non-Linear Multi-Object Tracking with State Space Models for Team Sports, [[Paper]](https://arxiv.org/pdf/2506.03335.pdf) 
-- (arXiv 2025.06) Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2506.23783.pdf),[[Code]](https://github.com/Event-AHU/Mamba_FETrack)  
+- (arXiv 2025.06) Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking, [[Paper]](https://arxiv.org/pdf/2510.17860.pdf)
 
 ### TTA
 - (arXiv 2024.07) Test-Time Adaptation with State-Space Models, [[Paper]](https://arxiv.org/pdf/2407.12492.pdf)
 
 ### UAV
 - (arXiv 2025.09) DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion, [[Paper]](https://arxiv.org/pdf/2509.07327.pdf)
-
+- (arXiv 2025.10) DMTrack: Deformable State-Space Modeling for UAV Multi-Object Tracking with Kalman Fusion and Uncertainty-Aware Association, [[Paper]](https://arxiv.org/pdf/2509.07327.pdf)
 
 ### Video
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
