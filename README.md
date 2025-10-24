@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/10/23
+**Last updated: 2025/10/24
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -465,6 +465,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology, [[Paper]](https://arxiv.org/pdf/2509.21239)
 - (arXiv 2025.09) MSD-KMamba: Bidirectional Spatial-Aware Multi-Modal 3D Brain Segmentation via Multi-scale Self-Distilled Fusion Strategy, [[Paper]](https://arxiv.org/pdf/2509.23677),[[Code]](https://github.com/daimao-zhang/MSD-KMamba)
 - (arXiv 2025.10) Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding, [[Paper]](https://arxiv.org/pdf/2510.15371),[[Code]](https://cortical-ssm-u90sg.kinsta.page/)
+- (arXiv 2025.10) t-Mamba3D: A Time-Aware Spatio-Temporal State-Space Model for Breast Cancer Risk Prediction, [[Paper]](https://arxiv.org/pdf/2510.19003)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
