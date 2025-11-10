@@ -4,7 +4,7 @@ Mamba-in-Vision[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 
 A paper list of some recent Mamba-based CV works. If you find some ignored papers, please open issues or pull requests.
 
-**Last updated: 2025/10/24
+**Last updated: 2025/11/10
 
 ## Mamba
 - (arXiv 2023.12) Mamba: Linear-Time Sequence Modeling with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2312.00752.pdf), [[Code]](https://github.com/state-spaces/mamba)
@@ -30,6 +30,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.01) MS-Temba: Multi-Scale Temporal Mamba for Efficient Temporal Action Detection, [[Paper]](https://arxiv.org/pdf/2501.06138.pdf), [[Code]](https://github.com/thearkaprava/MS-Temba)
 - (arXiv 2025.01) MV-GMN: State Space Model for Multi-View Action Recognition, [[Paper]](https://arxiv.org/pdf/2501.13829)
 - (arXiv 2025.04) RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model, [[Paper]](https://arxiv.org/pdf/2504.12039), [[Code]](https://github.com/lab-emi/AIRHAR)
+- (arXiv 2025.10) RefAtomNet++: Advancing Referring Atomic Video Action Recognition using Semantic Retrieval based Multi-Trajectory Mamba, [[Paper]](https://arxiv.org/pdf/2510.16444), [[Code]](https://github.com/KPeng9510/refAVA2)
 
 ### Adversarial Attack
 - (arXiv 2024.03) Understanding Robustness of Visual State Space Models for Image Classification, [[Paper]](https://arxiv.org/pdf/2403.10935.pdf)
@@ -466,6 +467,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) MSD-KMamba: Bidirectional Spatial-Aware Multi-Modal 3D Brain Segmentation via Multi-scale Self-Distilled Fusion Strategy, [[Paper]](https://arxiv.org/pdf/2509.23677),[[Code]](https://github.com/daimao-zhang/MSD-KMamba)
 - (arXiv 2025.10) Cortical-SSM: A Deep State Space Model for EEG and ECoG Motor Imagery Decoding, [[Paper]](https://arxiv.org/pdf/2510.15371),[[Code]](https://cortical-ssm-u90sg.kinsta.page/)
 - (arXiv 2025.10) t-Mamba3D: A Time-Aware Spatio-Temporal State-Space Model for Breast Cancer Risk Prediction, [[Paper]](https://arxiv.org/pdf/2510.19003)
+- (arXiv 2025.11) EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation, [[Paper]](https://arxiv.org/pdf/2510.16776),[[Code]](https://github.com/Event-AHU/Medical_Image_Analysis)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -629,7 +631,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.07814.pdf)
 - (arXiv 2025.06) EAMamba: Efficient All-Around Vision State Space Model for Image Restoration, [[Paper]](https://arxiv.org/pdf/2506.22246.pdf),[[Code]](https://github.com/daidaijr/EAMamba)
 - (arXiv 2025.09) VAMamba: An Efficient Visual Adaptive Mamba for Image Restoration, [[Paper]](https://arxiv.org/pdf/2509.23601.pdf),[[Code]](https://github.com/WaterHQH/VAMamba)
-
+- (arXiv 2025.11) WaMaIR: Image Restoration via Multiscale Wavelet Convolutions and Mamba-based Channel Modeling with Texture Enhancement, [[Paper]](https://arxiv.org/pdf/2510.16765.pdf)
+  
 ### Retrieval
 - (arXiv 2024.08) MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval, [[Paper]](https://arxiv.org/pdf/2408.10575.pdf),[[Code]](https://github.com/hrtang22/MUSE)
 - (arXiv 2025.06) MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval, [[Paper]](https://arxiv.org/pdf/2506.03473.pdf),[[Code]](https://github.com/Vision-Multimodal-Lab-HZCU/MamFusion)
