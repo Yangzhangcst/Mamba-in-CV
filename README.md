@@ -63,6 +63,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.07) MambaMap: Online Vectorized HD Map Construction using State Space Model, [[Paper]](https://arxiv.org/pdf/2507.20224.pdf), [[Code]](https://github.com/ZiziAmy/MambaMap)
 - (arXiv 2025.07) MamV2XCalib: V2X-based Target-less Infrastructure Camera Calibration with State Space Model, [[Paper]](https://arxiv.org/pdf/2507.23595.pdf), [[Code]](https://github.com/zhuyaoye/MamV2XCalib)
 - (arXiv 2025.09) PRISM: Progressive Rain removal with Integrated State-space Modeling, [[Paper]](https://arxiv.org/pdf/2509.26413.pdf)
+
 ### Camouflaged
 - (arXiv 2025.07) Mamba-based Efficient Spatio-Frequency Motion Perception for Video Camouflaged Object Detection, [[Paper]](https://arxiv.org/pdf/2507.23601.pdf)
 
@@ -295,6 +296,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.04) MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2504.20509.pdf)
 - (arXiv 2025.08) PIF-Net: Ill-Posed Prior Guided Multispectral and Hyperspectral Image Fusion via Invertible Mamba and Fusion-Aware LoRA, [[Paper]](https://arxiv.org/pdf/2508.00453.pdf)
 - (arXiv 2025.09) Hyperspectral Mamba for Hyperspectral Object Tracking, [[Paper]](https://arxiv.org/pdf/2509.08265.pdf),[[Code]](https://github.com/lgao001/HyMamba)
+- (arXiv 2026.03) VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2603.01174.pdf)
 
 ### Inpainting
 - (arXiv 2024.07) MxT: Mamba x Transformer for Image Inpainting, [[Paper]](https://arxiv.org/pdf/2407.16126.pdf)
@@ -667,6 +669,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) ECMNet:Lightweight Semantic Segmentation with Efficient CNN-Mamba Network, [[Paper]](https://arxiv.org/pdf/2506.08629.pdf),[[Code]](https://github.com/devinxzhang/MFuser)
 - (arXiv 2025.07) HybridTM: Combining Transformer and Mamba for 3D Semantic Segmentation, [[Paper]](https://arxiv.org/pdf/2507.18575.pdf),[[Code]](https://github.com/deepinact/HybridTM)
 - (arXiv 2025.07) LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks, [[Paper]](https://arxiv.org/pdf/2507.22477.pdf),[[Code]](https://github.com/Karl1109/LIDAR-Mamba)
+- (arXiv 2026.03) MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention, [[Paper]](https://arxiv.org/pdf/2603.01361.pdf),[[Code]](https://github.com/spiderforest/MixerCSeg)
 
 ### Shadow
 - (arXiv 2024.11) ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal, [[Paper]](https://arxiv.org/pdf/2411.03260.pdf)
@@ -774,6 +777,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.06) MLVTG: Mamba-Based Feature Alignment and LLM-Driven Purification for Multi-Modal Video Temporal Grounding, [[Paper]](https://arxiv.org/pdf/2506.08512.pdf)
 - (arXiv 2025.06) MoMa: Modulating Mamba for Adapting Image Foundation Models to Video Recognition, [[Paper]](https://arxiv.org/pdf/2508.08974.pdf),[[Code]](https://github.com/Elman295/TCSSM)
 
+### VLA
+- (arXiv 2026.03) TacMamba: A Tactile History Compression Adapter Bridging Fast Reflexes and Slow VLA Reasoning, [[Paper]](https://arxiv.org/pdf/2603.01700.pdf)
+  
 ### VQA
 - (arXiv 2025.08) Text-conditioned State Space Model For Domain-generalized Change Detection Visual Question Answering, [[Paper]](https://arxiv.org/pdf/2506.23283.pdf)
 
