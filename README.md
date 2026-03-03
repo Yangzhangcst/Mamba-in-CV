@@ -474,6 +474,8 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.10) EMRRG: Efficient Fine-Tuning Pre-trained X-ray Mamba Networks for Radiology Report Generation, [[Paper]](https://arxiv.org/pdf/2510.16776),[[Code]](https://github.com/Event-AHU/Medical_Image_Analysis)
 - (arXiv 2025.10) MambaX-Net: Dual-Input Mamba-Enhanced Cross-Attention Network for Longitudinal MRI Segmentation, [[Paper]](https://arxiv.org/pdf/2510.17529)
 - (arXiv 2025.10) CausalMamba: Scalable Conditional State Space Models for Neural Causal Inference, [[Paper]](https://arxiv.org/pdf/2510.17318)
+- (arXiv 2026.02) BiM-GeoAttn-Net: Linear-Time Depth Modeling with Geometry-Aware Attention for 3D Aortic Dissection CTA Segmentation, [[Paper]](https://arxiv.org/pdf/2602.23803)
+- (arXiv 2026.02) SpectralMamba-UNet: Frequency-Disentangled State Space Modeling for Texture-Structure Consistent Medical Image Segmentation, [[Paper]](https://arxiv.org/pdf/2602.23103)
 
 ### Mesh
 - (arXiv 2024.05) HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images,[[Paper]](https://arxiv.org/pdf/2405.01066.pdf)
@@ -761,6 +763,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### UAV
 - (arXiv 2025.09) DEPF: A UAV Multispectral Object Detector with Dual-Domain Enhancement and Priority-Guided Mamba Fusion, [[Paper]](https://arxiv.org/pdf/2509.07327.pdf)
 - (arXiv 2025.10) DMTrack: Deformable State-Space Modeling for UAV Multi-Object Tracking with Kalman Fusion and Uncertainty-Aware Association, [[Paper]](https://arxiv.org/pdf/2509.07327.pdf)
+
+### Underwater
+- (arXiv 2026.02) SPMamba-YOLO: An Underwater Object Detection Network Based on Multi-Scale Feature Enhancement and Global Context Modeling, [[Paper]](https://arxiv.org/pdf/2509.07327.pdf)
 
 ### Video
 - (arXiv 2024.03) VideoMamba: State Space Model for Efficient Video Understanding, [[Paper]](https://arxiv.org/pdf/2403.06977.pdf),[[Code]](https://github.com/OpenGVLab/VideoMamba)
