@@ -123,6 +123,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Completion
 - (arXiv 2025.01) Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion, [[Paper]](https://arxiv.org/pdf/2501.07260.pdf),[[Code]](https://github.com/xrkong/skimba)
 - (arXiv 2025.03) Global-Aware Monocular Semantic Scene Completion with State Space Models, [[Paper]](https://arxiv.org/pdf/2503.06569.pdf)
+- (arXiv 2026.03) PPC-MT: Parallel Point Cloud Completion with Mamba-Transformer Hybrid Architecture, [[Paper]](https://arxiv.org/pdf/2603.00870.pdf)
 
 ### Compression
 - (arXiv 2024.05) MambaVC: Learned Visual Compression with Selective State Spaces, [[Paper]](https://arxiv.org/pdf/2405.15413.pdf)
@@ -265,6 +266,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.06) MVGamba: Unify 3D Content Generation as State Space Sequence Modeling, [[Paper]](https://arxiv.org/pdf/2406.06367)
 - (arXiv 2024.08) Scalable Autoregressive Image Generation with Mamba, [[Paper]](https://arxiv.org/pdf/2408.12245),[[Code]](https://github.com/hp-l33/AiM)
 - (arXiv 2025.02) Pushing the Boundaries of State Space Models for Image and Video Generation, [[Paper]](https://arxiv.org/pdf/2502.00972),[[Code]](https://yiconghong.me/HTH/)
+- (arXiv 2026.03) Mamba-CAD: State Space Model For 3D Computer-Aided Design Generative Modeling, [[Paper]](https://arxiv.org/pdf/2603.00439),[[Code]](https://github.com/Sunny-Hack/Code-for-Mamba-CAD-AAAI-2025-)
 
 ### Gesture
 - (arXiv 2024.03) MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models, [[Paper]](https://arxiv.org/pdf/2403.09471.pdf) 
@@ -573,6 +575,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf), [[Code]](https://github.com/SkyworkAI/Gamba)
 - (arXiv 2024.05) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images, [[Paper]](https://arxiv.org/pdf/2405.07777.pdf),[[Code]](https://github.com/wxy11-27/GMSR)
 - (arXiv 2024.11) M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.12635),[[Code]](https://github.com/AnnnnnieZhang/M3D)
+- (arXiv 2026.03) VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba, [[Paper]](https://arxiv.org/pdf/2603.00887),[[Code]](https://github.com/I2-Multimedia-Lab/VEMamba)
 
 ### Referring
 - (arXiv 2024.03) ReMamber: Referring Image Segmentation with Mamba Twister, [[Paper]](https://arxiv.org/pdf/2403.17839.pdf)
@@ -731,6 +734,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2025.09) First-order State Space Model for Lightweight Image Super-resolution, [[Paper]](https://arxiv.org/pdf/2509.08458.pdf)
 - (arXiv 2025.09) Exploring Non-Local Spatial-Angular Correlations with a Hybrid Mamba-Transformer Framework for Light Field Super-Resolution, [[Paper]](https://arxiv.org/pdf/2509.04824.pdf)
 - (arXiv 2025.09) Gather-Scatter Mamba: Accelerating Propagation with Efficient State Space Model, [[Paper]](https://arxiv.org/pdf/2510.00862.pdf),[[Code]](https://github.com/Ko-Lani/GSMamba)
+- (arXiv 2026.03) DACESR: Degradation-Aware Conditional Embedding for Real-World Image Super-Resolution, [[Paper]](https://arxiv.org/pdf/2602.23890.pdf),[[Code]](https://github.com/nathan66666/DACESR)
 
 ### T2V
 - (arXiv 2025.06) M4V: Multi-Modal Mamba for Text-to-Video Generation, [[Paper]](https://arxiv.org/pdf/2506.10915.pdf),[[Code]](https://github.com/huangjch526/M4V)
