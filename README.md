@@ -277,6 +277,9 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 - (arXiv 2024.03) DynSTG-Mamba: Dynamic Spatio-Temporal Graph Mamba with Cross-Graph Knowledge Distillation for Gait Disorders Recognition, [[Paper]](https://arxiv.org/pdf/2503.13156.pdf)
 - (arXiv 2025.09) Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba, [[Paper]](https://arxiv.org/pdf/2509.24020.pdf)
 
+### Graphics
+- (arXiv 2026.05) Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation, [[Paper]](https://arxiv.org/abs/2605.25220) , [[Code]](https://humansensinglab.github.io/MVCHead/)
+
 ### Hyperspectral
 - (arXiv 2024.04) HSIMamba: Hyperspectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification, [[Paper]](https://arxiv.org/pdf/2404.00272.pdf)
 - (arXiv 2024.04) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification, [[Paper]](https://arxiv.org/pdf/2404.08489.pdf),[[Code]](https://github.com/danfenghong/SpectralMamba)
@@ -576,6 +579,7 @@ A paper list of some recent Mamba-based CV works. If you find some ignored paper
 ### Reconstruction
 - (arXiv 2024.03) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [[Paper]](https://arxiv.org/pdf/2403.18795.pdf), [[Code]](https://github.com/SkyworkAI/Gamba)
 - (arXiv 2024.05) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images, [[Paper]](https://arxiv.org/pdf/2405.07777.pdf),[[Code]](https://github.com/wxy11-27/GMSR)
+- (arXiv 2024.07) Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba, [[Paper]](https://arxiv.org/abs/2407.09646), [[Code]](https://humansensinglab.github.io/Hamba/)
 - (arXiv 2024.11) M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction, [[Paper]](https://arxiv.org/pdf/2411.12635),[[Code]](https://github.com/AnnnnnieZhang/M3D)
 - (arXiv 2026.03) VEMamba: Efficient Isotropic Reconstruction of Volume Electron Microscopy with Axial-Lateral Consistent Mamba, [[Paper]](https://arxiv.org/pdf/2603.00887),[[Code]](https://github.com/I2-Multimedia-Lab/VEMamba)
 
